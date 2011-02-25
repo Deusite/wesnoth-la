@@ -13,26 +13,25 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.2\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-01-08 13:43+0100\n"
-"PO-Revision-Date: 2010-04-15 03:53+0100\n"
+"PO-Revision-Date: 2011-02-25 07:57+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: none\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Bookmarks: 111,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:40
-#, fuzzy
 msgid ""
 "\n"
 "<big>Click a mouse button or press the spacebar to continue...</big>"
 msgstr ""
 "\n"
-"<big>Tange signum muris aut signum spatii ut procedis...</big>"
+"<big>Tange globulum muris aut signum spatii ut procedis...</big>"
 
 #. [tutorial]: id=tutorial
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:49
-#, fuzzy
 msgid "Wesnoth Tutorial Part I"
 msgstr "Rudimentum Vesnotei II"
 
@@ -68,7 +67,7 @@ msgstr ""
 "Motuum\n"
 "Impetuum\n"
 "Medicinae\n"
-"Adlegentis"
+"Adlegendum"
 
 #. [objective]: condition=win
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:155
@@ -98,27 +97,28 @@ msgstr "Lisaris"
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:210
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:216
-#, fuzzy
 msgid "Welcome to Wesnoth!"
-msgstr "<big>Salve pro Vesnote!</big>"
+msgstr "A Vesnote, Salve!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:212
-#, fuzzy
 msgid ""
 "For this tutorial, you are playing Konrad.\n"
 "You are standing in the keep, and your mentor Delfador is on the east side "
 "of the river."
-msgstr "In arce stas et Delfador doctor tuus in ortu fluminis est."
+msgstr ""
+"Causa rudimenti Conradus es.\n"
+"In arce stas et Delfador doctor tuus in ortu fluminis est."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:218
-#, fuzzy
 msgid ""
 "For this tutorial, you are playing Li’sar.\n"
 "You are standing in the keep, and your mentor Delfador is on the east side "
 "of the river."
-msgstr "In arce stas et Delfador doctor tuus in ortu fluminis est."
+msgstr ""
+"Causa rudimenti Lisaris es.\n"
+"In arce stas et Delfador doctor tuus in ortu fluminis est."
 
 #. [event]
 #. [event]: id=student moves 0}
@@ -159,42 +159,37 @@ msgstr ""
 #. [event]
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:254
 msgid "Here"
-msgstr ""
+msgstr "Hic"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:260
-#, fuzzy
 msgid ""
 "Move Konrad next to Delfador by clicking on the tile marked <b>Here</b>."
-msgstr "Move Conradum pro Delfadore per spatium 'HIC' notatum tangitur. "
+msgstr "Tange spatium <b>Hic</b> notatum ut Conradum pro Delfadore moveas. "
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:264
-#, fuzzy
 msgid ""
 "Move Li’sar next to Delfador by clicking on the tile marked <b>Here</b>."
-msgstr "Move Lisarem pro Delfadore per spatium 'HIC' notatum tangitur"
+msgstr "Tange spatium <b>Hic</b> notatum ut Lisarem pro Delfadore moveas."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:269
-#, fuzzy
 msgid "Left click on tile labeled <b>Here</b>"
-msgstr "Tange laeve in spatio HIC signato"
+msgstr "Tange laeve in spatio <b>Hic</b> signato"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:294
 msgid "Oops!"
-msgstr ""
+msgstr "Heu!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:296
-#, fuzzy
 msgid ""
 "You moved to the wrong place! After this message, you can press <b>u</b> to "
 "undo, then try again."
 msgstr ""
-"<big>Au!</big>\n"
-"Ad locum improprium movisti! Post hanc nuntium, 'u' tangere ad retexendum "
+"Ad locum improprium movisti! Post hunc nuntium, <b>u</b> tangere ad adeundum "
 "potes, et tunc rursus conari."
 
 #. [message]: id=student
@@ -231,56 +226,52 @@ msgstr "... formam hanc militis!"
 
 #. [message]: id=student
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:366
-#, fuzzy
 msgid "A quintain? You want me to fight a dummy?"
-msgstr "Formamne militis? Visne me pupam pugnare simulare?"
+msgstr "Formamne militis? Visne me pupam pugnare?"
 
 #. [message]: id=Delfador
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:373
-#, fuzzy
 msgid "You have 32 hitpoints and a sword, boy. I’m fairly sure you’ll win."
 msgstr ""
-"Adulescens, tibi est triginta duo puncta salutis gladiusque. Pro certo habeo "
-"te vincere."
+"Tibi est triginta duo puncta salutis et gladius, puer. Pro certo habeo te "
+"vincere."
 
 #. [message]: id=Delfador
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:378
-#, fuzzy
 msgid ""
 "female^Young lady, you have 32 hitpoints and a sword. I’m fairly sure you’ll "
 "win."
 msgstr ""
-"Adulescens, tibi est triginta duo puncta salutis gladiusque. Pro certo habeo "
+"Adulescens, tibi est triginta duo puncta salutis et gladius. Pro certo habeo "
 "te vincere."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:386
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:392
 msgid "Attacking"
-msgstr ""
+msgstr "Pugnandum"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:388
-#, fuzzy
 msgid ""
 "To attack the quintain, first select the attacker (Konrad) then the target "
 "(the quintain). You will see an attack description. When you click <b>OK</"
 "b>, Konrad will attack."
 msgstr ""
 "Elige primo pugnatorem (Conradus), tunc destinatum (forma militis) ad "
-"pugnandum. Descriptio impetus videbis. Cum 'confirmare' tangas Conradus "
-"pugnat."
+"pugnandum. Descriptio impetus videbis. Cum <b>confirmare</b> tetigeris "
+"Conradus pugnabit."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:393
-#, fuzzy
 msgid ""
 "To attack the quintain, first select the attacker (Li’sar) then the target "
 "(the quintain). You will see an attack description. When you click <b>OK</"
 "b>, Li’sar will attack."
 msgstr ""
 "Elige primo pugnatorem (Lisaris), tunc destinatum (forma militis). "
-"Descriptio impetus videbis. Cum 'confirmare' tangas Lisaris pugnat. "
+"Descriptio impetus videbis. Cum <b>confirmare</b> tetigeris Lisaris "
+"pugnabit. "
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:404
@@ -294,9 +285,8 @@ msgstr "Hem! Forma illa militis obsistit!"
 
 #. [message]: id=Delfador
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:444
-#, fuzzy
 msgid "Hmm, perhaps we should have started with a doll."
-msgstr "Mmm, fortasse pupa inceperimus."
+msgstr "Mmm, fortasse cum pupa incepere debemus."
 
 #. [message]: id=student
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:448
@@ -312,53 +302,48 @@ msgstr "Bene putas!"
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:457
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:461
 msgid "Crowns"
-msgstr ""
+msgstr "Coronae"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:458
-#, fuzzy
 msgid ""
 "Note: The tiny metal crown above Delfador means you will lose the game if he "
 "is killed. You will also lose the game if your leader (Konrad) is killed."
 msgstr ""
-"Nota bene: corona caerulea parvola super Delfadorem designat ludum amissum "
-"ibitur si occiditur. Ludum quoque amittes si ducem Conradum occiditur."
+"Nota bene: corona caerulea parvola super Delfadorem designat ludum amiseris "
+"si occidetur. Ludum quoque amiseris si dux (Conradus) occeditur."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:462
-#, fuzzy
 msgid ""
 "Note: The tiny metal crown above Delfador means you will lose the game if he "
 "is killed. You will also lose the game if your leader (Li’sar) is killed."
 msgstr ""
-"Nota bene: corona caerulea parvola super Delfadorem designat ludum amissum "
-"ibitur si occiditur. Ludum quoque amittes si ducem Lisarem occiditur."
+"Nota bene: corona caerulea parvola super Delfadorem designat ludum amiseris "
+"si occeditur. Ludum quoque amiseris si dux (Lisaris) occidetur."
 
 #. [message]: id=Delfador
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:474
-#, fuzzy
 msgid ""
 "Unfortunately, you’ve used up your turn attacking the quintain. The quintain "
 "now gets to attack."
 msgstr ""
-"Vicem infeliciter consumpsisti per formam militis pugnatur. Id vicem nunc "
+"Vicem infeliciter consumpsisti formam militis pugnando. Id vicem nunc "
 "adipisceris."
 
 #. [message]: id=Delfador
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:479
-#, fuzzy
 msgid ""
 "female^Unfortunately, you’ve used up your turn attacking the quintain. The "
 "quintain now gets to attack."
 msgstr ""
-"Vicem infeliciter consumpsisti per formam militis pugnatur. Id vicem nunc "
+"Vicem infeliciter consumpsisti formam militis pugnando. Id vicem nunc "
 "adipisceris."
 
 #. [message]: id=student
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:485
-#, fuzzy
 msgid "The <i>dummy</i> gets a turn?"
-msgstr "PUPANE vicem adipiscitur?"
+msgstr "<i>Pupane</i> vicem adipiscitur?"
 
 #. [message]: id=Delfador
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:491
@@ -375,9 +360,8 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:494
-#, fuzzy
 msgid "Click on the <b>End Turn</b> button in the bottom right of the screen"
-msgstr "Tange 'Vicem Finire' signum in solo dextro"
+msgstr "Tange <b>Vicem Finire</b> globulum in solo dextro"
 
 #. [message]: id=student
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:515
@@ -421,13 +405,11 @@ msgstr "Tange viculum ut Lisarem moveas"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:559
-#, fuzzy
 msgid "Villages"
-msgstr "Viculus"
+msgstr "Viculi"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:561
-#, fuzzy
 msgid ""
 "You have captured a village! It now flies your flag and has been added to "
 "your total village count. (The house icon at the top of the screen shows how "
@@ -435,9 +417,10 @@ msgid ""
 "recruit units. Each turn, you gain two gold plus one for every village you "
 "own."
 msgstr ""
-"Cepisti viculum! Iam vexillum tuum proponit et additus numero viculorum est "
-"super fenestram (imago domui). Viculi aura comparant ut actores adlegantur. "
-"Vicis quaeque, duos aura adipisceris at unum pro viculo quoque te tenere."
+"Cepisti viculum! Iam vexillum tuum proponit et numero viculorum additus est. "
+"(imago domui super fenestram designat quot viculos habes). Viculi aura "
+"comparant ut actores adlegantur. Vicis quaeque, duos aura adipisceris et "
+"unum pro viculo quoque te tenere."
 
 #. [event]
 #. [then]
@@ -447,29 +430,26 @@ msgstr ""
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:730
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:870
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:922
-#, fuzzy
 msgid "Click on the <b>End Turn</b> button"
-msgstr "Tange 'Vicem Finire' signum"
+msgstr "Tange <b>Vicem Finire</b> globulum"
 
 #. [message]: id=Delfador
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:601
-#, fuzzy
 msgid ""
 "You’re about to be healed by $hp_difference hitpoints, but it’s time to "
 "summon some help against that quintain."
 msgstr ""
-"Curandus es cum $hp_difference punctis salutis, sed puto te auxilium "
-"requirere contra illam formam militis."
+"Curandus es cum $hp_difference punctis salutis, sed nunc ad auxilium "
+"arcessendum contra illam formam militis."
 
 #. [message]: id=Delfador
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:606
-#, fuzzy
 msgid ""
 "female^You’re about to be healed by $hp_difference hitpoints, but it’s time "
 "to summon some help against that quintain."
 msgstr ""
-"Curanda es cum $hp_difference punctis salutis, sed puto te auxilium "
-"requirere contra illam formam militis."
+"Curanda es cum $hp_difference punctis salutis, sed nunc ad auxilium "
+"arcessendum contra illam formam militis."
 
 #. [message]: id=student
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:612
@@ -514,53 +494,48 @@ msgstr "Move Lisarem ad arcem"
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:648
 msgid "Recruiting"
-msgstr ""
+msgstr "Adlegendum"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:650
-#, fuzzy
 msgid ""
 "Whenever you’re on a <i>keep</i>, you can <i>recruit</i> into the castle "
 "tiles around it by right-clicking and selecting <b>Recruit</b>. This time "
 "you will only be given one type of unit to choose: the Elvish Fighter."
 msgstr ""
-"Quandoque in arce es, circa id in spatia castelli adlegere per dextra tangi "
-"et 'Adlegere' eligi potes. Pro hac vice tibi tantum unum modum actorum "
-"eligendi dabor: Pugnatorem Dryadalum."
+"Quandoque in <i>arce</i> es, circa id in spatia castelli adlegere dextra "
+"tangendo et <b>Adlegere</b> eligendo. Nunc tantum unum modum actorum ad "
+"eligendum daberis: Pugnatorem Dryadalium."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:654
-#, fuzzy
 msgid "Right click on a castle tile and select <b>Recruit</b>"
-msgstr "Tange dextra in spatio castelli uno et elige 'Adlegere'"
+msgstr "Tange dextra in spatio castelli et elige <b>Adlegere</b>"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:688
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:721
 msgid "New Recruits"
-msgstr ""
+msgstr "Novae Copiae"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:691
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:724
-#, fuzzy
 msgid ""
 "New units cannot act in the turn they appear; you will gain control of them "
 "next turn.\n"
 "After this dialog, you can move the mouse over a unit to see a summary of "
 "its abilities on the right of the screen."
 msgstr ""
-"Hi actores novicii nihil in hac vice agere possunt; in vice secundo se "
-"reges.\n"
-"Nota bene: Post hoc colloquium, murem super actorem movere ut descriptio in "
-"dextro fenestrae videas potes."
+"Actores novi nihil in eodem vice agere possunt; in vice secundo se reges.\n"
+"Post hoc colloquium, murem super actorem movere potes ut descriptio in "
+"dextro fenestrae videas."
 
 #. [else]
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:702
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:735
-#, fuzzy
 msgid "Right click on the other castle tile and recruit another unit"
-msgstr "Tange dextra in spatio castelli alterius et adlege actorem alterum"
+msgstr "Tange dextra in spatio castelli alterio et adlege actorem alterum"
 
 #. [message]: id=student
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:757
@@ -571,9 +546,8 @@ msgstr ""
 
 #. [message]: id=Delfador
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:761
-#, fuzzy
 msgid "Yes, if a unit doesn’t do anything for a turn, it will slowly heal."
-msgstr "Ita, si actor nihil pro vice uno aget, lente curabit."
+msgstr "Ita, si actor nihil pro vice egerit, lente curabit."
 
 #. [message]: id=Delfador
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:767
@@ -628,37 +602,36 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:822
-#, fuzzy
 msgid "Left click on the quintain to attack it."
-msgstr "Tange laeve Formam Militis ut pugnes."
+msgstr "Tange laeve formam militis ut pugnes."
 
 #. [message]: id=Delfador
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:859
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:866
 msgid " The ranged attack would have been safer."
-msgstr ""
+msgstr " Impetus missilis tutius erat."
 
 #. [message]: id=Delfador
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:859
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:866
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:878
-#, fuzzy
 msgid ""
 "Your elf used a sword (5–4; or 5 damage, 4 attacks), which is a <i>melee</i> "
 "attack. The quintain defended with its melee attack (3–5)."
 msgstr ""
 "Dryadalis tuus gladium usus est (V-IV; vel V damna, IV impetus), qui "
-"conflictio est. Forma militis defensit cum impetu conflictionis (III-V). "
-"Impetus missile tutius fuerit."
+"<i>conflictio</i> est. Forma militis defensit cum impetu conflictionis (III-"
+"V)."
 
 #. [message]: id=Delfador
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:867
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:919
-#, fuzzy
 msgid ""
 "\n"
 "End your turn, then attack again."
-msgstr "Fini vicem, tunc rursus oppugnare."
+msgstr ""
+"\n"
+"Fini vicem, tunc rursus pugnare."
 
 #. [message]: id=Delfador
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:879
@@ -670,7 +643,6 @@ msgstr ""
 #. [else]
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:882
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:931
-#, fuzzy
 msgid "Attack with the other elf"
 msgstr "Pugna cum dryadale altero"
 
@@ -678,15 +650,14 @@ msgstr "Pugna cum dryadale altero"
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:911
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:918
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:929
-#, fuzzy
 msgid ""
 "Your elf used a bow, which is a <i>ranged</i> attack (3–3; or 3 damage, 3 "
 "attacks). The quintain has no ranged attack, only a melee attack, so it "
 "could not defend itself."
 msgstr ""
 "Dryadalis tuus arcum usus est (III-III; aut III damna, III impetus), qui "
-"missile est. Forma militis sibi non impetus missile est, modo conflictio, "
-"sic se defendere non potuit."
+"<i>missile</i> est. Forma militis sibi non impetus missilis est, modo "
+"conflictio, sic se defendere non potuit."
 
 #. [message]: id=Delfador
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:950
@@ -701,59 +672,53 @@ msgstr "Aliumne dryadalem fortasse adlegas?"
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:968
 msgid "Unit Descriptions"
-msgstr ""
+msgstr "Descriptiones Actorum"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:970
-#, fuzzy
 msgid ""
 "You can right click on a unit to see a detailed <b>Unit Description</b>."
 msgstr ""
-"Nota bene:\n"
-"Dextra tangere in actore potes ut descriptionem magnam videas. "
+"Dextra tangere in actore potes ut magnam <b>Descriptionem Actoris</b> "
+"videas. "
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:991
 msgid "Protect Your Troops"
-msgstr ""
+msgstr "Defende Copias"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:993
-#, fuzzy
 msgid ""
 "Remember to pull back wounded units into villages and recruit more if "
 "needed. Take special care of units with the highest <i>experience points (XP)"
 "</i> so they can gain levels and become more powerful."
 msgstr ""
-"Nota bene:\n"
 "Memora actores vulneratos in viculos retrahere et plures si egeantur "
-"adlegere. Praecave actoribus cum plurimis punctorum usus (PU), ut provectus "
-"honestiorum sibi sint!"
+"adlegere. Praecave actoribus cum plurimis punctis usus (PU), ut ordines "
+"adipiscatur et potentior sit!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1010
 msgid "Support"
-msgstr ""
+msgstr "Auxilium"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1012
-#, fuzzy
 msgid ""
 "Each village you control will <i>support</i> one unit for free. After that, "
 "each unit costs you one gold per turn."
 msgstr ""
-"Nota bene:\n"
-"Quisque viculus tentus unum actorem sine pretium sustinere possunt, post "
-"quos, quisque actor tibi unum aurorum invicem sumptui erit.  "
+"Quisque viculus tentus actorem sine pretium <i>sustinebit</i>, postquam, "
+"quisque actor tibi unum aurorum invicem sumptui erit.  "
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1027
 msgid "Advancement"
-msgstr ""
+msgstr "Producendum"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1029
-#, fuzzy
 msgid ""
 "When a unit gains enough experience points (the <i>experience bar</i>, if "
 "present, is on the <b>right</b> of the <i>hitpoints bar</i>), it will go up "
@@ -761,21 +726,19 @@ msgid ""
 "to choose which one you want. However, second level units cost twice as much "
 "to support as first level units."
 msgstr ""
-"Nota bene:\n"
-"Cum actor satis usus adipiscitur (regula usus regula minor dextra est), "
-"quantum ordinem unum augebit. Pugnatores Dryadalum duae optiones est sibi et "
-"tibi occasio erit eligere, quod vis. Nota actores ordinis secundorum tibi "
-"dimidio pretiosiores quam ordinis primorum sustinere sumptui sunt.  "
+"Cum actor satis usus adipiscitur (<i>regula usus</i>, si adest, a <i>regula "
+"punctorum salutis</i> dextra est), ordine augebit. Pugnatoribus Dryadalibus "
+"duae optiones producendi sunt et occasionem habebis eligendi quod vis. Tamen "
+"actores ordinis secundorum tibi dimidio pretiosiores quam primorum sustinere "
+"sumptui sunt.  "
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1044
-#, fuzzy
 msgid "Defenses"
-msgstr "Defende hic"
+msgstr "Defensiones"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1047
-#, fuzzy
 msgid ""
 "Whenever one of your units is selected, you’ll see varying percentages as "
 "you move the mouse over the map. The higher the percentage, the more "
@@ -784,82 +747,79 @@ msgid ""
 "rivers. However, these quintains use a <i>magical</i> attack, which always "
 "has a 70% chance of hitting no matter what terrain its target occupies."
 msgstr ""
-"Nota bene:\n"
-"Si actorem eligis, partes ex centum spatio terrae nonnullae vidis. Quo plus "
-"partium ex centum, eo magis defensio sit sibi. Defensio exempli gratia in "
-"castello viculoque bono sed in flumine malo est. Impetus pupae magici, "
-"autem, sunt, itaque sibi fortuna septuaginta centesimae, quaqua stas, te "
-"ferire est.  "
+"Cum actorem eligis, partes diversas ex centum vidis ut murem praeter chartam "
+"moves. Quo partes ex centum, eo magis <i>defensio</i> in modum terrae est "
+"sibi. Defensio exempli gratia in castello viculoque bona sed in flumine mala "
+"est. Formae milites impetus <i>magicos</i>, autem, utuntur, itaque fortuna "
+"te ferire septuaginta centesimae est, in quaqua stas.  "
 
 #. [message]: speaker=second_unit
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1072
-#, fuzzy
 msgid "The quintain is destroyed, and I have gained more experience!"
-msgstr "Forma militis mortua est, et plus usus percepi!"
+msgstr "Forma militis deleta est, et plus usus habeo!"
 
 #. [message]: id=Delfador
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1078
-#, fuzzy
 msgid ""
 "Yes, you gain experience through battle, especially by killing an opponent. "
 "Gain enough experience and you’ll become more powerful.\n"
 "Now, Konrad, I will leave you with more dummies to practice on! After that, "
 "we have real work to do..."
 msgstr ""
-"Vere, potestatem per proelium adipisceris, per praesertim hostem occiditur. "
-"Si sat usus adipisceris potentior fies.  "
+"Habes, usum per proelium adipisceris, praesertim hostem occidendo. Si satis "
+"usus ceperis potentior fies.\n"
+"Conrade, iam plures puparum ad exercendum dabo! Laborem verum postea "
+"habemus..."
 
 #. [message]: id=Delfador
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1082
-#, fuzzy
 msgid ""
 "Yes, you gain experience through battle, especially by killing an opponent. "
 "Gain enough experience and you’ll become more powerful.\n"
 "Now, Li’sar, I will leave you with more dummies to practice on! After that, "
 "we have real work to do..."
 msgstr ""
-"Vere, potestatem per proelium adipisceris, per praesertim hostem occiditur. "
-"Si sat usus adipisceris potentior fies.  "
+"Habes, usum per proelium adipisceris, praesertim hostem occidendo. Si satis "
+"usus ceperis potentior fies.\n"
+"Lisaris, iam plures puparum ad exercendum dabo! Laborem verum postea "
+"habemus   "
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1119
 msgid "Note"
-msgstr ""
+msgstr "Nota bene"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1121
-#, fuzzy
 msgid ""
 "These dummies only attack if you are a single tile away. With care, you "
 "should be able to kill them one at a time."
 msgstr ""
-"Nota bene:\n"
-"Pupae hae tantum pugnant si uno spatio distas. Possis, cum cura, singillitam "
+"Hae pupae tantum pugnant si uno spatio distas. Possis, cum cura, singillitam "
 "se interficere. "
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1130
 msgid "Do you want to keep practicing?"
-msgstr "Visne etiam commentari?"
+msgstr "Visne etiam exercere?"
 
 #. [option]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1132
 msgid "Yes, I’m still figuring it out."
-msgstr "Excogito etiam ita vero."
+msgstr "Volo, excogito etiam."
 
 #. [option]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1135
 msgid "No, I think I’ve got it."
-msgstr "Non est, puto intellegere."
+msgstr "Nolo, puto me intellegere."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1176
 msgid "Victory"
-msgstr ""
+msgstr "Victoria"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1177
-#, fuzzy
 msgid ""
 "After your victory notice, the map will be grayed out to indicate that the "
 "scenario is over, but you will still be able to examine the final positions "
@@ -867,24 +827,24 @@ msgid ""
 "mode</i>. When you’re finished, click the <b>End Scenario</b> button to go "
 "on the next scenario in the campaign."
 msgstr ""
-"Post victoriam nuntiam, charta pallescet ut indicet scaenarium finivisse, "
-"sed poteris loci ultimi et status nostri inspicere ante 'Scaenarium Finire' "
-"tangis ut ad scaenarium secundum progredi."
+"Post nuntium victoriae, charta pallescet ut designaet scaenarium finivisse, "
+"sed etiam locos ultimos et statum nostri inspicere poteris. Cum paratum "
+"globulum <b>Scaenarium Finire</b> tangis ut ad scaenarium secundum "
+"progrediaris."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/2_Speaking.cfg:30
 msgid "Undo"
-msgstr ""
+msgstr "Reddendum"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/2_Speaking.cfg:31
-#, fuzzy
 msgid ""
 "Don’t forget, you can press <b>u</b> to undo most things; useful for "
 "correcting mistakes."
 msgstr ""
-"<big>Memora:</big>\n"
-"Potes 'u' tangere ut plurimus rerum retexere; usui errato corrigente est. "
+"Noli oblivisci, <b>u</b> tangere potes ut pluraque reddas; usui ad errores "
+"corrigendum est. "
 
 #. [unit]: id=Galdrad, type=Elvish Captain
 #. [message]: speaker=narrator
@@ -893,30 +853,28 @@ msgstr ""
 #: data/campaigns/tutorial/scenarios/2_Speaking.cfg:67
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:390
 msgid "Galdrad"
-msgstr "Galdradis"
+msgstr "Galdradus"
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Speaking.cfg:82
-#, fuzzy
 msgid ""
 ", your new recruit, has two traits: <i>strong</i> and <i>intelligent</i>. "
 "‘Strong’ means a unit does more damage, and ‘intelligent’ means it needs "
 "less experience to advance a level."
 msgstr ""
-", tiro tuus sibi habitus duo est: fortis callidusque. Fortis signat actorem "
-"plus damnum facere et callidus signat minore usus ut quantum ordinem augeat "
-"egebit."
+", tiro sibi habitus duo est: <i>fortis</i> et <i>callidus</i>. ‘Fortis’ "
+"designat actorem plus damni facere, et ‘callidus’ designat se minores usus "
+"egere ut uno ordine augeat."
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Speaking.cfg:97
-#, fuzzy
 msgid ""
 " has two traits: <i>quick</i> and <i>resilient</i>. ‘Quick’ means a unit can "
 "move one tile further each turn, and ‘resilient’ means it has more hitpoints."
 msgstr ""
-" sibi habitus duo est: celer robustusque. Celer signat actorem quantum "
-"spatium unum, cum vice quoque, movere posse et robustus signat plures sibi "
-"puncta salutis est."
+" sibi habitus duo est: <i>celer</i> et <i>robustus</i>. ‘Celer’ designat "
+"actorem unum spatium magis, cum vice quoque, movere posse et ‘robustus’ "
+"designat plures puncta salutis sibi esse."
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:25
@@ -925,13 +883,12 @@ msgstr "Pars silvae"
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:26
-#, fuzzy
 msgid ""
 "Now put an unwounded unit, preferably a Fighter, in that patch of forest on "
 "the south-east of the island; a nice, defensible spot."
 msgstr ""
-"Pone nunc actorem integrum, potiorem pugnatorem, hac in parte silvae in euro "
-"insulae; facilis ad defendum est."
+"Pone nunc actorem integrum, potius Pugnatorem, hac in parte silvae inter "
+"orientalem et meridiem insulae; facilis defensu est."
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:27
@@ -951,19 +908,17 @@ msgstr ""
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:29
-#, fuzzy
 msgid "Move a unit (a Fighter if possible) to the patch of forest"
-msgstr "Move actorem, potior pugnator, ad partem silvae "
+msgstr "Move actorem (potius Pugnatorem), ad partem silvae "
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:36
-#, fuzzy
 msgid ""
 "Advance other units onto the island or to capture villages, then <b>End "
 "Turn</b>"
 msgstr ""
-"Progredere actores alios aut in insulam aut ut viculos capiant, fini deinde "
-"vicem "
+"Progredere actores alios aut in insulam aut ut viculos capiant, deinde "
+"<b>Fini Vicem</b> "
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:174
@@ -1027,12 +982,11 @@ msgstr "Mors Lisaris"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:417
-#, fuzzy
 msgid ""
 "Ho, Galdrad! Has Delfador conjured something else to beat me with? A flock "
 "of scarecrows, perhaps?"
 msgstr ""
-"Ave Galdradis! Num aliud aliquid, ut me vincant, Delfador creavit? An grex "
+"Ave Galdradus! Num aliud aliquid, ut me vincant, Delfador creavit? An grecem "
 "terriculorum, fortasse?"
 
 #. [event]
@@ -1073,12 +1027,11 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:429
-#, fuzzy
 msgid ""
 "By then, their leader will have recruited more units to send against us and "
 "the real fight will begin."
 msgstr ""
-"Dux suus actores ut contras nos mittat iam adlegerit et pugna vera ita "
+"Iam dux actores adlegerit, ut se contra nos mittat, et ita pugna vera "
 "incipiet."
 
 #. [event]
@@ -1088,14 +1041,14 @@ msgstr ""
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:433
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:434
 msgid "Shallow"
-msgstr ""
+msgstr "Vadum"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:435
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:436
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:437
 msgid "Deep water"
-msgstr ""
+msgstr "Aqua alta"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:439
@@ -1106,9 +1059,9 @@ msgid ""
 "the east; but we could stand on the shore and force them to fight us from "
 "the water, where they are exposed and we are protected by the forest."
 msgstr ""
-"aquane illa caesea vides? Nimis alti ut factiones utras transeant est. Lente "
-"per angustiam brevis caerulei in ortu vadant; in litore autem stemus et ab "
-"aqua nos pugnare se cogamus, quo patent et a silva tegimur. "
+"aquane caesea vides? Nimis alti ut factiones utras transeant est. Lente per "
+"angustiam brevis caerulei in ortu vadant; in litore autem stemus et ab aqua "
+"nos pugnare se cogamus, quo patent et a silva tegimur. "
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:449
@@ -1451,7 +1404,7 @@ msgstr "Pugna cum Sagittario orcem"
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:921
 msgid "<big>Unit Summaries</big>"
-msgstr ""
+msgstr "<big>Summa Actorum</big>"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:922
@@ -1483,7 +1436,6 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:945
-#, fuzzy
 msgid "Attack the orc with the other Archer"
 msgstr "Pugna orcem cum Sagittaria alia"
 
@@ -1697,9 +1649,8 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1165
-#, fuzzy
 msgid "<big>Time of Day</big>"
-msgstr "<big>Salve pro Vesnote!</big>"
+msgstr "<big>Hora</big>"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1166
