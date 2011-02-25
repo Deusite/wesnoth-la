@@ -13,8 +13,8 @@ msgstr ""
 "Project-Id-Version: Wesnoth 1.8\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2010-04-30 14:18-0500\n"
-"Last-Translator: Michael Babich (Aethaeryn) <michaelbabich7@gmail.com>\n"
+"PO-Revision-Date: 2011-02-25 10:35+0100\n"
+"Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -24,33 +24,28 @@ msgstr ""
 
 #. [terrain_type]: id=deep_water_grey
 #: data/core/terrain.cfg:18
-#, fuzzy
 msgid "Gray Deep Water"
-msgstr "Salum"
+msgstr "Alta Aqua Rava"
 
 #. [terrain_type]: id=deep_water
 #: data/core/terrain.cfg:28
-#, fuzzy
 msgid "Deep Water"
-msgstr "Salum"
+msgstr "Alta Aqua"
 
 #. [terrain_type]: id=deep_water
 #: data/core/terrain.cfg:29
-#, fuzzy
 msgid "Medium Deep Water"
-msgstr "Salum"
+msgstr "Media Alta Aqua"
 
 #. [terrain_type]: id=deep_water_tropical
 #: data/core/terrain.cfg:38
-#, fuzzy
 msgid "Tropical Deep Water"
-msgstr "Silva Tropica"
+msgstr "Alta Aqua Tropica"
 
 #. [terrain_type]: id=gray_tropical_water
 #: data/core/terrain.cfg:48
-#, fuzzy
 msgid "Gray Shallow Water"
-msgstr "Aqua"
+msgstr "Aqua Rava"
 
 #. [terrain_type]: id=shallow_water
 #: data/core/terrain.cfg:58
@@ -59,20 +54,18 @@ msgstr "Aqua"
 
 #. [terrain_type]: id=shallow_water
 #: data/core/terrain.cfg:59
-#, fuzzy
 msgid "Medium Shallow Water"
-msgstr "Aqua"
+msgstr "Media Aqua Rava"
 
 #. [terrain_type]: id=tropical_water
 #: data/core/terrain.cfg:68
-#, fuzzy
 msgid "Tropical Shallow Water"
-msgstr "Aqua"
+msgstr "Aqua Tropica"
 
 #. [terrain_type]: id=ford
 #: data/core/terrain.cfg:78
 msgid "Ford"
-msgstr ""
+msgstr "Vadum"
 
 #. [terrain_type]: id=reef
 #: data/core/terrain.cfg:88
@@ -111,9 +104,8 @@ msgstr ""
 
 #. [terrain_type]: id=dirt_dark
 #: data/core/terrain.cfg:165
-#, fuzzy
 msgid "Dark Dirt"
-msgstr "Humus"
+msgstr "Humus Ater"
 
 #. [terrain_type]: id=dirt
 #: data/core/terrain.cfg:174
@@ -122,9 +114,8 @@ msgstr ""
 
 #. [terrain_type]: id=road
 #: data/core/terrain.cfg:183
-#, fuzzy
 msgid "Dry Dirt"
-msgstr "Humus"
+msgstr "Humus Aridus"
 
 #. [terrain_type]: id=road
 #: data/core/terrain.cfg:192
@@ -154,9 +145,8 @@ msgstr "Nix"
 
 #. [terrain_type]: id=desert
 #: data/core/terrain.cfg:245
-#, fuzzy
 msgid "Desert Sands"
-msgstr "Montes Deserti"
+msgstr "Harenae Desertorum"
 
 #. [terrain_type]: id=sand
 #: data/core/terrain.cfg:254
@@ -166,7 +156,7 @@ msgstr "Harena"
 #. [terrain_type]: id=sand
 #: data/core/terrain.cfg:255
 msgid "Beach Sands"
-msgstr ""
+msgstr "Heranae Litoris"
 
 #. [terrain_type]: id=oasis
 #: data/core/terrain.cfg:263
@@ -185,9 +175,8 @@ msgstr "Crater"
 
 #. [terrain_type]: id=flowers_mixed
 #: data/core/terrain.cfg:298
-#, fuzzy
 msgid "Mixed Flowers"
-msgstr "Multigener Silvae Autumnae"
+msgstr "Flores Diversi"
 
 #. [terrain_type]: id=farm
 #: data/core/terrain.cfg:307
@@ -197,19 +186,17 @@ msgstr "Ager"
 #. [terrain_type]: id=stones_small
 #: data/core/terrain.cfg:316
 msgid "Stones"
-msgstr ""
+msgstr "Lapes"
 
 #. [terrain_type]: id=mushrooms_small
 #: data/core/terrain.cfg:325
-#, fuzzy
 msgid "Small Mushrooms"
-msgstr "Nemus Fungorum"
+msgstr "Parvus Nemus Fungorum"
 
 #. [terrain_type]: id=mushrooms_farm
 #: data/core/terrain.cfg:334
-#, fuzzy
 msgid "Mushroom Farm"
-msgstr "Nemus Fungorum"
+msgstr "Fundus Fungorum"
 
 #. [terrain_type]: id=desert_plants
 #: data/core/terrain.cfg:343
@@ -226,21 +213,20 @@ msgstr "Montes Deserti"
 #. [terrain_type]: id=windmill
 #: data/core/terrain.cfg:361
 msgid "Windmill"
-msgstr ""
+msgstr "Ventimolina"
 
 #. [terrain_type]: id=fence
 #: data/core/terrain.cfg:370
 msgid "Fence"
-msgstr ""
+msgstr "Saepes"
 
 #. [terrain_type]: id=great_tree
 #: data/core/terrain.cfg:383
 msgid "Great Tree"
-msgstr "Arbor Magnus"
+msgstr "Magnus Arbor"
 
 #. [terrain_type]: id=tropical_forest
 #: data/core/terrain.cfg:393
-#, fuzzy
 msgid "Tropical Forest"
 msgstr "Silva Tropica"
 
@@ -277,12 +263,12 @@ msgstr "Silva Hiberna Decidua"
 #. [terrain_type]: id=deciduous_forest_winter_snow
 #: data/core/terrain.cfg:454
 msgid "Snowy Deciduous Forest"
-msgstr "Silva Nivosa Decidua"
+msgstr "Silva Nivea Decidua"
 
 #. [terrain_type]: id=mixed_forest_summer
 #: data/core/terrain.cfg:465
 msgid "Summer Mixed Forest"
-msgstr "Multigener Silvae Aestivae"
+msgstr "Silvae Aestivae Diversae"
 
 #. [terrain_type]: id=mixed_forest_fall
 #: data/core/terrain.cfg:475
@@ -293,12 +279,12 @@ msgstr "Multigener Silvae Nivosae"
 #. [terrain_type]: id=mixed_forest_winter
 #: data/core/terrain.cfg:485
 msgid "Winter Mixed Forest"
-msgstr "Multigener Silvae Hibernae"
+msgstr "Silvae Hibernae Diversae"
 
 #. [terrain_type]: id=mixed_forest_winter_snow
 #: data/core/terrain.cfg:495
 msgid "Snowy Mixed Forest"
-msgstr "Multigener Silvae Nivosae"
+msgstr "Silvae Nivea Diversae"
 
 #. [terrain_type]: id=hills
 #: data/core/terrain.cfg:510
@@ -335,9 +321,8 @@ msgstr "Montes"
 
 #. [terrain_type]: id=desert_mountains
 #: data/core/terrain.cfg:560
-#, fuzzy
 msgid "Dry Mountains"
-msgstr "Montes"
+msgstr "Montes Aridi"
 
 #. [terrain_type]: id=snow_mountains
 #: data/core/terrain.cfg:569
@@ -352,7 +337,7 @@ msgstr "Colles Silvestes"
 #. [terrain_type]: id=forested_snow_hills
 #: data/core/terrain.cfg:593
 msgid "Forested Snow Hills"
-msgstr "Colles Silvestes Nivosi"
+msgstr "Colles Silvestes Nivei"
 
 #. [terrain_type]: id=deciduous_forest_summer_hills
 #. [terrain_type]
@@ -378,7 +363,7 @@ msgstr "Colles Silvestes Hiberni Decidui"
 #: data/core/terrain.cfg:633 data/core/terrain.cfg:723
 #: data/core/terrain.cfg:730
 msgid "Snowy Deciduous Forested Hills"
-msgstr "Colles Silvestes Nivosi Decidui"
+msgstr "Colles Silvestes Nivei Decidui"
 
 #. [terrain_type]: id=mixed_forest_summer_hills
 #. [terrain_type]
@@ -398,14 +383,14 @@ msgstr "Colles Silvestium Nivosorum Multigenes"
 #: data/core/terrain.cfg:663 data/core/terrain.cfg:751
 #: data/core/terrain.cfg:758
 msgid "Winter Mixed Forested Hills"
-msgstr "Colles Silvestium Hibernarum Multigenes"
+msgstr "Colles Silvestium Hibernarum Diversorum"
 
 #. [terrain_type]: id=mixed_forest_winter_snow_hills
 #. [terrain_type]
 #: data/core/terrain.cfg:673 data/core/terrain.cfg:765
 #: data/core/terrain.cfg:772
 msgid "Snowy Mixed Forested Hills"
-msgstr "Colles Silvestium Nivosorum Multigenes"
+msgstr "Colles Silvestium Niveorum Diversorum"
 
 #. [terrain_type]
 #: data/core/terrain.cfg:785
@@ -420,7 +405,7 @@ msgstr "Lucidus"
 #. [terrain_type]: id=lit
 #: data/core/terrain.cfg:799
 msgid "Beam of Light"
-msgstr ""
+msgstr "Radius Lucis"
 
 #. [terrain_type]: id=cave
 #: data/core/terrain.cfg:809
@@ -491,7 +476,7 @@ msgstr ""
 #. [terrain_type]: id=lava_chasm
 #: data/core/terrain.cfg:948
 msgid "Lava Chasm"
-msgstr "Lava in profundo"
+msgstr "Lava in Profundum"
 
 #. [terrain_type]: id=lava
 #: data/core/terrain.cfg:958
@@ -501,7 +486,7 @@ msgstr "Lava"
 #. [terrain_type]: id=volcano
 #: data/core/terrain.cfg:969
 msgid "Volcano"
-msgstr ""
+msgstr "Vulcanus"
 
 #. [terrain_type]: id=cloud
 #: data/core/terrain.cfg:983
@@ -584,36 +569,33 @@ msgstr "Viculus"
 
 #. [terrain_type]: id=orcish_village
 #: data/core/terrain.cfg:1135
-#, fuzzy
 msgid "Orcish Village"
-msgstr "Viculus"
+msgstr "Viculus Orcum"
 
 #. [terrain_type]: id=orcish_snow_village
 #: data/core/terrain.cfg:1147
 msgid "Snowy Orcish Village"
-msgstr ""
+msgstr "Viculus Niveus Orcum"
 
 #. [terrain_type]: id=elven_snow_village
 #: data/core/terrain.cfg:1161
 msgid "Snowy Elven Village"
-msgstr ""
+msgstr "Viculus Niveus Dryadalium"
 
 #. [terrain_type]: id=elven_village
 #: data/core/terrain.cfg:1173
-#, fuzzy
 msgid "Elven Village"
-msgstr "Viculus"
+msgstr "Viculus Dryadalium"
 
 #. [terrain_type]: id=human_village
 #: data/core/terrain.cfg:1187
 msgid "Cottage"
-msgstr ""
+msgstr "Casa"
 
 #. [terrain_type]: id=snow_village
 #: data/core/terrain.cfg:1199
-#, fuzzy
 msgid "Snowy Cottage"
-msgstr "Montes Niveus"
+msgstr "Casa Nivea"
 
 #. [terrain_type]: id=human_village_ruin
 #: data/core/terrain.cfg:1211
@@ -623,15 +605,13 @@ msgstr "Montes Niveus"
 
 #. [terrain_type]: id=city_village
 #: data/core/terrain.cfg:1223
-#, fuzzy
 msgid "Human City"
-msgstr "Castellum Nanorum"
+msgstr "Urbs Humana"
 
 #. [terrain_type]: id=city_village_wno
 #: data/core/terrain.cfg:1235
-#, fuzzy
 msgid "Snowy Human City"
-msgstr "Castellum Nanorum"
+msgstr "Urbs Humana Nivea"
 
 #. [terrain_type]: id=city_village
 #: data/core/terrain.cfg:1247
@@ -657,39 +637,33 @@ msgstr "Viculus"
 
 #. [terrain_type]: id=tropical_forest_village
 #: data/core/terrain.cfg:1295
-#, fuzzy
 msgid "Tropical Village"
-msgstr "Silva Tropica"
+msgstr "Viculus Tropicus"
 
 #. [terrain_type]: id=drake_village
 #: data/core/terrain.cfg:1307
-#, fuzzy
 msgid "Drake Village"
-msgstr "Viculus"
+msgstr "Viculus Draculus"
 
 #. [terrain_type]: id=underground_village
 #: data/core/terrain.cfg:1321
-#, fuzzy
 msgid "Cave Village"
-msgstr "Viculus"
+msgstr "Viculus Cavernae"
 
 #. [terrain_type]: id=dwarven_village
 #: data/core/terrain.cfg:1333
-#, fuzzy
 msgid "Dwarven Village"
-msgstr "Castellum Nanorum"
+msgstr "Viculus Naniarus"
 
 #. [terrain_type]: id=hut_village
 #: data/core/terrain.cfg:1345
-#, fuzzy
 msgid "Hut"
-msgstr "Excidere"
+msgstr "Casula"
 
 #. [terrain_type]: id=hut_snow_village
 #: data/core/terrain.cfg:1357
-#, fuzzy
 msgid "Snowy Hut"
-msgstr "Montes Niveus"
+msgstr "Casula Nivosa"
 
 #. [terrain_type]: id=logcabin_village
 #: data/core/terrain.cfg:1369
@@ -704,9 +678,8 @@ msgstr "Montes Niveus"
 
 #. [terrain_type]: id=swamp_village
 #: data/core/terrain.cfg:1395
-#, fuzzy
 msgid "Swamp Village"
-msgstr "Viculus"
+msgstr "Viculus Paludinis"
 
 #. [terrain_type]: id=mermen_village
 #. [terrain_type]: id=swamp_merfolk-village
@@ -750,9 +723,8 @@ msgstr "Castra"
 
 #. [terrain_type]: id=orcish_fort
 #: data/core/terrain.cfg:1471
-#, fuzzy
 msgid "Orcish Castle"
-msgstr "Castellum"
+msgstr "Castellum Orcum"
 
 #. [terrain_type]: id=snow_orcish_fort
 #: data/core/terrain.cfg:1482
@@ -767,21 +739,18 @@ msgstr "Castellum"
 
 #. [terrain_type]: id=castle
 #: data/core/terrain.cfg:1494
-#, fuzzy
 msgid "Human Castle"
-msgstr "Castellum Nanorum"
+msgstr "Castellum Humanum"
 
 #. [terrain_type]: id=snow_castle
 #: data/core/terrain.cfg:1504
-#, fuzzy
 msgid "Snowy Human Castle"
-msgstr "Castellum Nanorum"
+msgstr "Castellum Humanum Niveum"
 
 #. [terrain_type]: id=elven_castle
 #: data/core/terrain.cfg:1514
-#, fuzzy
 msgid "Elvish Castle"
-msgstr "Castellum"
+msgstr "Castellum Dryadalium"
 
 #. [terrain_type]: id=dwarven_castle
 #: data/core/terrain.cfg:1525
@@ -1054,24 +1023,22 @@ msgstr "Vetare"
 #. [label]
 #: data/gui/default/window/addon_description.cfg:80
 msgid "Author:"
-msgstr ""
+msgstr "Auctor:"
 
 #. [label]
 #: data/gui/default/window/addon_description.cfg:110
-#, fuzzy
 msgid "Version:"
 msgstr "Versio:"
 
 #. [label]
 #: data/gui/default/window/addon_description.cfg:141
 msgid "Size:"
-msgstr ""
+msgstr "Magnitudo:"
 
 #. [label]
 #: data/gui/default/window/addon_description.cfg:172
-#, fuzzy
 msgid "Description:"
-msgstr "Descriptio Actoris"
+msgstr "Descriptio:"
 
 #. [scroll_label]: id=description
 #: data/gui/default/window/addon_description.cfg:186
@@ -1120,7 +1087,6 @@ msgstr "Confirmare"
 
 #. [label]: id=title
 #: data/gui/default/window/campaign_difficulty.cfg:49
-#, fuzzy
 msgid "Difficulty"
 msgstr "Difficultas: "
 
@@ -1180,21 +1146,18 @@ msgstr ""
 
 #. [label]: id=title
 #: data/gui/default/window/edit_label.cfg:34
-#, fuzzy
 msgid "Place Label"
 msgstr "Titulum Ponere"
 
 #. [label]
 #: data/gui/default/window/edit_label.cfg:64
-#, fuzzy
 msgid "Label:"
-msgstr "Titulum Ponere"
+msgstr "Titulus:"
 
 #. [toggle_button]: id=team_only_toggle
 #: data/gui/default/window/edit_label.cfg:102
-#, fuzzy
 msgid "Team only"
-msgstr "Manus 1"
+msgstr "Manus sola"
 
 #. [label]
 #: data/gui/default/window/editor_generate_map.cfg:38
@@ -1354,7 +1317,7 @@ msgstr "Conplector"
 #. [label]: id=state
 #: data/gui/default/window/formula_debugger.cfg:63
 msgid "state"
-msgstr ""
+msgstr "status"
 
 #. [label]
 #: data/gui/default/window/formula_debugger.cfg:77
@@ -1913,7 +1876,7 @@ msgstr "Verbum Absconditum Ponere"
 #. [label]
 #: data/gui/default/window/mp_create_game.cfg:246
 msgid "Map to play:"
-msgstr ""
+msgstr "Charta ludendi:"
 
 #. [label]
 #: data/gui/default/window/mp_create_game.cfg:331
@@ -2009,7 +1972,7 @@ msgstr ""
 #. [column]
 #: data/gui/default/window/mp_method_selection.cfg:138
 msgid "Join Official Server"
-msgstr "Credentario Publico Adplicare"
+msgstr "Servatro Publico Adplicare"
 
 #. [column]
 #: data/gui/default/window/mp_method_selection.cfg:139
@@ -2019,7 +1982,7 @@ msgstr ""
 #. [column]
 #: data/gui/default/window/mp_method_selection.cfg:149
 msgid "Join a different server"
-msgstr "Adplica credentario alius"
+msgstr "Adplica servatro alio"
 
 #. [column]
 #: data/gui/default/window/mp_method_selection.cfg:158
@@ -2066,7 +2029,7 @@ msgstr ""
 #. [button]: id=previous_tip
 #: data/gui/default/window/title_screen.cfg:162
 msgid "Previous"
-msgstr "Anterior"
+msgstr "Rursus"
 
 #. [button]: id=previous_tip
 #: data/gui/default/window/title_screen.cfg:163
@@ -2130,19 +2093,17 @@ msgstr ""
 
 #. [grid]
 #: data/gui/default/window/title_screen.cfg:228
-#, fuzzy
 msgid "Map Editor"
 msgstr "Chartographia"
 
 #. [grid]
 #: data/gui/default/window/title_screen.cfg:228
 msgid "Start the map editor"
-msgstr ""
+msgstr "Chartographiam incipere"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [grid]
 #: data/gui/default/window/title_screen.cfg:229 src/hotkeys.cpp:202
-#, fuzzy
 msgid "Change the language"
 msgstr "Linguam mutare"
 
@@ -2163,19 +2124,18 @@ msgstr ""
 
 #. [grid]
 #: data/gui/default/window/title_screen.cfg:232
-#, fuzzy
 msgid "Quit the game"
 msgstr "Ludum Exire"
 
 #. [button]: id=ok
 #: data/gui/default/window/unit_attack.cfg:195
 msgid "Attack"
-msgstr ""
+msgstr "Pugnare"
 
 #. [label]
 #: data/gui/default/window/unit_attack.cfg:255
 msgid "Attack enemy"
-msgstr ""
+msgstr "Hostes pugnare"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
@@ -2211,7 +2171,7 @@ msgstr ""
 
 #: src/filechooser.cpp:76
 msgid "File: "
-msgstr ""
+msgstr "Fasciculus:"
 
 #: src/filechooser.cpp:79
 #, fuzzy
@@ -2698,14 +2658,12 @@ msgid "no"
 msgstr "non"
 
 #: src/game_preferences_display.cpp:1090
-#, fuzzy
 msgid "friend"
-msgstr "Amicae"
+msgstr "amicus"
 
 #: src/game_preferences_display.cpp:1096
-#, fuzzy
 msgid "ignored"
-msgstr "Veta abrogationem"
+msgstr "neglectus"
 
 #: src/game_preferences_display.cpp:1100
 msgid "(empty list)"
@@ -2734,7 +2692,7 @@ msgstr "Addititius"
 
 #: src/game_preferences_display.cpp:1263
 msgid "Choose theme"
-msgstr ""
+msgstr "Themam eligere"
 
 #: src/game_preferences_display.cpp:1263
 #, fuzzy
@@ -2876,7 +2834,7 @@ msgstr "Vicis"
 
 #: src/gui/dialogs/game_load.cpp:315
 msgid "Scenario Start"
-msgstr "Inceptio Scaenarii"
+msgstr "Initium Scaenarii"
 
 #: src/gui/dialogs/game_load.cpp:318
 msgid "Difficulty: "
@@ -2922,7 +2880,7 @@ msgstr ""
 
 #: src/gui/dialogs/lobby_main.cpp:1569
 msgid "Password Required"
-msgstr "Verbum Absconditum Necessarium Est"
+msgstr "Tessera Necesse Est"
 
 #: src/gui/dialogs/lobby_main.cpp:1570
 msgid "Joining this game requires a password."
@@ -2930,7 +2888,7 @@ msgstr ""
 
 #: src/gui/dialogs/lobby_main.cpp:1571
 msgid "Password: "
-msgstr "Verbum Absconditum:"
+msgstr "Tessera:"
 
 #: src/gui/dialogs/message.cpp:190 src/gui/dialogs/transient_message.cpp:64
 msgid "Error"
@@ -2941,9 +2899,8 @@ msgid "Load Game..."
 msgstr "Ludum Restituere..."
 
 #: src/gui/dialogs/title_screen.cpp:275
-#, fuzzy
 msgid "Version "
-msgstr "Versio:"
+msgstr "Versio"
 
 #: src/gui/dialogs/title_screen.cpp:278
 msgid "Version"
@@ -3021,7 +2978,7 @@ msgstr "Dux"
 
 #: src/hotkeys.cpp:58
 msgid "Undo"
-msgstr "Recantare"
+msgstr "Reddere"
 
 #: src/hotkeys.cpp:59
 msgid "Redo"
@@ -3127,7 +3084,7 @@ msgstr "Propositum Scaenarii"
 
 #: src/hotkeys.cpp:87
 msgid "Unit List"
-msgstr "Inventarium Actoris"
+msgstr "Inventarium Actorum"
 
 #: src/hotkeys.cpp:88
 msgid "Statistics"
@@ -3169,13 +3126,12 @@ msgid "Reset"
 msgstr "Reponere"
 
 #: src/hotkeys.cpp:100
-#, fuzzy
 msgid "Next Turn"
-msgstr "Tractus Insequens"
+msgstr "Vicis Secunda"
 
 #: src/hotkeys.cpp:101
 msgid "Next Side"
-msgstr "Pars Proxima"
+msgstr "Manus Secunda"
 
 #: src/hotkeys.cpp:103
 msgid "Full map"
@@ -3187,7 +3143,7 @@ msgstr "Manus omnes"
 
 #: src/hotkeys.cpp:107
 msgid "Team 1"
-msgstr "Manus 1"
+msgstr "Manus I"
 
 #: src/hotkeys.cpp:108
 #, fuzzy
@@ -3233,7 +3189,7 @@ msgstr "Chartam Permutare"
 
 #: src/hotkeys.cpp:122
 msgid "Partial Undo"
-msgstr "Particularem Recantare"
+msgstr "Particularem Reddere"
 
 #: src/hotkeys.cpp:124
 msgid "Load Map"
@@ -3241,12 +3197,11 @@ msgstr "Chartam Restituere"
 
 #: src/hotkeys.cpp:126
 msgid "Save Map As"
-msgstr "Chartam Servare Tamquam"
+msgstr "Chartam Servare Ut"
 
 #: src/hotkeys.cpp:127
-#, fuzzy
 msgid "Save All Maps"
-msgstr "Chartam Servare"
+msgstr "Omnes Chartam Servare"
 
 #: src/hotkeys.cpp:128
 msgid "Revert All Changes"
@@ -3473,18 +3428,16 @@ msgid "Previous tip of the day"
 msgstr "Actor Anterior"
 
 #: src/hotkeys.cpp:232
-#, fuzzy
 msgid "Start tutorial"
-msgstr "Rudimentum"
+msgstr "Rudimentum incipere"
 
 #: src/hotkeys.cpp:239
-#, fuzzy
 msgid "Start a campaign"
-msgstr "Militia Ludere"
+msgstr "Militia incipere"
 
 #: src/hotkeys.cpp:246
 msgid "Start a multiplayer game"
-msgstr ""
+msgstr "Ludum cum pluribus lusoribus incipere"
 
 #: src/hotkeys.cpp:253
 #, fuzzy
@@ -3497,11 +3450,11 @@ msgstr ""
 
 #: src/hotkeys.cpp:269
 msgid "Show the credits"
-msgstr ""
+msgstr "Agnitiones ostendere"
 
 #: src/hotkeys.cpp:722 src/hotkeys.cpp:1024
 msgid "Do you really want to quit?"
-msgstr "Visne vere exire?"
+msgstr "Itane vis exire?"
 
 #: src/hotkeys.cpp:976
 #, fuzzy
@@ -3546,9 +3499,8 @@ msgid "Number of Hills:"
 msgstr "Numerus Collum:"
 
 #: src/mapgen_dialog.cpp:124
-#, fuzzy
 msgid "Max Hill Size:"
-msgstr "Magnitudo Maxima Collum:"
+msgstr "MaximaMagnitudo Collum:"
 
 #: src/mapgen_dialog.cpp:125
 msgid "Villages:"
@@ -3567,13 +3519,12 @@ msgid "Roads Between Castles"
 msgstr "Viae Inter Castella"
 
 #: src/mapgen_dialog.cpp:306
-#, fuzzy
 msgid "/1000 tiles"
-msgstr "pro M tegulis"
+msgstr "/M spatiis"
 
 #: src/mapgen_dialog.cpp:315
 msgid "Coastal"
-msgstr ""
+msgstr "Maritima"
 
 #: src/mapgen_dialog.cpp:315
 msgid "Inland"
