@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth - HTTT 1.2.0\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2011-02-26 02:12+0100\n"
+"PO-Revision-Date: 2011-02-26 15:42+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -2110,7 +2110,7 @@ msgid ""
 "soldiers to march shoulder-to-shoulder."
 msgstr ""
 "Celeriter ostium, Conrado mirante, fluminis transierunt. Aquae turbulentae "
-"celabant vadum quasi invisitatum, satis latum ut duo milites una transeant."
+"celabant vadum quasi invisitatum, satis latum ut milites bini transeant."
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:497
