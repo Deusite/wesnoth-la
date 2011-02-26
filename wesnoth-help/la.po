@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth 1.8\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2011-02-26 14:30+0100\n"
+"PO-Revision-Date: 2011-02-26 16:22+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -1079,7 +1079,7 @@ msgstr ""
 #. [topic]: id=victory_and_defeat
 #: data/core/help.cfg:163
 msgid "Victory and Defeat"
-msgstr "Victoria Cladesque"
+msgstr "Victoria et Clades"
 
 #. [topic]: id=victory_and_defeat
 #: data/core/help.cfg:164
@@ -1762,9 +1762,8 @@ msgstr ""
 
 #. [topic]: id=experience_and_advancement
 #: data/core/help.cfg:298
-#, fuzzy
 msgid "Experience and Advancement"
-msgstr "Experientia et Promotiones Gradu"
+msgstr "Usus et Producere"
 
 #. [topic]: id=experience_and_advancement
 #: data/core/help.cfg:299
@@ -1936,9 +1935,8 @@ msgstr ""
 
 #. [topic]: id=income_and_upkeep
 #: data/core/help.cfg:326
-#, fuzzy
 msgid "Income and Upkeep"
-msgstr "Merces Impensaque"
+msgstr "Fructus et Impendium"
 
 #. [topic]: id=income_and_upkeep
 #: data/core/help.cfg:327
@@ -2421,7 +2419,7 @@ msgstr ""
 #. [topic]: id=traits_dim
 #: data/core/help.cfg:458
 msgid "Dim"
-msgstr "Stultus"
+msgstr "Hebes"
 
 #. [topic]: id=traits_dim
 #: data/core/help.cfg:459
@@ -3775,9 +3773,8 @@ msgstr ""
 
 #. [petrifies]: id=petrifies
 #: data/core/macros/abilities.cfg:642
-#, fuzzy
 msgid "petrifies"
-msgstr "Ictus"
+msgstr "defigit"
 
 #. [petrifies]: id=petrifies
 #: data/core/macros/abilities.cfg:644
@@ -4149,9 +4146,8 @@ msgstr "fidelis"
 
 #. [trait]: id=loyal
 #: data/core/macros/traits.cfg:10
-#, fuzzy
 msgid "Zero upkeep"
-msgstr "Nullae impensae"
+msgstr "Nullum impendium"
 
 #. [trait]: id=undead
 #: data/core/macros/traits.cfg:22
@@ -4310,12 +4306,12 @@ msgstr "lenta"
 #. [trait]: id=dim
 #: data/core/macros/traits.cfg:243
 msgid "dim"
-msgstr "hebet"
+msgstr "hebes"
 
 #. [trait]: id=dim
 #: data/core/macros/traits.cfg:244
 msgid "female^dim"
-msgstr "hebet"
+msgstr "hebes"
 
 #. [trait]: id=aged
 #: data/core/macros/traits.cfg:256
@@ -4444,7 +4440,7 @@ msgstr "Nanus"
 #. [race]: id=dwarf
 #: data/core/units.cfg:91
 msgid "race+female^Dwarf"
-msgstr "Nanus"
+msgstr "Nana"
 
 #. [race]: id=dwarf
 #: data/core/units.cfg:92
@@ -5062,7 +5058,7 @@ msgstr "Promovetur ad: "
 
 #: src/help.cpp:1405 src/help.cpp:1717 src/help.cpp:1778
 msgid "race^Miscellaneous"
-msgstr "Varii"
+msgstr "Alia"
 
 #: src/help.cpp:1407
 msgid "Race: "
