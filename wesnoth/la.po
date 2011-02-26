@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth 1.8\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2011-02-26 03:47+0100\n"
+"PO-Revision-Date: 2011-02-26 16:13+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -53,7 +53,7 @@ msgstr ""
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:40
 msgid "Animate Map"
-msgstr ""
+msgstr "Chartam Animare"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:47
@@ -622,16 +622,20 @@ msgid ""
 "Behavior: $ai_controller.side_$ally_side|_current_settings."
 "currently_doing_behavior_description"
 msgstr ""
+"Propositum: $ai_controller.side_$ally_side|_current_settings."
+"currently_doing_objective_description\n"
+"Mores: $ai_controller.side_$ally_side|_current_settings."
+"currently_doing_behavior_description"
 
 #. [literal]
 #: data/core/macros/ai_controller.cfg:652
 msgid "Set objective..."
-msgstr ""
+msgstr "Propsitum ponere..."
 
 #. [literal]
 #: data/core/macros/ai_controller.cfg:743
 msgid "Set behavior..."
-msgstr ""
+msgstr "Mores ponere..."
 
 #. [literal]
 #: data/core/macros/ai_controller.cfg:848
@@ -671,12 +675,12 @@ msgstr ""
 #. [advancement]: id=tough_{HP_ADVANCE_NUMBER}
 #: data/core/macros/deprecated-utils.cfg:416
 msgid ", MAX XP +25%"
-msgstr ", PU MAX + XXV%"
+msgstr ", FIN PU + XXV%"
 
 #. [advancement]: id=tough_{HP_ADVANCE_NUMBER}
 #: data/core/macros/deprecated-utils.cfg:416
 msgid "Max HP bonus +"
-msgstr ""
+msgstr "Fin boni PS +"
 
 #. [message]: speaker=narrator
 #: data/core/macros/items.cfg:23
@@ -1674,24 +1678,20 @@ msgid "Turns run out"
 msgstr "Tempus exit"
 
 #: data/core/macros/objective-utils.cfg:14 data/lua/wml/objectives.lua:101
-#, fuzzy
 msgid "Early finish bonus."
-msgstr "Bonum quod mature finisti: "
+msgstr "Bonum a perfectione cito."
 
 #: data/core/macros/objective-utils.cfg:17 data/lua/wml/objectives.lua:103
-#, fuzzy
 msgid "No early finish bonus."
-msgstr "Bonum quod mature finisti: "
+msgstr "Nullum bonum a perfectione cito. "
 
 #: data/core/macros/objective-utils.cfg:21
-#, fuzzy
 msgid "<small>(early finish bonus)</small>"
-msgstr "Bonum quod mature finisti: "
+msgstr "<small>(Bonum a perfectione cito)</small>"
 
 #: data/core/macros/objective-utils.cfg:25
-#, fuzzy
 msgid "(early finish bonus)"
-msgstr "Bonum quod mature finisti: "
+msgstr "(Bonum a perfectione cito)"
 
 #: data/core/macros/objective-utils.cfg:29 data/lua/wml/objectives.lua:111
 msgid "No gold carried over to the next scenario."
@@ -1989,7 +1989,7 @@ msgstr "missile"
 #. [language]
 #: data/english.cfg:47
 msgid "blade"
-msgstr "ferrum"
+msgstr "lamina"
 
 #. [language]
 #: data/english.cfg:48
@@ -2761,11 +2761,11 @@ msgstr "Addenda:"
 
 #: data/lua/wml/objectives.lua:69
 msgid "(%d turns left)"
-msgstr ""
+msgstr "(% vicium reliquorum)"
 
 #: data/lua/wml/objectives.lua:71
 msgid "(this turn left)"
-msgstr ""
+msgstr "(haec vicis reliqua)"
 
 #: data/lua/wml/objectives.lua:113
 msgid "%d%% of gold carried over to the next scenario."
@@ -2789,7 +2789,7 @@ msgstr "Vetare"
 #. [language]
 #: data/scenario-test.cfg:3042
 msgid "very long"
-msgstr ""
+msgstr "longissimus"
 
 #. [language]
 #: data/scenario-test.cfg:3043
@@ -2867,7 +2867,7 @@ msgstr "impendium"
 #: data/themes/default.cfg:267 data/themes/dfool.cfg:302
 #: data/themes/experimental.cfg:241
 msgid "income"
-msgstr "reditus"
+msgstr "fructus"
 
 #. [unit_level]: id=unit-level
 #: data/themes/default.cfg:429 data/themes/dfool.cfg:472
@@ -3382,7 +3382,7 @@ msgstr ""
 
 #: src/addon/manager.cpp:1385 src/multiplayer.cpp:232
 msgid "Confirm"
-msgstr "Confirmo"
+msgstr "Confirmare"
 
 #: src/addon/manager.cpp:1398
 #, fuzzy
@@ -3560,9 +3560,8 @@ msgid "Choose the game to load"
 msgstr "Elige lusum qui restituitur"
 
 #: src/dialogs.cpp:629
-#, fuzzy
 msgid "Show replay"
-msgstr "Remonstare"
+msgstr "Relusum ostendere"
 
 #: src/dialogs.cpp:633
 #, fuzzy
@@ -3634,9 +3633,8 @@ msgid ""
 msgstr ""
 
 #: src/game.cpp:1351
-#, fuzzy
 msgid "Don’t show again"
-msgstr "Noli me rursus rogitare!"
+msgstr "Noli iterum ostendere"
 
 #: src/game.cpp:1422
 #, fuzzy
@@ -3666,9 +3664,8 @@ msgstr[0] "Haec stipendia errores continent et restitui non possunt: "
 msgstr[1] "Haec stipendia errores continent et restitui non possunt: "
 
 #: src/game.cpp:1581
-#, fuzzy
 msgid "ERROR DETAILS:"
-msgstr "SINGULA ERRORIS:"
+msgstr "SUMMA ERRORIS:"
 
 #: src/game.cpp:1613
 #, fuzzy
@@ -3709,9 +3706,8 @@ msgid "Unknown era"
 msgstr "Aetas incognita"
 
 #: src/gui/dialogs/lobby/lobby_data.cpp:266 src/multiplayer_lobby.cpp:501
-#, fuzzy
 msgid "Remote scenario"
-msgstr "Missio remota"
+msgstr "Scaenarium longinquum"
 
 #: src/gui/dialogs/lobby/lobby_data.cpp:274 src/multiplayer_lobby.cpp:508
 msgid "Unknown scenario: $scenario_id"
@@ -3722,9 +3718,8 @@ msgid "Unknown scenario"
 msgstr "Scaenarium ignotum"
 
 #: src/gui/dialogs/lobby/lobby_data.cpp:285 src/multiplayer_lobby.cpp:517
-#, fuzzy
 msgid "Reloaded game"
-msgstr "Lusum servatum unius lusoris restituere"
+msgstr "Ludus restitutus"
 
 #: src/gui/dialogs/lobby/lobby_data.cpp:296 src/multiplayer_lobby.cpp:533
 msgid "Turn "
@@ -3772,11 +3767,11 @@ msgstr "In inventario amicorum"
 
 #: src/gui/dialogs/lobby_player_info.cpp:134
 msgid "On ignores list"
-msgstr ""
+msgstr "In tabula neglectorum "
 
 #: src/gui/dialogs/lobby_player_info.cpp:139
 msgid "Neither a friend nor ignored"
-msgstr ""
+msgstr "Ne amicus ne neglectus"
 
 #: src/gui/dialogs/lobby_player_info.cpp:144
 msgid "You"
@@ -3837,9 +3832,8 @@ msgid "Reading files and creating cache"
 msgstr "Legens data et creans thesaurum."
 
 #: src/loadscreen.cpp:226 src/loadscreen.cpp:233
-#, fuzzy
 msgid "Reading unit files"
-msgstr "Legens data unitatum."
+msgstr "Fasciculos actorum legens"
 
 #: src/loadscreen.cpp:227
 msgid "Reinitialize fonts for the current language"
@@ -3856,23 +3850,20 @@ msgid "Loading title screen"
 msgstr "Revocans scrinium tituli."
 
 #: src/loadscreen.cpp:230
-#, fuzzy
 msgid "Loading data files"
-msgstr "Legens data unitatum."
+msgstr "Fasciculos datorum legens"
 
 #: src/loadscreen.cpp:234
-#, fuzzy
 msgid "Loading level"
-msgstr "Revocans scrinium tituli."
+msgstr "Ordinem legens"
 
 #: src/loadscreen.cpp:235
 msgid "Initializing teams"
 msgstr ""
 
 #: src/loadscreen.cpp:236
-#, fuzzy
 msgid "Loading units"
-msgstr "Legens data unitatum."
+msgstr "Actores legens"
 
 #: src/loadscreen.cpp:237 src/loadscreen.cpp:239
 msgid "Initializing display"
@@ -3883,9 +3874,8 @@ msgid "Building terrain rules"
 msgstr ""
 
 #: src/loadscreen.cpp:240
-#, fuzzy
 msgid "Starting game"
-msgstr "Lusum finire"
+msgstr "Ludum incipiens"
 
 #: src/map.cpp:194
 msgid "A map without a header is not supported"
@@ -3933,9 +3923,8 @@ msgstr ""
 "dimittere?"
 
 #: src/menu_events.cpp:195
-#, fuzzy
 msgid "Statistics"
-msgstr "Rationum"
+msgstr "Rationes Breviarius"
 
 #: src/menu_events.cpp:206
 msgid "Moves"
@@ -3988,7 +3977,7 @@ msgstr "Impendium"
 #: src/menu_events.cpp:375 src/multiplayer_connect.cpp:983
 #: src/multiplayer_wait.cpp:531
 msgid "Income"
-msgstr "Reditus"
+msgstr "Fructus"
 
 #: src/menu_events.cpp:480
 #, fuzzy
@@ -4004,23 +3993,20 @@ msgid "scenario settings^Leader"
 msgstr "Dux"
 
 #: src/menu_events.cpp:501
-#, fuzzy
 msgid "scenario settings^Side"
-msgstr "Initium Missionis"
+msgstr "Manus"
 
 #: src/menu_events.cpp:502
-#, fuzzy
 msgid ""
 "scenario settings^Start\n"
 "Gold"
-msgstr "Initium Missionis"
+msgstr "Aura"
 
 #: src/menu_events.cpp:503
-#, fuzzy
 msgid ""
 "scenario settings^Base\n"
 "Income"
-msgstr "Initium Missionis"
+msgstr "Fructus Usitatus"
 
 #: src/menu_events.cpp:504
 msgid ""
@@ -4056,9 +4042,8 @@ msgid " < Back"
 msgstr " < Rursus"
 
 #: src/menu_events.cpp:592
-#, fuzzy
 msgid "Save the Map As"
-msgstr "Chartas Compartire"
+msgstr "Chartam Servare Ut..."
 
 #: src/menu_events.cpp:596
 #, fuzzy
@@ -4071,26 +4056,23 @@ msgstr "Charta servavitur."
 
 #: src/menu_events.cpp:612
 msgid "Could not save the map: $msg"
-msgstr ""
+msgstr "Chartam servare non posse: $mag"
 
 #: src/menu_events.cpp:627
-#, fuzzy
 msgid "Chat Log"
-msgstr "Acta Colloquii"
+msgstr "Colloquium"
 
 #: src/menu_events.cpp:637
 msgid "Message:"
 msgstr "Nuntius: "
 
 #: src/menu_events.cpp:638
-#, fuzzy
 msgid "Send to allies only"
-msgstr "Mittere tantum sociis"
+msgstr "Ad socios modo mittere"
 
 #: src/menu_events.cpp:638
-#, fuzzy
 msgid "Send to observers only"
-msgstr "Mittere tantum sociis"
+msgstr "Ad spectatores modo mittere"
 
 #: src/menu_events.cpp:703
 msgid "unit^Gold"
@@ -4131,14 +4113,12 @@ msgid "Recall"
 msgstr "Revocare"
 
 #: src/menu_events.cpp:915
-#, fuzzy
 msgid "Select unit:"
-msgstr "Unitatem elegere: "
+msgstr "Actorem eligere: "
 
 #: src/menu_events.cpp:924
-#, fuzzy
 msgid "Dismiss Unit"
-msgstr "Unitatem Dimittere"
+msgstr "Actorem Dimittere"
 
 #: src/menu_events.cpp:961
 #, fuzzy
@@ -4247,9 +4227,8 @@ msgid "(A) - admin command"
 msgstr ""
 
 #: src/menu_events.cpp:2267 src/menu_events.cpp:2470
-#, fuzzy
 msgid "(admin only)"
-msgstr "Caeruleus illustris"
+msgstr "(moderator modo)"
 
 #: src/menu_events.cpp:2287
 msgid ""
@@ -4319,7 +4298,7 @@ msgstr "<nomen> <nuntius> "
 
 #: src/menu_events.cpp:2324
 msgid "<level> <domain>"
-msgstr ""
+msgstr "<ordo> <regnum>"
 
 #: src/menu_events.cpp:2324
 msgid "Change the log level of a log domain."
@@ -4356,7 +4335,7 @@ msgstr "Nulla saecula inventa"
 
 #: src/menu_events.cpp:2337
 msgid "<password> <email (optional)>"
-msgstr ""
+msgstr "<tessera> <elitterae (arbitrarius)>"
 
 #: src/menu_events.cpp:2337
 msgid "Register your nick"
@@ -4372,7 +4351,7 @@ msgstr ""
 
 #: src/menu_events.cpp:2342
 msgid "<detail> <value>"
-msgstr ""
+msgstr "<summa> <res>"
 
 #: src/menu_events.cpp:2344
 #, fuzzy
@@ -4385,12 +4364,11 @@ msgstr ""
 
 #: src/menu_events.cpp:2348 src/menu_events.cpp:2351 src/menu_events.cpp:2353
 msgid "<room>"
-msgstr ""
+msgstr "<locus>"
 
 #: src/menu_events.cpp:2348
-#, fuzzy
 msgid "Join a room."
-msgstr "Ad Lusum Coniungere"
+msgstr "Ad Locum Convenire"
 
 #: src/menu_events.cpp:2351
 msgid "Part a room."
@@ -4407,7 +4385,7 @@ msgstr ""
 
 #: src/menu_events.cpp:2357
 msgid "<room> <msg>"
-msgstr ""
+msgstr "<locus> <msg>"
 
 #: src/menu_events.cpp:2357
 msgid "Room message."
@@ -4415,7 +4393,7 @@ msgstr ""
 
 #: src/menu_events.cpp:2359
 msgid "<room> <type> [value]"
-msgstr ""
+msgstr "<locus> <modus> [res]"
 
 #: src/menu_events.cpp:2359
 msgid "Room query."
@@ -4449,7 +4427,7 @@ msgstr ""
 
 #: src/menu_events.cpp:2499
 msgid "<side> <nick>"
-msgstr "<pars> <nomen>"
+msgstr "<manus> <nomen>"
 
 #: src/menu_events.cpp:2499
 msgid "Assign control of a side to a different player or observer."
@@ -4531,7 +4509,7 @@ msgstr ""
 
 #: src/menu_events.cpp:2531
 msgid "[limit]"
-msgstr ""
+msgstr "[finis]"
 
 #: src/menu_events.cpp:2533
 #, fuzzy
@@ -4576,7 +4554,7 @@ msgstr ""
 
 #: src/menu_events.cpp:2549
 msgid "<var>=<value>"
-msgstr "<var>=<pretium>"
+msgstr "<var>=<variabile>"
 
 #: src/menu_events.cpp:2549
 #, fuzzy
@@ -4753,9 +4731,8 @@ msgid "Can't change control of out-of-bounds side: '$side'."
 msgstr ""
 
 #: src/menu_events.cpp:3235
-#, fuzzy
 msgid "Layers"
-msgstr "Lusores: "
+msgstr "Coria"
 
 #: src/menu_events.cpp:3308
 msgid "Choose Scenario (Debug!)"
@@ -4805,14 +4782,12 @@ msgid "Do you wish to clear all of your discovered units from help?"
 msgstr ""
 
 #: src/menu_events.cpp:3524
-#, fuzzy
 msgid "Invalid unit type"
-msgstr "Nomen elementi invalidum"
+msgstr "Modus Actorum Irritus"
 
 #: src/menu_events.cpp:3537
-#, fuzzy
 msgid "Invalid location"
-msgstr "Color invalidus"
+msgstr "Locus Irritus"
 
 #: src/menu_events.cpp:3572
 #, fuzzy
@@ -4849,14 +4824,12 @@ msgid "Choose weapon:"
 msgstr "Opta ferrum:"
 
 #: src/multiplayer.cpp:142 src/multiplayer.cpp:179
-#, fuzzy
 msgid "Connecting to Server..."
-msgstr "Ad Moderatrum Coniungens..."
+msgstr "Ad Servatrum Applicans..."
 
 #: src/multiplayer.cpp:152
-#, fuzzy
 msgid "Reading from Server..."
-msgstr "A Moderatro Legens..."
+msgstr "A Servatro Legens..."
 
 #: src/multiplayer.cpp:162
 #, fuzzy
@@ -4967,11 +4940,11 @@ msgstr "(Locus inanis)"
 
 #: src/multiplayer_connect.cpp:665
 msgid "(Reserved for $playername)"
-msgstr ""
+msgstr "(Pro $playername adsignatus)"
 
 #: src/multiplayer_connect.cpp:766
 msgid "Reserved"
-msgstr "Abstrusus"
+msgstr "Adsignatus"
 
 #: src/multiplayer_connect.cpp:767
 msgid "--give--"
@@ -5103,9 +5076,8 @@ msgid "Observers"
 msgstr "Spectatores"
 
 #: src/multiplayer_create.cpp:91
-#, fuzzy
 msgid "Regenerate"
-msgstr "Regenera"
+msgstr "Novare"
 
 #: src/multiplayer_create.cpp:92
 msgid "Settings..."
@@ -5237,19 +5209,16 @@ msgid "Init. Limit: "
 msgstr "Limes Init.: "
 
 #: src/multiplayer_create.cpp:391
-#, fuzzy
 msgid "Turn Bonus: "
-msgstr "Bonum Tractus: "
+msgstr "Bonum a Vice: "
 
 #: src/multiplayer_create.cpp:395
-#, fuzzy
 msgid "Reservoir: "
-msgstr "Stagnum: "
+msgstr "Lacus:"
 
 #: src/multiplayer_create.cpp:400
-#, fuzzy
 msgid "Action Bonus: "
-msgstr "Bonum Actionis: "
+msgstr "Bonum ab Actione: "
 
 #: src/multiplayer_create.cpp:407
 msgid "Village Gold: "
@@ -5296,9 +5265,8 @@ msgid "Join Game"
 msgstr "Ad Ludum Convenire"
 
 #: src/multiplayer_lobby.cpp:732
-#, fuzzy
 msgid "Quick Replays"
-msgstr "Remonstrata Celera"
+msgstr "Relusi celeres"
 
 #: src/multiplayer_lobby.cpp:734
 msgid "Preferences"
@@ -5368,9 +5336,8 @@ msgid "Password: "
 msgstr "Tessera: "
 
 #: src/multiplayer_ui.cpp:197
-#, fuzzy
 msgid "Invalid Color"
-msgstr "Color invalidus"
+msgstr "Color Irritus"
 
 #: src/multiplayer_ui.cpp:432
 msgid "Selected user: "
@@ -5477,9 +5444,8 @@ msgstr ""
 "servare?"
 
 #: src/play_controller.cpp:1317 src/replay_controller.cpp:305
-#, fuzzy
 msgid "Error details:"
-msgstr "Error:"
+msgstr "Summa erroris:"
 
 #: src/playcampaign.cpp:137 src/playcampaign.cpp:177
 msgid "Defeat"
@@ -5523,7 +5489,7 @@ msgstr ""
 
 #: src/playmp_controller.cpp:93
 msgid "Turn changed"
-msgstr ""
+msgstr "Vicis mutata"
 
 #: src/playmp_controller.cpp:224
 msgid "Undoing moves not yet transmitted to the server."
@@ -5549,9 +5515,8 @@ msgid "Remaining gold: "
 msgstr "Aurum relinquum: "
 
 #: src/playsingle_controller.cpp:255
-#, fuzzy
 msgid "Early finish bonus: "
-msgstr "Bonum quod mature finisti: "
+msgstr "Bonum a perfectione cito: "
 
 #: src/playsingle_controller.cpp:257
 msgid "per turn"
@@ -5641,14 +5606,12 @@ msgid "You have emerged victorious!"
 msgstr "Vicisti!"
 
 #: src/playturn.cpp:217
-#, fuzzy
 msgid "Replace with AI"
-msgstr "Substituere cum IA"
+msgstr "Cum IA Supponere"
 
 #: src/playturn.cpp:218
-#, fuzzy
 msgid "Replace with local player"
-msgstr "Substituere cum lusore locali"
+msgstr "Cum lusore locale Supponere"
 
 #: src/playturn.cpp:219
 #, fuzzy
@@ -5656,9 +5619,8 @@ msgid "Abort game"
 msgstr "Lusum finire"
 
 #: src/playturn.cpp:225 src/playturn.cpp:239
-#, fuzzy
 msgid "Replace with $player"
-msgstr "Substituere cum lusore locali"
+msgstr "Cum $player supponere"
 
 #: src/playturn.cpp:245
 #, fuzzy
@@ -5814,9 +5776,8 @@ msgid "Base attacks: "
 msgstr ""
 
 #: src/reports.cpp:470
-#, fuzzy
 msgid "Swarm: "
-msgstr "examen"
+msgstr "Fervere:"
 
 #: src/reports.cpp:482
 msgid "Weapon range: "
@@ -5824,7 +5785,7 @@ msgstr "Iactus teli: "
 
 #: src/reports.cpp:483
 msgid "Damage type: "
-msgstr "Genus damni:"
+msgstr "Modus damni:"
 
 #: src/reports.cpp:484
 msgid "Damage versus: "
@@ -5864,9 +5825,8 @@ msgid "Observers:"
 msgstr "Spectatores: "
 
 #: src/savegame.cpp:207 src/savegame.cpp:209
-#, fuzzy
 msgid " replay"
-msgstr " remonstratum"
+msgstr " relusus"
 
 #: src/savegame.cpp:447 src/savegame.cpp:451
 #, fuzzy
@@ -5926,9 +5886,8 @@ msgid "Could not write to file"
 msgstr "Non poteram pligam scribere"
 
 #: src/savegame.cpp:943
-#, fuzzy
 msgid "Save Replay"
-msgstr "Remonstrare"
+msgstr "Relusum Servare"
 
 #: src/savegame.cpp:961
 #, fuzzy
@@ -6032,9 +5991,8 @@ msgid "Kills"
 msgstr "Interfecti"
 
 #: src/statistics_dialog.cpp:107
-#, fuzzy
 msgid "Details"
-msgstr "cauda"
+msgstr "Summa"
 
 #: src/statistics_dialog.cpp:175
 msgid "Damage"
@@ -6042,7 +6000,7 @@ msgstr "Damnum"
 
 #: src/statistics_dialog.cpp:176
 msgid "Overall"
-msgstr "Summa"
+msgstr "Totus"
 
 #: src/statistics_dialog.cpp:178
 msgid "This Turn"
