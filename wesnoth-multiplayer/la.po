@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth 1.8\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-12-08 18:05+0100\n"
-"PO-Revision-Date: 2011-02-25 05:53+0100\n"
+"PO-Revision-Date: 2011-02-26 09:10+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -555,7 +555,7 @@ msgstr ""
 #. [then]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:972
 msgid "Heavy Snowfall"
-msgstr "Geli Multi"
+msgstr "Multus Nix"
 
 #. [then]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:986
@@ -907,7 +907,7 @@ msgstr ""
 #. [side]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:91
 msgid "Statue of Lhun-dup"
-msgstr ""
+msgstr "Imago Lhuni Dupi"
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:93
@@ -917,7 +917,7 @@ msgstr ""
 #. [side]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:95
 msgid "Statue of Ri-nzen"
-msgstr ""
+msgstr "Imago Rinzeni"
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:97
@@ -927,7 +927,7 @@ msgstr ""
 #. [side]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:99
 msgid "Statue of Ten-zin"
-msgstr ""
+msgstr "Imago Tenzini"
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:101
@@ -937,7 +937,7 @@ msgstr ""
 #. [side]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:103
 msgid "Statue of Lo-bsang"
-msgstr ""
+msgstr "Imago Lobsangi"
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:105
@@ -1415,7 +1415,7 @@ msgstr ""
 #. [multiplayer]: id=multiplayer_Hexcake
 #: data/multiplayer/scenarios/6p_Hexcake.cfg:5
 msgid "6p — Hexcake"
-msgstr "6l — Placenta Hexagonum"
+msgstr "6l — Placenta Hexagoni"
 
 #. [multiplayer]: id=multiplayer_Hexcake
 #: data/multiplayer/scenarios/6p_Hexcake.cfg:7
