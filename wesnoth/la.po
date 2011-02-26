@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth 1.8\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2011-02-25 09:30+0100\n"
+"PO-Revision-Date: 2011-02-26 03:47+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -26,7 +26,7 @@ msgstr ""
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:5
 msgid "Compressed Saves"
-msgstr ""
+msgstr "Servati Oppressi"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:12
@@ -159,9 +159,8 @@ msgstr "+Administratores Communes"
 
 #. [about]
 #: data/core/about.cfg:250
-#, fuzzy
 msgid "Artwork and Graphics"
-msgstr "+Inventores artium ingenuarum"
+msgstr "Imagines"
 
 #. [about]
 #: data/core/about.cfg:630
@@ -171,13 +170,12 @@ msgstr "Musica"
 #. [about]
 #: data/core/about.cfg:667
 msgid "Sound Effects"
-msgstr "Strepiti"
+msgstr "Soni"
 
 #. [about]
 #: data/core/about.cfg:683
-#, fuzzy
 msgid "Campaign Design"
-msgstr "Inventor Stipendii"
+msgstr "Forma Militiae"
 
 #. [about]
 #: data/core/about.cfg:754
@@ -715,9 +713,8 @@ msgstr "Opto ut hoc nummum aureum mihi decies reddatur."
 
 #. [option]: speaker=narrator
 #: data/core/macros/items.cfg:52
-#, fuzzy
 msgid "Peace throughout Wesnoth."
-msgstr "Pacem per Wesnoth."
+msgstr "Pacem per Vesnotem."
 
 #. [message]: speaker=unit
 #: data/core/macros/items.cfg:59
@@ -1720,11 +1717,11 @@ msgstr ""
 
 #: data/core/macros/objective-utils.cfg:48
 msgid "Alternative objective:"
-msgstr ""
+msgstr "Propositum alterum:"
 
 #: data/core/macros/objective-utils.cfg:52
 msgid "Bonus objective:"
-msgstr ""
+msgstr "Propositum additum:"
 
 #. [message]: speaker=narrator
 #: data/core/macros/scenario-utils.cfg:62
@@ -1916,22 +1913,20 @@ msgstr "Portus $name|ensis, Portus $name|ensis, Portus $name|ensis"
 
 #. [language]
 #: data/english.cfg:32
-#, fuzzy
 msgid ""
 "$name|ham,$name|ford,$name|cross,$river|ford,$river|cross,$name on river"
 msgstr ""
-"Pagus $name|ensis,Vadum $name|ensis,Transitus $name|ensis,Vadum $river|i,"
-"Transitus $river|i"
+"Pagus $name|ensis,Vadum $name|ensis,Transitus $river|ensis,$river|vadum,"
+"$name| in flumine"
 
 #. [language]
 #: data/english.cfg:33
-#, fuzzy
 msgid ""
 "$river|bridge,$river|bridge,$river|bridge,$name|ham,$name|bridge,$bridge|ham,"
 "$bridge|ton"
 msgstr ""
-"Porta $river|i,Pons $river|i,Pons $river|ensis,Pagus $name|ensis,Pons $name|"
-"ensis"
+"$river|pons,$river|pons,$river|pons,Pagus $name|ensis,Pons $name|ensis,"
+"$bridge|arium,$bridge|num"
 
 #. [language]
 #: data/english.cfg:34
@@ -1940,12 +1935,12 @@ msgstr "$name|num,Oppidum $name|enssis,Campus $name|ensis"
 
 #. [language]
 #: data/english.cfg:35
-#, fuzzy
 msgid ""
 "$name|ham,$name|ton,$name|wood,$name Forest,$forest|wood,$forest|ham,$forest|"
 "ton"
 msgstr ""
-"Pagus $name|ensis,Oppidum $name|ense,Silva $name|ensis,Nemus $name|ensis"
+"Pagus $name|ensis,Oppidum $name|sis,Silva $name|ensis,Nemus $name|ensis,"
+"$forest|silva,$forest|rium,$forest|ium"
 
 #. [language]
 #: data/english.cfg:36
@@ -2051,7 +2046,7 @@ msgstr ""
 #. [tip]
 #: data/hardwired/tips.cfg:5 data/hardwired/tips.cfg:137
 msgid "<i>― Great Mage Delfador, 516YW</i>"
-msgstr "<i>— Magnus Magus Delfador, DXVI AV</i>"
+msgstr "<i>― Magnus Magus Delfador, DXVI AV</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:8
@@ -2080,7 +2075,7 @@ msgstr ""
 #: data/hardwired/tips.cfg:225 data/hardwired/tips.cfg:234
 #: data/hardwired/tips.cfg:238
 msgid "<i>― The Wesnoth Tactical Guide</i>"
-msgstr ""
+msgstr "<i>― De Re Militare Vesnotei</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:12
@@ -2093,7 +2088,7 @@ msgstr ""
 #. [tip]
 #: data/hardwired/tips.cfg:13
 msgid "<i>― King Konrad, 536YW</i>"
-msgstr "<i>— Rex Conradus, DXXXVI</i>"
+msgstr "<i>― Rex Conradus, DXXXVI AV</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:16
@@ -2138,7 +2133,7 @@ msgstr ""
 #: data/hardwired/tips.cfg:29 data/hardwired/tips.cfg:105
 #: data/hardwired/tips.cfg:209 data/hardwired/tips.cfg:221
 msgid "<i>― High Lord Kalenz, 470YW</i>"
-msgstr "<i>— Optimas Calens, IDLXX</i>"
+msgstr "<i>― Optimas Calens, IDLXX AV</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:32
@@ -2166,7 +2161,7 @@ msgstr ""
 #. [tip]
 #: data/hardwired/tips.cfg:41
 msgid "<i>― The Wesnoth Community</i>"
-msgstr "<i>— Populus Vesnotei</i>"
+msgstr "<i>― Populus Vesnotei</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:44
@@ -2341,7 +2336,7 @@ msgstr ""
 #. [tip]
 #: data/hardwired/tips.cfg:93 data/hardwired/tips.cfg:173
 msgid "<i>― Sir Kaylan, 498YW</i>"
-msgstr ""
+msgstr "<i>― Dominus Ceilanus, IID AV</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:96
@@ -2358,7 +2353,7 @@ msgstr ""
 #. [tip]
 #: data/hardwired/tips.cfg:97
 msgid "<i>― Sir Kaylan, 502YW</i>"
-msgstr ""
+msgstr "<i>― Dominus Ceilanus, DII AV</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:100
@@ -2414,7 +2409,7 @@ msgstr "Noli timere regredi et redisponere, saepe clavis victoriae est."
 #. [tip]
 #: data/hardwired/tips.cfg:117
 msgid "<i>― Meneldur, 123YW</i>"
-msgstr "<i>— Meneldurus, CXXIII</i>"
+msgstr "<i>― Meneldurus, CXXIII AV</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:120
@@ -2487,7 +2482,7 @@ msgstr ""
 #. [tip]
 #: data/hardwired/tips.cfg:141
 msgid "<i>― Princess Li’sar, 515YW</i>"
-msgstr "<i>— Filia Reginae Lisaris, DXV</i>"
+msgstr "<i>― Filia Reginae Lisaris, DXV AV</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:144
@@ -2528,7 +2523,7 @@ msgstr ""
 #. [tip]
 #: data/hardwired/tips.cfg:157 data/hardwired/tips.cfg:201
 msgid "<i>― The Scroll of Chantal, 516YW</i>"
-msgstr "<i>— Liber Chantalae, DXVI</i>"
+msgstr "<i>― Liber Chantalae, DXVI AV</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:160
@@ -2611,7 +2606,7 @@ msgstr ""
 #. [tip]
 #: data/hardwired/tips.cfg:185
 msgid "<i>― Queen Li’sar, 528YW</i>"
-msgstr "<i>— Regina Lisaris, DXXVIII</i>"
+msgstr "<i>― Regina Lisaris, DXXVIII AV</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:188
@@ -2683,7 +2678,7 @@ msgstr ""
 #. [tip]
 #: data/hardwired/tips.cfg:217 data/hardwired/tips.cfg:229
 msgid "<i>― Lord Hamel of Knalga</i>"
-msgstr "<i>— Dominus Hamelus Gnalgae</i>"
+msgstr "<i>― Dominus Hamelus Gnalgae</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:220
@@ -2741,14 +2736,12 @@ msgid "petrified"
 msgstr "defixus"
 
 #: data/lua/wml-tags.lua:710
-#, fuzzy
 msgid "female^unhealable"
-msgstr "inmortus"
+msgstr "insanabilis"
 
 #: data/lua/wml-tags.lua:710
-#, fuzzy
 msgid "unhealable"
-msgstr "Nonterra"
+msgstr "insanabilis"
 
 #: data/lua/wml/objectives.lua:50 src/multiplayer_connect.cpp:1608
 msgid "Victory:"
@@ -2800,9 +2793,8 @@ msgstr ""
 
 #. [language]
 #: data/scenario-test.cfg:3043
-#, fuzzy
 msgid "electrical"
-msgstr "magicalis"
+msgstr "electricus"
 
 #. [menu]: id=menu-main
 #: data/themes/default.cfg:120 data/themes/dfool.cfg:139
@@ -2901,9 +2893,8 @@ msgstr "Act."
 #. [remove]: id=button-endturn
 #. [menu]: id=button-endturn2
 #: data/themes/default.cfg:1024 data/themes/default.cfg:1032
-#, fuzzy
 msgid "short end-turn^E."
-msgstr "Finire"
+msgstr "F."
 
 #. [label]: id=label-mp
 #: data/themes/dfool.cfg:257
@@ -2970,9 +2961,8 @@ msgstr "vicem manus ludere"
 
 #. [menu]: id=show-what
 #: data/themes/macros.cfg:163
-#, fuzzy
 msgid "Point of view"
-msgstr "Potio Ruinae"
+msgstr "Aspectus"
 
 #. [menu]: id=skip-animation, type=checkbox
 #: data/themes/macros.cfg:179
@@ -3020,18 +3010,16 @@ msgid "Failed teleport! Exit not empty"
 msgstr ""
 
 #: src/actions.cpp:2552
-#, fuzzy
 msgid "Friendly unit sighted"
 msgid_plural "$friends friendly units sighted"
-msgstr[0] "Untitas socia vista"
-msgstr[1] "Untitas socia vista"
+msgstr[0] "Actor socius visus"
+msgstr[1] "$friends actores socii visi "
 
 #: src/actions.cpp:2555
-#, fuzzy
 msgid "Enemy unit sighted!"
 msgid_plural "$enemies enemy units sighted!"
-msgstr[0] "Unitas inimica vista!"
-msgstr[1] "Unitas inimica vista!"
+msgstr[0] "Actor hostium visus!"
+msgstr[1] "$enemies actores hostium visi!"
 
 #: src/actions.cpp:2560
 msgid "Part of 'Units sighted! (...)' sentence^1 friendly"
@@ -3046,9 +3034,8 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: src/actions.cpp:2562
-#, fuzzy
 msgid "Units sighted! ($friendphrase, $enemyphrase)"
-msgstr "Unitates vistae! ($friends sociae, $enemies inimicae)"
+msgstr "Actores visi! ($friendphrase, $enemyphrase)"
 
 #: src/actions.cpp:2571
 #, fuzzy
@@ -3337,9 +3324,8 @@ msgid "Choose the add-on to download."
 msgstr "Opta appendicem arcessere."
 
 #: src/addon/manager.cpp:1272
-#, fuzzy
 msgid "Download"
-msgstr "Arcessiti"
+msgstr "Arcessitum"
 
 #: src/addon/manager.cpp:1273
 msgid "Done"
@@ -3387,9 +3373,8 @@ msgid "Uninstall add-ons"
 msgstr "Summove appendicem"
 
 #: src/addon/manager.cpp:1372
-#, fuzzy
 msgid "Remove"
-msgstr "motus"
+msgstr "Delere"
 
 #: src/addon/manager.cpp:1379
 msgid "Are you sure you want to remove the add-on '$addon|'?"
@@ -3487,9 +3472,8 @@ msgid "Do you really want to delete this game?"
 msgstr "Visne vere hunc lusum delere?"
 
 #: src/dialogs.cpp:283
-#, fuzzy
 msgid "Don’t ask me again!"
-msgstr "Noli me rursus rogitare!"
+msgstr "Noli me iterum rogare!"
 
 #: src/dialogs.cpp:455 src/savegame.cpp:135
 msgid "%a %b %d %H:%M %Y"
@@ -3549,9 +3533,8 @@ msgid "%b %d"
 msgstr "%b %d"
 
 #: src/dialogs.cpp:578
-#, fuzzy
 msgid "No Saved Games"
-msgstr "Nulli Lusus Servati"
+msgstr "Nulli Ludi Servati"
 
 #: src/dialogs.cpp:579
 #, fuzzy
@@ -3731,14 +3714,12 @@ msgid "Remote scenario"
 msgstr "Missio remota"
 
 #: src/gui/dialogs/lobby/lobby_data.cpp:274 src/multiplayer_lobby.cpp:508
-#, fuzzy
 msgid "Unknown scenario: $scenario_id"
-msgstr "Missio incognita: '"
+msgstr "Scaenarium ignotum: $scenario_id"
 
 #: src/gui/dialogs/lobby/lobby_data.cpp:279 src/multiplayer_lobby.cpp:512
-#, fuzzy
 msgid "Unknown scenario"
-msgstr "Missio incognita"
+msgstr "Scaenarium ignotum"
 
 #: src/gui/dialogs/lobby/lobby_data.cpp:285 src/multiplayer_lobby.cpp:517
 #, fuzzy
@@ -3750,11 +3731,10 @@ msgid "Turn "
 msgstr "Vicis "
 
 #: src/gui/dialogs/lobby/lobby_data.cpp:300 src/multiplayer_lobby.cpp:537
-#, fuzzy
 msgid "Vacant Slot:"
 msgid_plural "Vacant Slots:"
-msgstr[0] "Rima Vacua:"
-msgstr[1] "Rima Vacua:"
+msgstr[0] "Locus Vacuus:"
+msgstr[1] "Loci Vacui:"
 
 #: src/gui/dialogs/lobby/lobby_data.cpp:306 src/multiplayer_lobby.cpp:548
 msgid "Fog"
@@ -3974,9 +3954,8 @@ msgid "unit list^Traits"
 msgstr "Ingenia"
 
 #: src/menu_events.cpp:309
-#, fuzzy
 msgid "Unit List"
-msgstr "Index Unitatum"
+msgstr "Tabula Actorum"
 
 #: src/menu_events.cpp:315 src/menu_events.cpp:337
 msgid "Scroll To"
@@ -4257,7 +4236,7 @@ msgstr "Nullum propositum ad manum"
 
 #: src/menu_events.cpp:2134
 msgid "Usage:"
-msgstr ""
+msgstr "Usus:"
 
 #: src/menu_events.cpp:2139
 msgid "aliases:"
@@ -4687,9 +4666,8 @@ msgid "(empty)"
 msgstr "(inanis)"
 
 #: src/menu_events.cpp:2816 src/menu_events.cpp:2822 src/menu_events.cpp:2872
-#, fuzzy
 msgid "ignores list"
-msgstr "In inventario amicorum"
+msgstr "tabula neglectorum"
 
 #: src/menu_events.cpp:2822
 #, fuzzy
@@ -4702,9 +4680,8 @@ msgid "Invalid username: $nick"
 msgstr "Nomen irritum: "
 
 #: src/menu_events.cpp:2835 src/menu_events.cpp:2842 src/menu_events.cpp:2868
-#, fuzzy
 msgid "friends list"
-msgstr "In inventario amicorum"
+msgstr "tabula amicorum"
 
 #: src/menu_events.cpp:2842
 #, fuzzy
@@ -4717,9 +4694,8 @@ msgid "Removed from list: $nick"
 msgstr "Ex elencho utentium ignoratorum sublatus: "
 
 #: src/menu_events.cpp:2858 src/menu_events.cpp:2876
-#, fuzzy
 msgid "friends and ignores list"
-msgstr "Ad elenchum utentium ignoratorum adiunctus: "
+msgstr "tabula amicorum et neglectorum"
 
 #: src/menu_events.cpp:2876
 msgid "There are no players on your friends or ignore list."
@@ -5316,9 +5292,8 @@ msgid "Observe Game"
 msgstr "Ludum Spectare"
 
 #: src/multiplayer_lobby.cpp:730
-#, fuzzy
 msgid "Join Game"
-msgstr "Ad Lusum Coniungere"
+msgstr "Ad Ludum Convenire"
 
 #: src/multiplayer_lobby.cpp:732
 #, fuzzy
@@ -5326,9 +5301,8 @@ msgid "Quick Replays"
 msgstr "Remonstrata Celera"
 
 #: src/multiplayer_lobby.cpp:734
-#, fuzzy
 msgid "Preferences"
-msgstr "Impostationes"
+msgstr "Electiones"
 
 #: src/multiplayer_lobby.cpp:736
 msgid "Quit"
@@ -5343,9 +5317,8 @@ msgid "Invert"
 msgstr "Intervertere"
 
 #: src/multiplayer_lobby.cpp:740
-#, fuzzy
 msgid "Vacant Slots"
-msgstr "Rimae Vacuae:"
+msgstr "Loci Vacui"
 
 #: src/multiplayer_lobby.cpp:741
 msgid "Friends in Game"
@@ -5400,9 +5373,8 @@ msgid "Invalid Color"
 msgstr "Color invalidus"
 
 #: src/multiplayer_ui.cpp:432
-#, fuzzy
 msgid "Selected user: "
-msgstr "Unitatem elegere: "
+msgstr "Actor electus:"
 
 #: src/multiplayer_wait.cpp:128
 msgid "Leader: "
@@ -5582,9 +5554,8 @@ msgid "Early finish bonus: "
 msgstr "Bonum quod mature finisti: "
 
 #: src/playsingle_controller.cpp:257
-#, fuzzy
 msgid "per turn"
-msgstr "pro tractu"
+msgstr "invicem"
 
 #: src/playsingle_controller.cpp:258
 #, fuzzy
@@ -5654,14 +5625,12 @@ msgid ""
 msgstr "Disiunctio retis accedit et lusus non pergit. Visne lusum servare?"
 
 #: src/playsingle_controller.cpp:667
-#, fuzzy
 msgid "It is now $name|’s turn"
-msgstr "Imperium nunc habes"
+msgstr "Vicis iam $name|i est"
 
 #: src/playsingle_controller.cpp:896
-#, fuzzy
 msgid "Scenario Report"
-msgstr "Renuntiatio Missionis"
+msgstr "Nuntius Scaenarii"
 
 #: src/playsingle_controller.cpp:899
 msgid "Victory"
@@ -5779,9 +5748,8 @@ msgid "This unit has been petrified. It may not move or attack."
 msgstr "Unitas haec petrificatus est. Non potest movere aut oppugnare."
 
 #: src/reports.cpp:256
-#, fuzzy
 msgid "Alignment: "
-msgstr "Gratia diei et noctis: "
+msgstr "Pars:"
 
 #: src/reports.cpp:275
 msgid "Ability: "
@@ -5838,7 +5806,6 @@ msgid "Slowed: "
 msgstr "Languidi: "
 
 #: src/reports.cpp:466
-#, fuzzy
 msgid "Attacks: "
 msgstr "Ictus:"
 
@@ -5950,9 +5917,8 @@ msgid "Saved"
 msgstr "Servatus Est"
 
 #: src/savegame.cpp:771
-#, fuzzy
 msgid "The game has been saved"
-msgstr "Lusus servatus est"
+msgstr "Ludus servatus est"
 
 #: src/savegame.cpp:805 src/savegame.cpp:830
 #, fuzzy
@@ -6137,7 +6103,7 @@ msgstr "motus"
 
 #: src/unit.cpp:2423 src/unit.cpp:2557
 msgid "XP to advance"
-msgstr "PU ad producendum"
+msgstr "PU producendi"
 
 #: src/unit.cpp:2550
 msgid " move"
