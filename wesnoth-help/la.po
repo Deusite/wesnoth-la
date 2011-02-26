@@ -13,8 +13,8 @@ msgstr ""
 "Project-Id-Version: Wesnoth 1.8\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2010-04-30 14:14-0500\n"
-"Last-Translator: Michael Babich (Aethaeryn) <michaelbabich7@gmail.com>\n"
+"PO-Revision-Date: 2011-02-26 11:49+0100\n"
+"Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -52,9 +52,8 @@ msgstr ""
 #. [chance_to_hit]: id=magical
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:835
 #: data/core/macros/abilities.cfg:667
-#, fuzzy
 msgid "magical"
-msgstr "magicalis"
+msgstr "magicus"
 
 #. [chance_to_hit]: id=magical
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:838
@@ -71,9 +70,8 @@ msgstr ""
 #. [firststrike]: id=firststrike
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:850
 #: data/core/macros/abilities.cfg:716
-#, fuzzy
 msgid "firststrike"
-msgstr "ictus primus"
+msgstr "primus ictus"
 
 #. [firststrike]: id=firststrike
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:853
@@ -89,15 +87,14 @@ msgstr ""
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:16
 #: data/core/macros/abilities.cfg:10
-#, fuzzy
 msgid "heals +4"
-msgstr "medetur IV"
+msgstr "medetur +IV"
 
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:17
 #: data/core/macros/abilities.cfg:11
 msgid "female^heals +4"
-msgstr ""
+msgstr "medetur +IV"
 
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:22
@@ -123,15 +120,14 @@ msgstr ""
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:45
 #: data/core/macros/abilities.cfg:30
-#, fuzzy
 msgid "heals +8"
-msgstr "medetur VIII"
+msgstr "medetur +VIII"
 
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:46
 #: data/core/macros/abilities.cfg:31
 msgid "female^heals +8"
-msgstr ""
+msgstr "medetur +VIII"
 
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:51
@@ -160,12 +156,12 @@ msgstr ""
 #. [topic]: id=..encyclopedia
 #: data/core/encyclopedia/_main.cfg:5 data/core/encyclopedia/_main.cfg:12
 msgid "Encyclopedia"
-msgstr ""
+msgstr "Pandectes"
 
 #. [topic]: id=..encyclopedia
 #: data/core/encyclopedia/_main.cfg:14
 msgid "<ref>dst='..geography' text='Geography'</ref>"
-msgstr ""
+msgstr "<ref>dst='..geographia' text='Geographia'</ref>"
 
 #. [topic]: id=caste
 #: data/core/encyclopedia/drakes.cfg:7
@@ -184,7 +180,7 @@ msgstr ""
 #. [topic]: id=aerie
 #: data/core/encyclopedia/drakes.cfg:13
 msgid "Aerie"
-msgstr ""
+msgstr "Nidus"
 
 #. [topic]: id=aerie
 #: data/core/encyclopedia/drakes.cfg:14
@@ -244,7 +240,7 @@ msgstr ""
 #. [topic]: id=abyss
 #: data/core/encyclopedia/drakes.cfg:44
 msgid "Abyss"
-msgstr ""
+msgstr "Abyssus"
 
 #. [topic]: id=abyss
 #: data/core/encyclopedia/drakes.cfg:45
@@ -382,7 +378,7 @@ msgstr ""
 #. [topic]: id=egg
 #: data/core/encyclopedia/drakes.cfg:110
 msgid "Egg, Drake"
-msgstr ""
+msgstr "Ovum, Draculus"
 
 #. [topic]: id=egg
 #: data/core/encyclopedia/drakes.cfg:111
@@ -449,9 +445,8 @@ msgstr ""
 
 #. [topic]: id=swarm
 #: data/core/encyclopedia/drakes.cfg:140
-#, fuzzy
 msgid "Swarm"
-msgstr "examen"
+msgstr "Fervet"
 
 #. [topic]: id=swarm
 #: data/core/encyclopedia/drakes.cfg:141
@@ -462,9 +457,8 @@ msgstr ""
 
 #. [topic]: id=swarming
 #: data/core/encyclopedia/drakes.cfg:146
-#, fuzzy
 msgid "Swarming"
-msgstr "examen"
+msgstr "Fervere"
 
 #. [topic]: id=swarming
 #: data/core/encyclopedia/drakes.cfg:147
@@ -487,7 +481,7 @@ msgstr ""
 #. [topic]: id=mount_morogor
 #: data/core/encyclopedia/drakes.cfg:158
 msgid "Mount Morogor"
-msgstr ""
+msgstr "Mons Morogor"
 
 #. [topic]: id=mount_morogor
 #: data/core/encyclopedia/drakes.cfg:159
@@ -561,12 +555,12 @@ msgstr ""
 #: data/core/encyclopedia/geography.cfg:11
 #: data/core/encyclopedia/geography.cfg:18
 msgid "Geography"
-msgstr ""
+msgstr "Geographia"
 
 #. [topic]: id=arkan_thoria
 #: data/core/encyclopedia/geography.cfg:25
 msgid "Arkan-thoria"
-msgstr ""
+msgstr "Arcan-toria"
 
 #. [topic]: id=arkan_thoria
 #: data/core/encyclopedia/geography.cfg:26
@@ -577,9 +571,8 @@ msgstr ""
 
 #. [topic]: id=great_ocean
 #: data/core/encyclopedia/geography.cfg:31
-#, fuzzy
 msgid "Great Ocean"
-msgstr "Arbor Magnus"
+msgstr "Oceanus Magnus"
 
 #. [topic]: id=great_ocean
 #: data/core/encyclopedia/geography.cfg:32
@@ -592,7 +585,7 @@ msgstr ""
 #. [topic]: id=morogor
 #: data/core/encyclopedia/geography.cfg:37
 msgid "Morogor"
-msgstr ""
+msgstr "Morogor"
 
 #. [topic]: id=morogor
 #: data/core/encyclopedia/geography.cfg:40
@@ -606,9 +599,8 @@ msgstr ""
 
 #. [topic]: id=green_isle
 #: data/core/encyclopedia/geography.cfg:45
-#, fuzzy
 msgid "Green Isle"
-msgstr "Viridis"
+msgstr "Insula Viridis"
 
 #. [topic]: id=green_isle
 #: data/core/encyclopedia/geography.cfg:46
@@ -619,7 +611,7 @@ msgstr ""
 #. [topic]: id=old_continent
 #: data/core/encyclopedia/geography.cfg:51
 msgid "Old Continent"
-msgstr ""
+msgstr "Continens Priscus"
 
 #. [topic]: id=old_continent
 #: data/core/encyclopedia/geography.cfg:52
@@ -631,7 +623,7 @@ msgstr ""
 #. [topic]: id=great_continent
 #: data/core/encyclopedia/geography.cfg:57
 msgid "Great Continent"
-msgstr ""
+msgstr "Continens Magnus"
 
 #. [topic]: id=great_continent
 #: data/core/encyclopedia/geography.cfg:58
@@ -644,7 +636,7 @@ msgstr ""
 #. [topic]: id=irdya
 #: data/core/encyclopedia/geography.cfg:63
 msgid "Irdya"
-msgstr ""
+msgstr "Irdya"
 
 #. [topic]: id=irdya
 #: data/core/encyclopedia/geography.cfg:64
@@ -657,9 +649,8 @@ msgstr ""
 
 #. [topic]: id=kingdom_wesnoth
 #: data/core/encyclopedia/geography.cfg:69
-#, fuzzy
 msgid "Kingdom of Wesnoth"
-msgstr "-- Liber Occidiseptentrionis"
+msgstr "Regnum Vesnotei"
 
 #. [topic]: id=kingdom_wesnoth
 #: data/core/encyclopedia/geography.cfg:95
@@ -722,7 +713,7 @@ msgstr ""
 #. [topic]: id=elensefar
 #: data/core/encyclopedia/geography.cfg:100
 msgid "Elensefar"
-msgstr ""
+msgstr "Ellensephar"
 
 #. [topic]: id=elensefar
 #: data/core/encyclopedia/geography.cfg:107
@@ -747,7 +738,7 @@ msgstr ""
 #. [topic]: id=northlands
 #: data/core/encyclopedia/geography.cfg:112
 msgid "Northlands"
-msgstr ""
+msgstr "Septentrionalia"
 
 #. [topic]: id=northlands
 #: data/core/encyclopedia/geography.cfg:130
@@ -816,9 +807,8 @@ msgstr ""
 
 #. [topic]: id=heart_mountains
 #: data/core/encyclopedia/geography.cfg:146
-#, fuzzy
 msgid "Heart Mountains"
-msgstr "Montes"
+msgstr "Montes Cordis"
 
 #. [topic]: id=heart_mountains
 #: data/core/encyclopedia/geography.cfg:147
@@ -831,7 +821,7 @@ msgstr ""
 #. [topic]: id=far_north
 #: data/core/encyclopedia/geography.cfg:152
 msgid "Far North"
-msgstr ""
+msgstr "Septentrionalia Alta"
 
 #. [topic]: id=far_north
 #: data/core/encyclopedia/geography.cfg:176
@@ -878,16 +868,14 @@ msgstr "Prooemium"
 #. [section]: id=gameplay
 #. [topic]: id=..gameplay
 #: data/core/help.cfg:27 data/core/help.cfg:137
-#, fuzzy
 msgid "Gameplay"
-msgstr "Lusus"
+msgstr "Ars Ludi"
 
 #. [section]: id=traits_section
 #. [topic]: id=..traits_section
 #: data/core/help.cfg:33 data/core/help.cfg:360
-#, fuzzy
 msgid "Traits"
-msgstr "Lineamenta"
+msgstr "Ingenia"
 
 #. [section]: id=units
 #. [topic]: id=..units
@@ -898,7 +886,6 @@ msgstr "Actores"
 #. [section]: id=abilities_section
 #. [topic]: id=..abilities_section
 #: data/core/help.cfg:51 data/core/help.cfg:101
-#, fuzzy
 msgid "Abilities"
 msgstr "Facultates"
 
@@ -919,7 +906,7 @@ msgstr "Factiones"
 #. [topic]: id=..terrains
 #: data/core/help.cfg:74 data/core/help.cfg:480
 msgid "Terrains"
-msgstr "Agri"
+msgstr "Terrae"
 
 #. [section]: id=commands
 #. [topic]: id=..commands
@@ -992,9 +979,8 @@ msgstr ""
 
 #. [topic]: id=fundamentals
 #: data/core/help.cfg:143
-#, fuzzy
 msgid "Fundamentals of Gameplay"
-msgstr "Elementa lusoris"
+msgstr "Elementa Artis Ludi"
 
 #. [topic]: id=fundamentals
 #: data/core/help.cfg:144
@@ -1052,9 +1038,8 @@ msgstr ""
 
 #. [topic]: id=about_game
 #: data/core/help.cfg:154
-#, fuzzy
 msgid "About the Game"
-msgstr "De Lusu"
+msgstr "De Ludo"
 
 #. [topic]: id=about_game
 #: data/core/help.cfg:155
@@ -1096,7 +1081,7 @@ msgstr ""
 #. [topic]: id=victory_and_defeat
 #: data/core/help.cfg:163
 msgid "Victory and Defeat"
-msgstr ""
+msgstr "Victoria Cladesque"
 
 #. [topic]: id=victory_and_defeat
 #: data/core/help.cfg:164
@@ -1263,9 +1248,8 @@ msgstr "Unitates hostium orbe super palum energiae carent."
 
 #. [topic]: id=hitpoints
 #: data/core/help.cfg:203
-#, fuzzy
 msgid "Hitpoints and Experience"
-msgstr "Puncta Salutis et Experientiae"
+msgstr "Puncta Salutis et Usus"
 
 #. [topic]: id=hitpoints
 #: data/core/help.cfg:204
@@ -1450,7 +1434,6 @@ msgstr ""
 
 #. [topic]: id=combat
 #: data/core/help.cfg:240
-#, fuzzy
 msgid "Combat"
 msgstr "Certamen"
 
@@ -1573,7 +1556,6 @@ msgstr ""
 
 #. [topic]: id=combat
 #: data/core/help.cfg:253
-#, fuzzy
 msgid ""
 "\n"
 "\n"
@@ -1581,7 +1563,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"<header>text=Damnus</header>"
+"<header>text=Damnum</header>"
 
 #. [topic]: id=combat
 #: data/core/help.cfg:255
@@ -1852,9 +1834,8 @@ msgstr ""
 
 #. [topic]: id=healing
 #: data/core/help.cfg:310
-#, fuzzy
 msgid "Healing"
-msgstr "Restauratio Salutis"
+msgstr "Mederi"
 
 #. [topic]: id=healing
 #: data/core/help.cfg:311
@@ -2205,7 +2186,7 @@ msgstr ""
 #. [topic]: id=traits_resilient
 #: data/core/help.cfg:390
 msgid "Resilient"
-msgstr "Firmus"
+msgstr "Mollis"
 
 #. [topic]: id=traits_resilient
 #: data/core/help.cfg:391
@@ -2238,7 +2219,7 @@ msgstr ""
 #. [topic]: id=traits_strong
 #: data/core/help.cfg:398
 msgid "Strong"
-msgstr "Fortis"
+msgstr "Validus"
 
 #. [topic]: id=traits_strong
 #: data/core/help.cfg:399
@@ -2271,7 +2252,7 @@ msgstr ""
 #. [topic]: id=traits_fearless
 #: data/core/help.cfg:406
 msgid "Fearless"
-msgstr "Sine Terrorem"
+msgstr "Intrepidus"
 
 #. [topic]: id=traits_fearless
 #: data/core/help.cfg:407
@@ -2280,9 +2261,8 @@ msgstr ""
 
 #. [topic]: id=traits_feral
 #: data/core/help.cfg:412
-#, fuzzy
 msgid "Feral"
-msgstr "Murus Cavernae"
+msgstr "Ferus"
 
 #. [topic]: id=traits_feral
 #: data/core/help.cfg:413
@@ -2366,7 +2346,7 @@ msgstr ""
 #. [topic]: id=traits_mechanical
 #: data/core/help.cfg:434
 msgid "trait^Mechanical"
-msgstr ""
+msgstr "Machina"
 
 #. [topic]: id=traits_mechanical
 #: data/core/help.cfg:435
@@ -2422,7 +2402,7 @@ msgstr ""
 #. [topic]: id=traits_healthy
 #: data/core/help.cfg:450
 msgid "Healthy"
-msgstr "saluber"
+msgstr "Sanus"
 
 #. [topic]: id=traits_healthy
 #: data/core/help.cfg:451
@@ -2443,9 +2423,8 @@ msgstr ""
 
 #. [topic]: id=traits_dim
 #: data/core/help.cfg:458
-#, fuzzy
 msgid "Dim"
-msgstr "Mediocris"
+msgstr "Stultus"
 
 #. [topic]: id=traits_dim
 #: data/core/help.cfg:459
@@ -2466,7 +2445,7 @@ msgstr ""
 #. [topic]: id=traits_slow
 #: data/core/help.cfg:466
 msgid "Slow"
-msgstr "tardus"
+msgstr "Languidus"
 
 #. [topic]: id=traits_slow
 #: data/core/help.cfg:467
@@ -2490,7 +2469,7 @@ msgstr ""
 #. [topic]: id=traits_weak
 #: data/core/help.cfg:474
 msgid "Weak"
-msgstr ""
+msgstr "Infirmus"
 
 #. [topic]: id=traits_weak
 #: data/core/help.cfg:475
@@ -2867,7 +2846,7 @@ msgstr ""
 #. [topic]: id=terrain_illuminated_cave
 #: data/core/help.cfg:667
 msgid "Illuminated Cave"
-msgstr "Caverna Illustrata"
+msgstr "Caverna Lucida"
 
 #. [topic]: id=terrain_illuminated_cave
 #: data/core/help.cfg:670
@@ -2945,7 +2924,7 @@ msgstr ""
 #. [topic]: id=terrain_water_village
 #: data/core/help.cfg:705
 msgid "Submerged Village"
-msgstr ""
+msgstr "Viculus Demersus"
 
 #. [topic]: id=terrain_water_village
 #: data/core/help.cfg:710
@@ -2990,7 +2969,7 @@ msgstr ""
 #. [topic]: id=terrain_lava
 #: data/core/help.cfg:727
 msgid "Lava"
-msgstr "Lava"
+msgstr "Saxa Liquefacta"
 
 #. [topic]: id=terrain_lava
 #: data/core/help.cfg:730
@@ -3410,14 +3389,13 @@ msgstr ""
 
 #. [heals]: id=curing
 #: data/core/macros/abilities.cfg:51
-#, fuzzy
 msgid "cures"
-msgstr "sanat"
+msgstr "antidotum"
 
 #. [heals]: id=curing
 #: data/core/macros/abilities.cfg:52
 msgid "female^cures"
-msgstr "Filia "
+msgstr "antidotum"
 
 #. [heals]: id=curing
 #: data/core/macros/abilities.cfg:54
@@ -3433,15 +3411,13 @@ msgstr ""
 
 #. [regenerate]: id=regenerates
 #: data/core/macros/abilities.cfg:76
-#, fuzzy
 msgid "regenerates"
-msgstr "regenerat"
+msgstr "convalescit"
 
 #. [regenerate]: id=regenerates
 #: data/core/macros/abilities.cfg:77
-#, fuzzy
 msgid "female^regenerates"
-msgstr "regenerat"
+msgstr "convalescit"
 
 #. [regenerate]: id=regenerates
 #: data/core/macros/abilities.cfg:79
@@ -3457,15 +3433,13 @@ msgstr ""
 
 #. [resistance]: id=steadfast
 #: data/core/macros/abilities.cfg:98
-#, fuzzy
 msgid "steadfast"
-msgstr "constans"
+msgstr "robustus"
 
 #. [resistance]: id=steadfast
 #: data/core/macros/abilities.cfg:99
-#, fuzzy
 msgid "female^steadfast"
-msgstr "constans"
+msgstr "robusta"
 
 #. [resistance]: id=steadfast
 #: data/core/macros/abilities.cfg:101
@@ -3525,7 +3499,7 @@ msgstr "concursatorius"
 #. [skirmisher]: id=skirmisher
 #: data/core/macros/abilities.cfg:348
 msgid "female^skirmisher"
-msgstr "concursatorius"
+msgstr "concursatoria"
 
 #. [skirmisher]: id=skirmisher
 #: data/core/macros/abilities.cfg:350
@@ -3541,13 +3515,11 @@ msgstr ""
 
 #. [illuminates]: id=illumination
 #: data/core/macros/abilities.cfg:363
-#, fuzzy
 msgid "illuminates"
 msgstr "illustrat"
 
 #. [illuminates]: id=illumination
 #: data/core/macros/abilities.cfg:364
-#, fuzzy
 msgid "female^illuminates"
 msgstr "illustrat"
 
@@ -3594,14 +3566,13 @@ msgstr ""
 
 #. [hides]: id=ambush
 #: data/core/macros/abilities.cfg:417 data/core/macros/abilities.cfg:419
-#, fuzzy
 msgid "ambush"
 msgstr "insidiae"
 
 #. [hides]: id=ambush
 #: data/core/macros/abilities.cfg:418 data/core/macros/abilities.cfg:420
 msgid "female^ambush"
-msgstr ""
+msgstr "insidiae"
 
 #. [hides]: id=ambush
 #: data/core/macros/abilities.cfg:424 data/core/macros/abilities.cfg:428
@@ -3624,9 +3595,8 @@ msgstr ""
 #. [hides]: id=nightstalk
 #: data/core/macros/abilities.cfg:443 data/core/macros/abilities.cfg:444
 #: data/core/macros/abilities.cfg:449
-#, fuzzy
 msgid "nightstalk"
-msgstr "insidiari in nocte"
+msgstr "noctivagus"
 
 #. [hides]: id=nightstalk
 #: data/core/macros/abilities.cfg:448 data/core/macros/abilities.cfg:454
@@ -3648,19 +3618,18 @@ msgstr ""
 
 #. [hides]: id=nightstalk
 #: data/core/macros/abilities.cfg:450
-#, fuzzy
 msgid "female^nightstalk"
-msgstr "insidiari in nocte"
+msgstr "noctivaga"
 
 #. [hides]: id=concealment
 #: data/core/macros/abilities.cfg:469 data/core/macros/abilities.cfg:475
 msgid "concealment"
-msgstr ""
+msgstr "occultatio"
 
 #. [hides]: id=concealment
 #: data/core/macros/abilities.cfg:470 data/core/macros/abilities.cfg:476
 msgid "female^concealment"
-msgstr ""
+msgstr "occultatio"
 
 #. [hides]: id=concealment
 #: data/core/macros/abilities.cfg:474 data/core/macros/abilities.cfg:480
@@ -3690,7 +3659,7 @@ msgstr "demergere"
 #. [hides]: id=submerge
 #: data/core/macros/abilities.cfg:496 data/core/macros/abilities.cfg:502
 msgid "female^submerge"
-msgstr ""
+msgstr "demergit"
 
 #. [hides]: id=submerge
 #: data/core/macros/abilities.cfg:500 data/core/macros/abilities.cfg:506
@@ -3756,9 +3725,8 @@ msgstr ""
 #. [plague]: id=plague({TYPE}), type={TYPE}
 #. [plague]: id=plague, type=Walking Corpse
 #: data/core/macros/abilities.cfg:607 data/core/macros/abilities.cfg:619
-#, fuzzy
 msgid "plague"
-msgstr "pestilentia"
+msgstr "pestilens"
 
 #. [plague]: id=plague({TYPE}), type={TYPE}
 #: data/core/macros/abilities.cfg:609
@@ -3846,9 +3814,8 @@ msgstr ""
 
 #. [swarm]: id=swarm
 #: data/core/macros/abilities.cfg:680
-#, fuzzy
 msgid "swarm"
-msgstr "examen"
+msgstr "fervet"
 
 #. [swarm]: id=swarm
 #: data/core/macros/abilities.cfg:682
@@ -3868,7 +3835,6 @@ msgstr ""
 
 #. [damage]: id=charge
 #: data/core/macros/abilities.cfg:691
-#, fuzzy
 msgid "charge"
 msgstr "incurrere"
 
@@ -3886,7 +3852,6 @@ msgstr ""
 
 #. [drains]: id=drains
 #: data/core/macros/abilities.cfg:705
-#, fuzzy
 msgid "drains"
 msgstr "exhaurit"
 
@@ -4182,7 +4147,7 @@ msgstr "fidelis"
 #. [trait]: id=loyal
 #: data/core/macros/traits.cfg:9
 msgid "female^loyal"
-msgstr "fidele"
+msgstr "fidelis"
 
 #. [trait]: id=loyal
 #: data/core/macros/traits.cfg:10
@@ -4211,95 +4176,83 @@ msgstr "Immunis veneno"
 
 #. [trait]: id=mechanical
 #: data/core/macros/traits.cfg:37
-#, fuzzy
 msgid "mechanical"
-msgstr "magicalis"
+msgstr "machina"
 
 #. [trait]: id=mechanical
 #: data/core/macros/traits.cfg:38
 msgid "female^mechanical"
-msgstr ""
+msgstr "machina"
 
 #. [trait]: id=elemental
 #: data/core/macros/traits.cfg:52
 msgid "elemental"
-msgstr ""
+msgstr "elementum"
 
 #. [trait]: id=elemental
 #: data/core/macros/traits.cfg:53
-#, fuzzy
 msgid "female^elemental"
-msgstr "fidele"
+msgstr "elementum"
 
 #. [trait]: id=strong
 #: data/core/macros/traits.cfg:66
-#, fuzzy
 msgid "strong"
-msgstr "fortis"
+msgstr "validus"
 
 #. [trait]: id=strong
 #: data/core/macros/traits.cfg:67
-#, fuzzy
 msgid "female^strong"
-msgstr "Veteratrix"
+msgstr "valida"
 
 #. [trait]: id=dextrous
 #: data/core/macros/traits.cfg:84
-#, fuzzy
 msgid "dextrous"
 msgstr "sollers"
 
 #. [trait]: id=dextrous
 #: data/core/macros/traits.cfg:85
-#, fuzzy
 msgid "female^dextrous"
 msgstr "sollers"
 
 #. [trait]: id=quick
 #: data/core/macros/traits.cfg:98
-#, fuzzy
 msgid "quick"
 msgstr "celer"
 
 #. [trait]: id=quick
 #: data/core/macros/traits.cfg:99
 msgid "female^quick"
-msgstr "Filia "
+msgstr "celer"
 
 #. [trait]: id=intelligent
 #: data/core/macros/traits.cfg:115
-#, fuzzy
 msgid "intelligent"
-msgstr "argutus"
+msgstr "doctus"
 
 #. [trait]: id=intelligent
 #: data/core/macros/traits.cfg:116
-#, fuzzy
 msgid "female^intelligent"
-msgstr "argutus"
+msgstr "docta"
 
 #. [trait]: id=resilient
 #: data/core/macros/traits.cfg:128
-#, fuzzy
 msgid "resilient"
 msgstr "mollis"
 
 #. [trait]: id=resilient
 #: data/core/macros/traits.cfg:129
-#, fuzzy
 msgid "female^resilient"
 msgstr "mollis"
 
 #. [trait]: id=healthy
 #: data/core/macros/traits.cfg:146
-#, fuzzy
 msgid "healthy"
 msgstr "sanus"
 
 #. [trait]: id=healthy
 #: data/core/macros/traits.cfg:147
 msgid "female^healthy"
-msgstr ""
+msgstr "sana"
 
 #. [trait]: id=healthy
 #: data/core/macros/traits.cfg:148
@@ -4309,12 +4262,12 @@ msgstr ""
 #. [trait]: id=fearless
 #: data/core/macros/traits.cfg:165 data/core/macros/traits.cfg:178
 msgid "fearless"
-msgstr "sine terrorem"
+msgstr "intrepidus"
 
 #. [trait]: id=fearless
 #: data/core/macros/traits.cfg:166 data/core/macros/traits.cfg:179
 msgid "female^fearless"
-msgstr "Filia "
+msgstr "intrepida"
 
 #. [trait]: id=fearless
 #: data/core/macros/traits.cfg:167 data/core/macros/traits.cfg:180
@@ -4323,15 +4276,13 @@ msgstr ""
 
 #. [trait]: id=feral
 #: data/core/macros/traits.cfg:190
-#, fuzzy
 msgid "feral"
-msgstr "Murus Cavernae"
+msgstr "ferus"
 
 #. [trait]: id=feral
 #: data/core/macros/traits.cfg:191
-#, fuzzy
 msgid "female^feral"
-msgstr "media"
+msgstr "fera"
 
 #. [trait]: id=feral
 #: data/core/macros/traits.cfg:192
@@ -4341,34 +4292,32 @@ msgstr ""
 #. [trait]: id=weak
 #: data/core/macros/traits.cfg:208
 msgid "weak"
-msgstr ""
+msgstr "infirmus"
 
 #. [trait]: id=weak
 #: data/core/macros/traits.cfg:209
 msgid "female^weak"
-msgstr ""
+msgstr "infirma"
 
 #. [trait]: id=slow
 #: data/core/macros/traits.cfg:226
-#, fuzzy
 msgid "slow"
-msgstr "lentifacit"
+msgstr "lentus"
 
 #. [trait]: id=slow
 #: data/core/macros/traits.cfg:227
 msgid "female^slow"
-msgstr ""
+msgstr "lenta"
 
 #. [trait]: id=dim
 #: data/core/macros/traits.cfg:243
-#, fuzzy
 msgid "dim"
-msgstr "Mediocris"
+msgstr "hebet"
 
 #. [trait]: id=dim
 #: data/core/macros/traits.cfg:244
 msgid "female^dim"
-msgstr ""
+msgstr "hebet"
 
 #. [trait]: id=aged
 #: data/core/macros/traits.cfg:256
@@ -4377,9 +4326,8 @@ msgstr "vetus"
 
 #. [trait]: id=aged
 #: data/core/macros/traits.cfg:257
-#, fuzzy
 msgid "female^aged"
-msgstr "inmortus"
+msgstr "vetus"
 
 #. [race]: id=bats
 #: data/core/units.cfg:42
@@ -4414,7 +4362,7 @@ msgstr "Draculus"
 #. [race]: id=drake
 #: data/core/units.cfg:54
 msgid "race+female^Drake"
-msgstr "Draculus"
+msgstr "Dracula"
 
 #. [race]: id=drake
 #: data/core/units.cfg:55
@@ -4737,12 +4685,12 @@ msgstr "Lacertae"
 #. [race]: id=mechanical
 #: data/core/units.cfg:193
 msgid "race^Mechanical"
-msgstr "Machinatio"
+msgstr "Machina"
 
 #. [race]: id=mechanical
 #: data/core/units.cfg:194
 msgid "race+plural^Mechanical"
-msgstr "Machinationes"
+msgstr "Machinae"
 
 #. [race]: id=mechanical
 #: data/core/units.cfg:195
@@ -4785,12 +4733,12 @@ msgstr ""
 #. [race]: id=monster
 #: data/core/units.cfg:215
 msgid "race^Monster"
-msgstr "Bellua"
+msgstr "Belua"
 
 #. [race]: id=monster
 #: data/core/units.cfg:216
 msgid "race^Monsters"
-msgstr "Belluae"
+msgstr "Beluae"
 
 #. [race]: id=monster
 #: data/core/units.cfg:217
@@ -4803,17 +4751,17 @@ msgstr ""
 #. [race]: id=naga
 #: data/core/units.cfg:224
 msgid "race^Naga"
-msgstr "Gens Anguinus"
+msgstr "Hydradis"
 
 #. [race]: id=naga
 #: data/core/units.cfg:225
 msgid "race^Nagani"
-msgstr "Gens Anguinus"
+msgstr "Hydrada"
 
 #. [race]: id=naga
 #: data/core/units.cfg:226
 msgid "race^Nagas"
-msgstr "Gens Anguini"
+msgstr "Hydrades"
 
 #. [race]: id=naga
 #: data/core/units.cfg:227
@@ -4836,17 +4784,17 @@ msgstr ""
 #. [race]: id=ogre
 #: data/core/units.cfg:234
 msgid "race^Ogre"
-msgstr "Vir Immanis"
+msgstr "Homo Immanis"
 
 #. [race]: id=ogre
 #: data/core/units.cfg:235
 msgid "race+female^Ogre"
-msgstr "Vir Immanis"
+msgstr "Mulier Immanis"
 
 #. [race]: id=ogre
 #: data/core/units.cfg:236
 msgid "race^Ogres"
-msgstr "Vir Immanes"
+msgstr "Homines Immanes"
 
 #. [race]: id=ogre
 #: data/core/units.cfg:237
@@ -5009,7 +4957,7 @@ msgstr "Inmortus"
 #. [race]: id=undead
 #: data/core/units.cfg:288
 msgid "race+plural^Undead"
-msgstr "Inmorti"
+msgstr "Inmortus"
 
 #. [race]: id=undead
 #: data/core/units.cfg:294
@@ -5085,7 +5033,6 @@ msgid "Leaders:"
 msgstr "Duces: "
 
 #: src/help.cpp:1269
-#, fuzzy
 msgid "Recruits:"
 msgstr "Tirones: "
 
@@ -5116,17 +5063,14 @@ msgid "Advances to: "
 msgstr "Promovetur ad: "
 
 #: src/help.cpp:1405 src/help.cpp:1717 src/help.cpp:1778
-#, fuzzy
 msgid "race^Miscellaneous"
 msgstr "Varii"
 
 #: src/help.cpp:1407
-#, fuzzy
 msgid "Race: "
-msgstr "scipio"
+msgstr "Stirps:"
 
 #: src/help.cpp:1414
-#, fuzzy
 msgid "Abilities: "
 msgstr "Facultates: "
 
@@ -5136,7 +5080,6 @@ msgid "Ability Upgrades: "
 msgstr "Facultates: "
 
 #: src/help.cpp:1447
-#, fuzzy
 msgid "HP: "
 msgstr "PS: "
 
@@ -5145,7 +5088,6 @@ msgid "Moves: "
 msgstr "Motus: "
 
 #: src/help.cpp:1449
-#, fuzzy
 msgid "Cost: "
 msgstr "Pretium: "
 
@@ -5172,12 +5114,10 @@ msgid "Type"
 msgstr "Species"
 
 #: src/help.cpp:1474
-#, fuzzy
 msgid "Strikes"
 msgstr "Ictus"
 
 #: src/help.cpp:1475
-#, fuzzy
 msgid "Range"
 msgstr "Iactus"
 
@@ -5192,9 +5132,8 @@ msgid "Resistances"
 msgstr "Repugnantiae"
 
 #: src/help.cpp:1530
-#, fuzzy
 msgid "Attack Type"
-msgstr "Genus Oppugnationum"
+msgstr "Modus Pugnandi"
 
 #: src/help.cpp:1531
 #, fuzzy
@@ -5202,9 +5141,8 @@ msgid "Resistance"
 msgstr "Repugnantia"
 
 #: src/help.cpp:1566
-#, fuzzy
 msgid "Terrain Modifiers"
-msgstr "Immutationes Agri"
+msgstr "Mutatores Terrae"
 
 #: src/help.cpp:1570
 msgid "Terrain"
@@ -5212,20 +5150,15 @@ msgstr "Terra"
 
 #: src/help.cpp:1571
 msgid "Defense"
-msgstr "Defensum"
+msgstr "Defensio"
 
 #: src/help.cpp:1572
-#, fuzzy
 msgid "Movement Cost"
 msgstr "Pretium Motus"
 
 #: src/help.cpp:1784
-#, fuzzy
 msgid "<header>text='Units of this race'</header>"
-msgstr ""
-"\n"
-"\n"
-"<header>text='Probabilitas icti'</header>"
+msgstr "<header>text='Actores stirpis'</header>"
 
 #: src/help.cpp:1788
 #, fuzzy
@@ -5237,7 +5170,7 @@ msgstr ""
 
 #: src/help.cpp:2700
 msgid " < Back"
-msgstr " < Anterior"
+msgstr " < Rursus"
 
 #: src/help.cpp:2701
 msgid "Forward >"
@@ -5254,12 +5187,11 @@ msgstr ""
 
 #: src/help.cpp:3160
 msgid "Close"
-msgstr "Exire"
+msgstr "Claudere"
 
 #: src/help.cpp:3163
-#, fuzzy
 msgid "The Battle for Wesnoth Help"
-msgstr "Adiutorium Proelii pro Vesnote"
+msgstr "Auxilium Proelio pro Vesnote"
 
 #: src/help.cpp:3219
 #, fuzzy
