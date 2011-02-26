@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2011-02-25 23:00+0100\n"
+"PO-Revision-Date: 2011-02-26 21:30+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: none\n"
 "Language: \n"
@@ -2061,14 +2061,15 @@ msgstr ""
 msgid ""
 "This mist is unusual, though, even if we are close to the river. I have "
 "never seen it so thick before."
-msgstr "Nebula nova est etiam si prope flumen adsunt. Numquam tam densa vidi."
+msgstr ""
+"Nebula nova est, etiam si prope flumen adsumus. Numquam tam densa vidi."
 
 #. [message]: id=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:242
 msgid ""
 "There should be no orcs this far south. But I do not like the feel of this "
 "mist."
-msgstr "Orcs nullus usque adhuc esse debet. Sed odi formam nebulae."
+msgstr "Orcs nullus usque adhuc esse debent. Sed odi formam nebulae."
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:246
