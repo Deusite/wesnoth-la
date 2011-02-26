@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth 1.8\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2011-02-26 11:49+0100\n"
+"PO-Revision-Date: 2011-02-26 14:30+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -161,13 +161,12 @@ msgstr "Pandectes"
 #. [topic]: id=..encyclopedia
 #: data/core/encyclopedia/_main.cfg:14
 msgid "<ref>dst='..geography' text='Geography'</ref>"
-msgstr "<ref>dst='..geographia' text='Geographia'</ref>"
+msgstr "<ref>dst='..geography' text='Geographia'</ref>"
 
 #. [topic]: id=caste
 #: data/core/encyclopedia/drakes.cfg:7
-#, fuzzy
 msgid "Caste"
-msgstr "Castellum"
+msgstr "Ordo"
 
 #. [topic]: id=caste
 #: data/core/encyclopedia/drakes.cfg:8
@@ -252,7 +251,7 @@ msgstr ""
 #. [topic]: id=spiral_path
 #: data/core/encyclopedia/drakes.cfg:50
 msgid "Spiral Path"
-msgstr ""
+msgstr "Via Intorta"
 
 #. [topic]: id=spiral_path
 #: data/core/encyclopedia/drakes.cfg:51
@@ -265,7 +264,7 @@ msgstr ""
 #. [topic]: id=straight_path
 #: data/core/encyclopedia/drakes.cfg:56
 msgid "Straight Path"
-msgstr ""
+msgstr "Via Recta"
 
 #. [topic]: id=straight_path
 #: data/core/encyclopedia/drakes.cfg:57
@@ -292,7 +291,7 @@ msgstr ""
 #. [topic]: id=vulcaniad
 #: data/core/encyclopedia/drakes.cfg:68
 msgid "Vulcaniad"
-msgstr ""
+msgstr "Vulcanidus"
 
 #. [topic]: id=vulcaniad
 #: data/core/encyclopedia/drakes.cfg:69
@@ -305,7 +304,7 @@ msgstr ""
 #. [topic]: id=recorder
 #: data/core/encyclopedia/drakes.cfg:74
 msgid "Recorder"
-msgstr ""
+msgstr "Actuarius"
 
 #. [topic]: id=recorder
 #: data/core/encyclopedia/drakes.cfg:75
@@ -391,7 +390,7 @@ msgstr ""
 #. [topic]: id=flight
 #: data/core/encyclopedia/drakes.cfg:116
 msgid "Flight"
-msgstr ""
+msgstr "Volatus"
 
 #. [topic]: id=flight
 #: data/core/encyclopedia/drakes.cfg:117
@@ -951,9 +950,8 @@ msgstr ""
 
 #. [topic]: id=introduction_topic
 #: data/core/help.cfg:128
-#, fuzzy
 msgid "Overview"
-msgstr "Prospectus"
+msgstr "Summa"
 
 #. [topic]: id=introduction_topic
 #: data/core/help.cfg:131
@@ -1107,9 +1105,8 @@ msgstr ""
 
 #. [topic]: id=recruit_and_recall
 #: data/core/help.cfg:174
-#, fuzzy
 msgid "Recruiting and Recalling"
-msgstr "Conscriptio et Reevocatio"
+msgstr "Adlegere et Revocare"
 
 #. [topic]: id=recruit_and_recall
 #: data/core/help.cfg:175
@@ -2115,7 +2112,7 @@ msgstr ""
 #. [topic]: id=traits_intelligent
 #: data/core/help.cfg:374
 msgid "Intelligent"
-msgstr "Intellegens"
+msgstr "Doctus"
 
 #. [topic]: id=traits_intelligent
 #: data/core/help.cfg:375
@@ -2445,7 +2442,7 @@ msgstr ""
 #. [topic]: id=traits_slow
 #: data/core/help.cfg:466
 msgid "Slow"
-msgstr "Languidus"
+msgstr "Lentus"
 
 #. [topic]: id=traits_slow
 #: data/core/help.cfg:467
@@ -3543,14 +3540,13 @@ msgstr ""
 
 #. [teleport]: id=teleport
 #: data/core/macros/abilities.cfg:378
-#, fuzzy
 msgid "teleport"
-msgstr "ianuae magicae"
+msgstr "praeterit"
 
 #. [teleport]: id=teleport
 #: data/core/macros/abilities.cfg:379
 msgid "female^teleport"
-msgstr ""
+msgstr "praeterit"
 
 #. [teleport]: id=teleport
 #: data/core/macros/abilities.cfg:381
@@ -3683,12 +3679,12 @@ msgstr ""
 #. [dummy]: id=feeding
 #: data/core/macros/abilities.cfg:524
 msgid "feeding"
-msgstr ""
+msgstr "ingurgitat"
 
 #. [dummy]: id=feeding
 #: data/core/macros/abilities.cfg:525
 msgid "female^feeding"
-msgstr ""
+msgstr "ingurgitat"
 
 #. [dummy]: id=feeding
 #: data/core/macros/abilities.cfg:527
@@ -3701,7 +3697,7 @@ msgstr ""
 #. [unstore_unit]
 #: data/core/macros/abilities.cfg:551
 msgid "+1 max HP"
-msgstr ""
+msgstr "+I fin PS"
 
 #. [damage]: id=backstab
 #: data/core/macros/abilities.cfg:593
@@ -3895,7 +3891,7 @@ msgstr "Bonum ad SP maxima +{HP_ADVANCE}"
 #. [illuminated_time]: id=indoors_illum
 #: data/core/macros/schedules.cfg:70 data/core/macros/schedules.cfg:76
 msgid "Indoors"
-msgstr ""
+msgstr "Intro"
 
 #. [time]: id=deep_underground
 #. [illuminated_time]: id=deep_underground_illum
@@ -3904,12 +3900,14 @@ msgid "Deep Underground"
 msgstr "Subterraneus Infernus"
 
 #: data/core/macros/special-notes.cfg:5
-#, fuzzy
 msgid ""
 "\n"
 "\n"
 "Special Notes:"
-msgstr "Praecipuum"
+msgstr ""
+"\n"
+"\n"
+"Nota bene:"
 
 #: data/core/macros/special-notes.cfg:8
 #, fuzzy
@@ -5092,9 +5090,8 @@ msgid "Cost: "
 msgstr "Pretium: "
 
 #: src/help.cpp:1450
-#, fuzzy
 msgid "Alignment: "
-msgstr "Gratia diei et noctis: "
+msgstr "Pars:"
 
 #: src/help.cpp:1456
 #, fuzzy
@@ -5161,12 +5158,8 @@ msgid "<header>text='Units of this race'</header>"
 msgstr "<header>text='Actores stirpis'</header>"
 
 #: src/help.cpp:1788
-#, fuzzy
 msgid "<header>text='Race specific topics'</header>"
-msgstr ""
-"\n"
-"\n"
-"<header>text='Probabilitas icti'</header>"
+msgstr "<header>text='Materia de stirpe'</header>"
 
 #: src/help.cpp:2700
 msgid " < Back"
