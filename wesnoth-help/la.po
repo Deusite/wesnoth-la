@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth 1.8\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2011-02-26 16:22+0100\n"
+"PO-Revision-Date: 2011-03-05 10:32+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -470,7 +470,7 @@ msgstr ""
 #. [topic]: id=runners
 #: data/core/encyclopedia/drakes.cfg:152
 msgid "Runners"
-msgstr ""
+msgstr "Cursores"
 
 #. [topic]: id=runners
 #: data/core/encyclopedia/drakes.cfg:153
@@ -2181,7 +2181,7 @@ msgstr ""
 #. [topic]: id=traits_resilient
 #: data/core/help.cfg:390
 msgid "Resilient"
-msgstr "Mollis"
+msgstr "Robustus"
 
 #. [topic]: id=traits_resilient
 #: data/core/help.cfg:391
@@ -3429,12 +3429,12 @@ msgstr ""
 #. [resistance]: id=steadfast
 #: data/core/macros/abilities.cfg:98
 msgid "steadfast"
-msgstr "robustus"
+msgstr "constans"
 
 #. [resistance]: id=steadfast
 #: data/core/macros/abilities.cfg:99
 msgid "female^steadfast"
-msgstr "robusta"
+msgstr "constans"
 
 #. [resistance]: id=steadfast
 #: data/core/macros/abilities.cfg:101
@@ -3829,7 +3829,7 @@ msgstr ""
 #. [damage]: id=charge
 #: data/core/macros/abilities.cfg:691
 msgid "charge"
-msgstr "incurrere"
+msgstr "incurrit"
 
 #. [damage]: id=charge
 #: data/core/macros/abilities.cfg:693
@@ -3904,7 +3904,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Nota bene:"
+"Nota bene: "
 
 #: data/core/macros/special-notes.cfg:8
 #, fuzzy
@@ -4231,12 +4231,12 @@ msgstr "docta"
 #. [trait]: id=resilient
 #: data/core/macros/traits.cfg:128
 msgid "resilient"
-msgstr "mollis"
+msgstr "robustus"
 
 #. [trait]: id=resilient
 #: data/core/macros/traits.cfg:129
 msgid "female^resilient"
-msgstr "mollis"
+msgstr "robusta"
 
 #. [trait]: id=healthy
 #: data/core/macros/traits.cfg:146
@@ -5032,11 +5032,11 @@ msgstr "Tirones: "
 
 #: src/help.cpp:1283
 msgid "Era:"
-msgstr "Aetas:"
+msgstr "Aetas: "
 
 #: src/help.cpp:1291
 msgid "Factions:"
-msgstr "Factiones:"
+msgstr "Factiones: "
 
 #: src/help.cpp:1301
 msgid "Factions are only used in multiplayer"
@@ -5062,7 +5062,7 @@ msgstr "Alia"
 
 #: src/help.cpp:1407
 msgid "Race: "
-msgstr "Stirps:"
+msgstr "Stirps: "
 
 #: src/help.cpp:1414
 msgid "Abilities: "
@@ -5087,7 +5087,7 @@ msgstr "Pretium: "
 
 #: src/help.cpp:1450
 msgid "Alignment: "
-msgstr "Pars:"
+msgstr "Pars: "
 
 #: src/help.cpp:1456
 #, fuzzy
