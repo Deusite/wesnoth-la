@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2011-03-05 21:10+0100\n"
+"PO-Revision-Date: 2011-03-05 21:35+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: none\n"
 "Language: \n"
@@ -3542,7 +3542,7 @@ msgstr ""
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:113
 msgid "My Lord, I can arrange the defenses around the city."
-msgstr "Domine mi, possum praesidia circum urbem intruere."
+msgstr "Domine mi, possum praesidia circum urbem instruere."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:117
@@ -3641,7 +3641,7 @@ msgstr "Nani, ab inmortibus pugnati. Opus est subvenire."
 #. [message]: speaker=Gruv-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:155
 msgid "Then your corpses will also serve my master."
-msgstr "Igitur caadvera domino meo servient."
+msgstr "Igitur cadavera domino meo servient."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:159
@@ -4388,7 +4388,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:75
 msgid "Defeat Sagus"
-msgstr "Sagum Vncere"
+msgstr "Sagum Vincere"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:107
