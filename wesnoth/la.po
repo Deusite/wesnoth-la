@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth 1.8\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2011-02-26 16:13+0100\n"
+"PO-Revision-Date: 2011-03-05 11:42+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -31,11 +31,10 @@ msgstr "Servati Oppressi"
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:12
 msgid "Confirm deleting saves"
-msgstr ""
+msgstr "Delendum servatorum confirmare"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:19
-#, fuzzy
 msgid "Mouse Scrolling"
 msgstr "Gyrum Muris"
 
@@ -73,13 +72,12 @@ msgstr ""
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:62
 msgid "Unit Standing Animations"
-msgstr ""
+msgstr "Animationes Actorum Statium"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:69
-#, fuzzy
 msgid "Show Combat"
-msgstr "Certamina Monstrare"
+msgstr "Certamina Ostendere"
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:76
@@ -137,14 +135,14 @@ msgstr "venenus"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:1352
 #: data/lua/wml-tags.lua:708 src/actions.cpp:1280
 msgid "female^slowed"
-msgstr "languida"
+msgstr "lentescit"
 
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [else]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:1355
 #: data/lua/wml-tags.lua:708 src/actions.cpp:1280
 msgid "slowed"
-msgstr "languidus"
+msgstr "lentescit"
 
 #. [about]
 #: data/core/about.cfg:7
@@ -610,9 +608,8 @@ msgstr ""
 #. [then]
 #: data/core/macros/ai_controller.cfg:591
 #: data/core/macros/ai_controller.cfg:602
-#, fuzzy
 msgid "none set."
-msgstr "nulla"
+msgstr "nulla ponita."
 
 #. [do]
 #: data/core/macros/ai_controller.cfg:644
@@ -707,7 +704,7 @@ msgstr ""
 #. [option]: speaker=narrator
 #: data/core/macros/items.cfg:39
 msgid "Lots of gold"
-msgstr "Aura plurima"
+msgstr "Plurima aura"
 
 #. [message]: speaker=unit
 #: data/core/macros/items.cfg:46
@@ -728,9 +725,8 @@ msgstr "Una res sola digna est optationi: pax in terra cuncta."
 
 #. [option]: speaker=narrator
 #: data/core/macros/items.cfg:65
-#, fuzzy
 msgid "Don’t make a wish."
-msgstr "Non optare."
+msgstr "Vota non facere."
 
 #. [option]: speaker=narrator
 #: data/core/macros/items.cfg:123
@@ -755,9 +751,8 @@ msgstr "Sensus salutis eum obruit qui bibit."
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:205
-#, fuzzy
 msgid "You are not worthy of healing."
-msgstr "Non dignus es saluti."
+msgstr "Non dignus curatione es."
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:239
@@ -796,13 +791,12 @@ msgstr ""
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:297
 msgid "Potion of Strength"
-msgstr "Potio Viris"
+msgstr "Potio Virtutis"
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:300
-#, fuzzy
 msgid "Strength is given to the drinker."
-msgstr "Fortitudo bibenti datur."
+msgstr "Virtus bibenti datur."
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:340
@@ -817,9 +811,8 @@ msgstr "Haec unitas misera aliquid permalum bibit."
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:377
-#, fuzzy
 msgid "Ring of Regeneration"
-msgstr "Annulus Regenerationis"
+msgstr "Annulus Convalescendi"
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:380
@@ -834,9 +827,8 @@ msgstr "Annulus Tarditatis"
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:419
-#, fuzzy
 msgid "The bearer of this ring is slowed."
-msgstr "Qui hunc annulum fert lentus fit."
+msgstr "Gerulus annuli lentior fit."
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:453
@@ -856,9 +848,8 @@ msgid "Only magical beings can wield such an object."
 msgstr "Tantum qui naturam magicam habet talem rem uti potest."
 
 #: data/core/macros/items.cfg:507
-#, fuzzy
 msgid "Only the mermen can use this item!"
-msgstr "Tantum Nereides hanc rem uti possunt!"
+msgstr "Tantum Nereides hanc uti possunt!"
 
 #: data/core/macros/items.cfg:507
 msgid "Should $unit.name pick up the trident?"
@@ -2179,6 +2170,8 @@ msgstr ""
 msgid ""
 "<i>― Royal Compendium of Battle Terminology: Volume II (reprinted 221YW)</i>"
 msgstr ""
+"<i>― Comentarii Regii de Dictis Proelii: Liber II (exponitus rursus CCXXI AV)"
+"</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:48
@@ -2191,7 +2184,7 @@ msgstr ""
 #: data/hardwired/tips.cfg:125 data/hardwired/tips.cfg:133
 #: data/hardwired/tips.cfg:213
 msgid "<i>― Haldric II, 42YW, Handbook of Tactical Analysis: Volume I</i>"
-msgstr ""
+msgstr "<i>― Haldricus II, Epitome Rationis Belli: Liber I, ILII AV</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:52
@@ -2286,7 +2279,7 @@ msgstr ""
 #. [tip]
 #: data/hardwired/tips.cfg:77
 msgid "<i>― Haldric II, 43YW, Handbook of Tactical Analysis: Volume II</i>"
-msgstr ""
+msgstr "<i>― Haldricus II, Epitome Rationis Belli: Liber II, IXIII AV</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:80
@@ -2725,7 +2718,7 @@ msgstr ""
 
 #: data/lua/wml-tags.lua:707 src/actions.cpp:1275
 msgid "female^poisoned"
-msgstr "Venena"
+msgstr "venena"
 
 #: data/lua/wml-tags.lua:709 src/actions.cpp:1285
 msgid "female^petrified"
@@ -2745,11 +2738,11 @@ msgstr "insanabilis"
 
 #: data/lua/wml/objectives.lua:50 src/multiplayer_connect.cpp:1608
 msgid "Victory:"
-msgstr "Victoria:"
+msgstr "Victoria: "
 
 #: data/lua/wml/objectives.lua:51
 msgid "Defeat:"
-msgstr "Clades:"
+msgstr "Clades: "
 
 #: data/lua/wml/objectives.lua:52
 msgid "Gold carryover:"
@@ -2757,7 +2750,7 @@ msgstr ""
 
 #: data/lua/wml/objectives.lua:53
 msgid "Notes:"
-msgstr "Addenda:"
+msgstr "Addenda: "
 
 #: data/lua/wml/objectives.lua:69
 msgid "(%d turns left)"
@@ -2913,9 +2906,8 @@ msgstr "Ludere"
 
 #. [menu]: id=button-playreplay, type=image
 #: data/themes/macros.cfg:75
-#, fuzzy
 msgid "continuous replay"
-msgstr " remonstratum continuum"
+msgstr "relusus continuus"
 
 #. [menu]: id=button-stopreplay, type=image
 #: data/themes/macros.cfg:92
@@ -2966,7 +2958,6 @@ msgstr "Aspectus"
 
 #. [menu]: id=skip-animation, type=checkbox
 #: data/themes/macros.cfg:179
-#, fuzzy
 msgid "Skip animation"
 msgstr "Animationem praeterire"
 
@@ -3115,7 +3106,7 @@ msgstr "Condicio"
 
 #: src/addon/manager.cpp:532
 msgid "Sending add-on"
-msgstr "Appendicem mitto"
+msgstr "Appendicem mittens"
 
 #: src/addon/manager.cpp:536 src/addon/manager.cpp:561
 #, fuzzy
@@ -3144,7 +3135,7 @@ msgstr "Adiunctum inauguratum est."
 
 #: src/addon/manager.cpp:649
 msgid "Add-on Installed"
-msgstr "Appendicem Inposui"
+msgstr "Appendicem Inpositae"
 
 #: src/addon/manager.cpp:749 src/addon/manager.cpp:935
 #: src/addon/manager.cpp:1147 src/dialogs.cpp:597 src/menu_events.cpp:205
@@ -3209,7 +3200,7 @@ msgstr[1] "Haec stipendia errores continent et restitui non possunt: "
 
 #: src/addon/manager.cpp:908
 msgid "Outdated add-ons"
-msgstr "Appendices antiquum"
+msgstr "Appendices antiquam"
 
 #: src/addon/manager.cpp:910
 msgid ""
@@ -3321,7 +3312,7 @@ msgstr "Arcesse appendicem "
 
 #: src/addon/manager.cpp:1271
 msgid "Choose the add-on to download."
-msgstr "Opta appendicem arcessere."
+msgstr "Opta appendicem arcessendam."
 
 #: src/addon/manager.cpp:1272
 msgid "Download"
@@ -3431,7 +3422,7 @@ msgstr " nuditas versus "
 
 #: src/attack_prediction_display.cpp:249
 msgid "Slowed"
-msgstr "Languidus"
+msgstr "Lentescit"
 
 #: src/attack_prediction_display.cpp:254
 msgid "Total damage"
@@ -5636,15 +5627,15 @@ msgstr "Disiunctio retis accedit et lusus non pergit. Visne lusum servare?"
 
 #: src/reports.cpp:145
 msgid "Type: "
-msgstr "Modus:"
+msgstr "Modus: "
 
 #: src/reports.cpp:156
 msgid "Race: "
-msgstr "Stirps:"
+msgstr "Stirps: "
 
 #: src/reports.cpp:180
 msgid "Level: "
-msgstr "Ordo:"
+msgstr "Ordo: "
 
 #: src/reports.cpp:183
 #, fuzzy
@@ -5658,7 +5649,7 @@ msgstr "Promovetur ad: "
 
 #: src/reports.cpp:215
 msgid "Trait: "
-msgstr "Ingenium:"
+msgstr "Ingenium: "
 
 #: src/reports.cpp:229
 msgid "invisible: "
@@ -5672,7 +5663,7 @@ msgstr ""
 
 #: src/reports.cpp:233
 msgid "slowed: "
-msgstr "Languidi: "
+msgstr "Lentescunt: "
 
 #: src/reports.cpp:234
 #, fuzzy
@@ -5702,7 +5693,7 @@ msgstr ""
 
 #: src/reports.cpp:241
 msgid "petrified: "
-msgstr "defixi:"
+msgstr "defixi: "
 
 #: src/reports.cpp:242
 #, fuzzy
@@ -5711,7 +5702,7 @@ msgstr "Unitas haec petrificatus est. Non potest movere aut oppugnare."
 
 #: src/reports.cpp:256
 msgid "Alignment: "
-msgstr "Pars:"
+msgstr "Pars: "
 
 #: src/reports.cpp:275
 msgid "Ability: "
@@ -5728,7 +5719,7 @@ msgstr "(Pug / Def)"
 
 #: src/reports.cpp:355
 msgid "Terrain: "
-msgstr "Terra:"
+msgstr "Terra: "
 
 #: src/reports.cpp:373
 msgid "maximum^max."
@@ -5740,7 +5731,7 @@ msgstr "min."
 
 #: src/reports.cpp:378
 msgid "Defense: "
-msgstr "Defensio:"
+msgstr "Defensio: "
 
 #: src/reports.cpp:447
 msgid "Weapon: "
@@ -5748,7 +5739,7 @@ msgstr "Telum: "
 
 #: src/reports.cpp:448
 msgid "Damage: "
-msgstr "Damnum:"
+msgstr "Damnum: "
 
 #: src/reports.cpp:452
 #, fuzzy
@@ -5757,19 +5748,19 @@ msgstr "Damnum Totale"
 
 #: src/reports.cpp:454
 msgid "Time of day: "
-msgstr "Tempus diei:"
+msgstr "Tempus diei: "
 
 #: src/reports.cpp:458
 msgid "Leadership: "
-msgstr "Ducatus:"
+msgstr "Ducatus: "
 
 #: src/reports.cpp:462
 msgid "Slowed: "
-msgstr "Languidi: "
+msgstr "Lentescunt: "
 
 #: src/reports.cpp:466
 msgid "Attacks: "
-msgstr "Ictus:"
+msgstr "Ictus: "
 
 #: src/reports.cpp:468
 msgid "Base attacks: "
@@ -5777,7 +5768,7 @@ msgstr ""
 
 #: src/reports.cpp:470
 msgid "Swarm: "
-msgstr "Fervere:"
+msgstr "Fervent: "
 
 #: src/reports.cpp:482
 msgid "Weapon range: "
@@ -5785,15 +5776,15 @@ msgstr "Iactus teli: "
 
 #: src/reports.cpp:483
 msgid "Damage type: "
-msgstr "Modus damni:"
+msgstr "Modus damni: "
 
 #: src/reports.cpp:484
 msgid "Damage versus: "
-msgstr "Damnun adversus:"
+msgstr "Damnun adversus: "
 
 #: src/reports.cpp:528
 msgid "Accuracy:"
-msgstr "Accuratio:"
+msgstr "Accuratio: "
 
 #: src/reports.cpp:533
 msgid "Parry:"
@@ -5818,7 +5809,7 @@ msgstr "Actores nocturni: "
 
 #: src/reports.cpp:595
 msgid "Liminal units: "
-msgstr "Actores dubii:"
+msgstr "Actores ancipites: "
 
 #: src/reports.cpp:793
 msgid "Observers:"
@@ -6108,7 +6099,7 @@ msgstr "diurnus"
 
 #: src/unit_types.cpp:968
 msgid "liminal"
-msgstr "dubius"
+msgstr "anceps"
 
 #: src/unit_types.cpp:968
 msgid "neutral"
@@ -6124,7 +6115,7 @@ msgstr "diurna"
 
 #: src/unit_types.cpp:969
 msgid "female^liminal"
-msgstr "dubia"
+msgstr "anceps"
 
 #: src/unit_types.cpp:969
 msgid "female^neutral"
