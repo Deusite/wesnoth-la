@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2011-02-26 21:30+0100\n"
+"PO-Revision-Date: 2011-03-05 21:10+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: none\n"
 "Language: \n"
@@ -1350,7 +1350,7 @@ msgstr "<i>Tax</i>!"
 #. [message]: speaker={STRING}
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:59
 msgid "Do you serve Iliah-Malal, living man?"
-msgstr "Servisne Iliae Malalis, homo vivens?"
+msgstr "Servisne Iliae Malali, mortalis?"
 
 #. [option]: speaker={STRING}
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:61
@@ -3364,6 +3364,8 @@ msgid ""
 "We owe the elves nothing, sire. They refused to send their archers when we "
 "needed them!"
 msgstr ""
+"Nullum dryalibus debemus, rex. Negaverunt sagittarios mittere cum eis "
+"egueremus!"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:36
@@ -3373,6 +3375,10 @@ msgid ""
 "reports of an undead threat. He was able to fight them off at Parthyn Ford, "
 "but more are coming."
 msgstr ""
+"Pax, Lionele. Dryadales bene pugnabant et honorati nobis sunt. Sed consilium "
+"adest ut res horribiles animadvertamus. Dominus iuvenis Delfador de mortibus "
+"minacibus refert. Quas in Vado Parthinis expugnare poterat, sed plures "
+"veniunt."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:40
@@ -3380,6 +3386,7 @@ msgid ""
 "With your permission, sire, I will take some picked men north and crush "
 "these abominations."
 msgstr ""
+"Bona tua venia, rex, milites electos ad septentriones monstra deletum capiam"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:44
@@ -3392,6 +3399,11 @@ msgid ""
 "he fields now. Mages, in combination with heavy infantry are most effective "
 "against them."
 msgstr ""
+"Rex, hi non inmortus erratus sunt; insanus Ilia Malalis portam ad Inferna "
+"aperuit. Nisi mox portam clauserimus, cohortem parvam se recta ut flumen "
+"perpetuum inmortuum crescent. Et exercitui nostro, orces vastantes pugnare "
+"paratus, iam copias tentas certare decet, Magi cum peditibus armatis ad "
+"illos valent.   "
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:48
@@ -3399,31 +3411,34 @@ msgid ""
 "I think our young and inexperienced friend overestimates the powers of the "
 "enemy. I’m sure they’ll be no match for Wesnothian troops."
 msgstr ""
+"Puto amicum iuvenem inexpertumque potestatem hostis maioris aestimare. Pro "
+"certo habeo illos a copiis Vesnotiensibus oppressuros esse."
 
 #. [part]
 #. [side]: type=Lich, id=Sagus
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:48
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:42
 msgid "Sagus"
-msgstr ""
+msgstr "Sagus"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:52
 msgid ""
 "I have fought these things, and I know what I am talking about. This is a "
 "deadly serious threat."
-msgstr ""
+msgstr "Contra illos pugnabam et intellego. Est nubes funesta. "
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:57
 msgid ""
 "Are you saying Master Sagus speaks idly? Somebody needs to teach you respect!"
 msgstr ""
+"Num dicis Magistrum Sagum otiose dicere? Aliquis te decus docere debet!"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:57
 msgid "Artuman"
-msgstr ""
+msgstr "Artumanus"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:61
@@ -3431,11 +3446,13 @@ msgid ""
 "You have proven your bravery, young Delfador, but I think you underestimate "
 "the might of our army."
 msgstr ""
+"Virtutem approbavisti, Delfador iuvenis, sed puto te virtutem exercitus "
+"minoris aestimare."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:66
 msgid "Sire, may I lead some part of your army to crush the undead?"
-msgstr ""
+msgstr "Rex, licetne mihi partem exercitus inmortus oppressum ducere?"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:70
@@ -3443,11 +3460,13 @@ msgid ""
 "No, Lionel. This should be too simple a task for my best general. I will "
 "send Dudpon, instead with most of my army."
 msgstr ""
+"Non licet, Lionele. Opus nimis facilius legato optimo sit. Dudpontem loco "
+"cum pleroque exercitus mei mittam."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:74
 msgid "What are my orders, then?"
-msgstr ""
+msgstr "Igitur quos mihi iubes?"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:78
@@ -3456,11 +3475,14 @@ msgid ""
 "men to be his personal guard. Make sure nothing untoward happens to him, as "
 "the circumstances of Leollyn’s death are not fully clear."
 msgstr ""
+"Ut praemium virtuti Delfadoris, paulisper te suosque praeficio ut custodes "
+"eius sitis. Operam da ut sibi nulla mala accidant, nam res mortis Leolli "
+"planae sunt."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:82
 msgid "As you command, sire!"
-msgstr ""
+msgstr "Ut iubes, rex!"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:89
@@ -3471,6 +3493,11 @@ msgid ""
 "with the few survivors fleeing in terror. Nothing stood now between Iliah-"
 "Malal’s army and Weldyn..."
 msgstr ""
+"Igitur exercitus Vesnotiensis a Veldine discessit petitum copias Iliae "
+"Malalis ac oppressum. Sed militia cladem evasit. Vix pauci exterritorum "
+"militum redierunt. Exercitus Vesnotei deletus sunt, ut superviventes pauci "
+"terrore effugiebant. Nihil impedit quin exercitus Iliae Malalis Veldinem "
+"ineat..."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:93
@@ -3478,11 +3505,13 @@ msgid ""
 "This is a disaster. I should have led the army myself and died with them. "
 "And I should have listened to you, Delfador."
 msgstr ""
+"Est clades. Debeo me exercitum ducere et secum morior. Et debeo te "
+"audivisse, Delfador."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:97
 msgid "We will fight till the last man, my King."
-msgstr ""
+msgstr "Ad extremum pugnabimus, mi Rex."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:101
@@ -3490,11 +3519,13 @@ msgid ""
 "My Lord, things are very grave indeed, but all is not yet lost. There is "
 "still hope if we do not falter."
 msgstr ""
+"Mi Domine, quidem valde gravius sit, sed nondum omnes perduntur. Etiam spes "
+"est si desint."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:105
 msgid "Yes, Delfador. This time we will follow your advice."
-msgstr ""
+msgstr "Est, Delfador. Nunc consilium tuum parebimus."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:109
@@ -3511,12 +3542,12 @@ msgstr ""
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:113
 msgid "My Lord, I can arrange the defenses around the city."
-msgstr ""
+msgstr "Domine mi, possum praesidia circum urbem intruere."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:117
 msgid "Very well, Lionel, take command."
-msgstr ""
+msgstr "Esto, Lionele, carpe imperium."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:121
@@ -3545,7 +3576,7 @@ msgstr ""
 #. [scenario]: id=17_A_New_Ally
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:3
 msgid "A New Ally"
-msgstr ""
+msgstr "Socius Novus"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:23
@@ -3569,12 +3600,12 @@ msgstr "Udrin"
 #. [side]: type=Necromancer, id=Gruv-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:66
 msgid "Gruv-Malal"
-msgstr ""
+msgstr "Gruvus Malalis"
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:107
 msgid "Defeat Gruv-Malal"
-msgstr ""
+msgstr "Gruvum Malalem Vincere"
 
 #. [objective]: condition=lose
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:115
@@ -3595,7 +3626,7 @@ msgstr ""
 #. [message]: speaker=Ulrek
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:143
 msgid "Keep fighting them sacks o’ bones."
-msgstr ""
+msgstr "Pergite sacculos ossium pugnare."
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:147
@@ -3605,12 +3636,12 @@ msgstr ""
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:151
 msgid "Dwarves, attacked by undead. We must help them."
-msgstr ""
+msgstr "Nani, ab inmortibus pugnati. Opus est subvenire."
 
 #. [message]: speaker=Gruv-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:155
 msgid "Then your corpses will also serve my master."
-msgstr ""
+msgstr "Igitur caadvera domino meo servient."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:159
@@ -3620,7 +3651,7 @@ msgstr ""
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:177
 msgid "I am Delfador. And you are dust!"
-msgstr ""
+msgstr "Ego Delfador et deflagraris!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:188
@@ -3630,7 +3661,7 @@ msgstr ""
 #. [message]: speaker=Ulrek
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:192
 msgid "We are in your debt."
-msgstr ""
+msgstr "Beneficio tibi debemus."
 
 #. [message]: speaker=Ulrek
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:203
@@ -3690,12 +3721,12 @@ msgstr ""
 #. [message]: speaker=Ulrek
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:257
 msgid "Relgorn fell! Quickly, run for yer lives!"
-msgstr ""
+msgstr "Relgornius cecedit! Celeriter, Currite pro vita!"
 
 #. [scenario]: id=18_The_Portal_of_Doom
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:3
 msgid "The Portal of Doom"
-msgstr ""
+msgstr "Porta Fati"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:40
@@ -3709,7 +3740,7 @@ msgstr ""
 #. [side]: type=Death Knight, id=Prepolur
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:69
 msgid "Prepolur"
-msgstr ""
+msgstr "Prepoler"
 
 #. [side]: type=Dark Adept, id=Unuvim
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:104
@@ -3719,7 +3750,7 @@ msgstr "Unuvum"
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:158
 msgid "Close the Portal and return Delfador to his keep"
-msgstr ""
+msgstr "Portam claudere et Delfadorem ad arcem eius redire"
 
 #. [message]: speaker=Prepolur
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:196
@@ -3727,6 +3758,7 @@ msgid ""
 "Living men and dwarves are nearing. Rise, Portal Guard and slay those "
 "intruders!"
 msgstr ""
+"Mortales nanique appropinquant. Surgite, Custodes Portae et advenas occidite!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:200
@@ -3743,17 +3775,17 @@ msgstr ""
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:229
 msgid "Earth, rise and shut this gate of evil for good!"
-msgstr ""
+msgstr "Tellus, surge et claude perpetuo portam malam!"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:254
 msgid "Portal, reopen! No! What have you done?"
-msgstr ""
+msgstr "Porta, iterum aperi! Hau! Quod egisti?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:259
 msgid "Your portal is shut. And you cannot open another one."
-msgstr ""
+msgstr "Porta tua clausa est. Et aliam aperire non potes."
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:263
@@ -3766,7 +3798,7 @@ msgstr ""
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:267
 msgid "Join you?"
-msgstr ""
+msgstr "Te coniungo?"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:271
@@ -3793,31 +3825,33 @@ msgid ""
 "(<i>To the dwarves</i>). Quickly, back in the tunnel! I will stay last to "
 "seal the entrance."
 msgstr ""
+"(<i>Ad nanos</i>). Celeriter, ite ad cuniculum! Manebo in tergo ut aditum "
+"claudam."
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:299
 msgid "All the player’s units must reach the tunnel. Then Delfador."
-msgstr ""
+msgstr "Omnes actores lusoris cuniculum adire debent. Dein Delfador."
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:364
 msgid "Hurry up!"
-msgstr ""
+msgstr "Agite!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:370
 msgid "We’re in. Now: Earth, seal this entrance!"
-msgstr ""
+msgstr "Adsumus. Iam: Tellus, claude aditum!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:418
 msgid "Out of my way, foul creatures!"
-msgstr ""
+msgstr "Iam ite, bestiae taetrae!"
 
 #. [unit]: id=Samun, type=Draug
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:437
 msgid "Samun"
-msgstr ""
+msgstr "Samus"
 
 #. [unit]: id=Skoogal, type=Banebow
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:446
@@ -3859,7 +3893,7 @@ msgstr ""
 #. [message]: id=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:499
 msgid "Slay them all!"
-msgstr ""
+msgstr "Omnes occidite!"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:517
@@ -3872,7 +3906,7 @@ msgstr ""
 #. [scenario]: id=19_Showdown_in_the_Northern_Swamp
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:4
 msgid "Showdown in the Northern Swamp"
-msgstr ""
+msgstr "Dimicatio Vitae in Paludine Borea"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:18
@@ -3896,7 +3930,7 @@ msgstr ""
 #. [side]: type=Necromancer, id=Maldun
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:106
 msgid "Maldun"
-msgstr ""
+msgstr "Malunus"
 
 #. [side]: type=Death Knight, id=Alderoth
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:122
@@ -3955,7 +3989,7 @@ msgstr ""
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:240
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:295
 msgid "Now your days are ended!"
-msgstr ""
+msgstr "Nunc tempus tuus finivitur!"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:244
@@ -3985,7 +4019,7 @@ msgstr ""
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:345
 msgid "Delfador... You raise undead?!"
-msgstr ""
+msgstr "Delfador... tu inmortus arcessis?!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:349
@@ -4010,17 +4044,17 @@ msgstr ""
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:376
 msgid "Darkness shall be dispelled!"
-msgstr ""
+msgstr "Tenebrae dimittentur!"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:384
 msgid "No!"
-msgstr ""
+msgstr "Hau!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:388
 msgid "Let the light shine forth!"
-msgstr ""
+msgstr "Foras lux radiet!"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:392
@@ -4087,7 +4121,7 @@ msgstr ""
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:479
 msgid "And the portal, it is sealed for good?"
-msgstr ""
+msgstr "Et porta pro certo clauditur?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:483
@@ -4103,7 +4137,7 @@ msgstr ""
 #. [scenario]: id=20_Prince_of_Wesnoth
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:4
 msgid "Prince of Wesnoth"
-msgstr ""
+msgstr "Regulus Vesnotei"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:22
@@ -4138,17 +4172,17 @@ msgstr ""
 #. [side]: type=General, id=Eldred
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:67
 msgid "Eldred"
-msgstr ""
+msgstr "Eldredius"
 
 #. [side]: type=General, id=Lowel
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:88
 msgid "Lowel"
-msgstr ""
+msgstr "Lovellus"
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:108
 msgid "Defeat Eldred"
-msgstr ""
+msgstr "Eldredium Vincere"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:138
@@ -4233,12 +4267,12 @@ msgstr ""
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:212
 msgid "We are too late! All is lost!"
-msgstr ""
+msgstr "Seri sumus! Omnes perditi sunt!"
 
 #. [scenario]: id=21_Clash_at_the_Manor
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:4
 msgid "Clash at the Manor"
-msgstr ""
+msgstr "Conflicto in Villa"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:26
@@ -4280,17 +4314,17 @@ msgstr ""
 #. [side]: type=General, id=Pilafman
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:68
 msgid "Pilafman"
-msgstr ""
+msgstr "Pilafmanis"
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:91
 msgid "Defeat Pilafman"
-msgstr ""
+msgstr "Pilafmanem vincere"
 
 #. [objective]: condition=lose
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:107
 msgid "Enemy unit reaches the signpost"
-msgstr ""
+msgstr "Actor hostium signum attingere"
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:129
@@ -4327,7 +4361,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:193
 msgid "New Objective: Find the secret door. Explore the manor."
-msgstr ""
+msgstr "Propositum novum: ianua occulta invenire. Villam explorare."
 
 #. [message]: id=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:212
@@ -4337,12 +4371,12 @@ msgstr ""
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:269
 msgid "Reinforcements on the horizon. We are too late!"
-msgstr ""
+msgstr "Subsidia in circulum orbis. Seri sumus!"
 
 #. [scenario]: id=22_Face_of_the_Enemy
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:4
 msgid "Face of the Enemy"
-msgstr ""
+msgstr "Facies Hostis"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:21
@@ -4354,7 +4388,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:75
 msgid "Defeat Sagus"
-msgstr ""
+msgstr "Sagum Vncere"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:107
@@ -4393,7 +4427,7 @@ msgstr ""
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:136
 msgid "Asheviere is this thing’s daughter?"
-msgstr ""
+msgstr "Num Ascuera filia huius monstri est?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:140
@@ -4444,7 +4478,7 @@ msgstr ""
 #. [scenario]: id=23_Epilogue
 #: data/campaigns/Delfadors_Memoirs/scenarios/23_Epilogue.cfg:3
 msgid "Epilogue"
-msgstr ""
+msgstr "Epilogus"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/23_Epilogue.cfg:17
@@ -4511,6 +4545,10 @@ msgid ""
 "tribute. In return, the king would defend the realm against invaders, and "
 "redistribute wealth in times of need."
 msgstr ""
+"Apud regnum feudalem, auctoritas in rege pendet. Domini illius modo res "
+"mancipi tenuerunt si constat et tributum opus erat dedevisse. Quo facto, rex "
+"regnum contra hostes defensit et divitias distribuit dum tempus egestatis "
+"est. "
 
 #. [unit_type]: id=Mage Commander
 #: data/campaigns/Delfadors_Memoirs/units/Mage_Commander.cfg:7
