@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth 1.8\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2011-02-26 17:15+0100\n"
+"PO-Revision-Date: 2011-03-02 21:31+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -479,21 +479,18 @@ msgstr "Vulcanus"
 
 #. [terrain_type]: id=cloud
 #: data/core/terrain.cfg:983
-#, fuzzy
 msgid "Regular Impassable Mountains"
-msgstr "Montes Inexsuperabiles"
+msgstr "Montes Impervii"
 
 #. [terrain_type]: id=clouddesert
 #: data/core/terrain.cfg:992
-#, fuzzy
 msgid "Desert Impassable Mountains"
-msgstr "Montes Inexsuperabiles"
+msgstr "Montes Impervii Locorum Desertorum"
 
 #. [terrain_type]: id=cloud_snow
 #: data/core/terrain.cfg:1001
-#, fuzzy
 msgid "Snowy Impassable Mountains"
-msgstr "Montes Inexsuperabiles"
+msgstr "Montes Impervii Nivei"
 
 #. [terrain_type]: id=cavewall
 #: data/core/terrain.cfg:1011
@@ -527,9 +524,8 @@ msgstr "Murus Saxosus Lucidus"
 
 #. [terrain_type]: id=impassable_overlay
 #: data/core/terrain.cfg:1071
-#, fuzzy
 msgid "Impassable Overlay"
-msgstr "Impervius"
+msgstr "Velamen Impervium"
 
 #. [terrain_type]: id=void
 #: data/core/terrain.cfg:1082
@@ -840,7 +836,7 @@ msgstr "Velamen Castelli"
 #. [terrain_type]: id=keep_overlay
 #: data/core/terrain.cfg:1748
 msgid "Keep Overlay"
-msgstr ""
+msgstr "Velamen Tenere"
 
 #. [terrain_type]: id=bridge
 #. [terrain_type]: id=bridgediag1
@@ -980,22 +976,22 @@ msgstr "Vetare"
 #. [label]
 #: data/gui/default/window/addon_description.cfg:80
 msgid "Author:"
-msgstr "Auctor:"
+msgstr "Auctor: "
 
 #. [label]
 #: data/gui/default/window/addon_description.cfg:110
 msgid "Version:"
-msgstr "Versio:"
+msgstr "Versio: "
 
 #. [label]
 #: data/gui/default/window/addon_description.cfg:141
 msgid "Size:"
-msgstr "Magnitudo:"
+msgstr "Magnitudo: "
 
 #. [label]
 #: data/gui/default/window/addon_description.cfg:172
 msgid "Description:"
-msgstr "Descriptio:"
+msgstr "Descriptio: "
 
 #. [scroll_label]: id=description
 #: data/gui/default/window/addon_description.cfg:186
@@ -1005,7 +1001,7 @@ msgstr ""
 #. [label]
 #: data/gui/default/window/addon_description.cfg:204
 msgid "Translations:"
-msgstr "Translationes:"
+msgstr "Translationes: "
 
 #. [scroll_label]: id=translations
 #: data/gui/default/window/addon_description.cfg:218
@@ -1050,7 +1046,7 @@ msgstr "Difficultas: "
 #. [scroll_label]: id=message
 #: data/gui/default/window/campaign_difficulty.cfg:69
 msgid "Select difficulty level:"
-msgstr "Difficultatem eligere:"
+msgstr "Difficultatem eligere: "
 
 #. [label]: id=lblTitle
 #: data/gui/default/window/data_manage.cfg:42
@@ -1109,7 +1105,7 @@ msgstr "Titulum Ponere"
 #. [label]
 #: data/gui/default/window/edit_label.cfg:64
 msgid "Label:"
-msgstr "Titulus:"
+msgstr "Titulus: "
 
 #. [toggle_button]: id=team_only_toggle
 #: data/gui/default/window/edit_label.cfg:102
@@ -1237,17 +1233,17 @@ msgstr ""
 #. [label]
 #: data/gui/default/window/editor_settings.cfg:120
 msgid "Red:"
-msgstr "Ruber:"
+msgstr "Ruber: "
 
 #. [label]
 #: data/gui/default/window/editor_settings.cfg:146
 msgid "Green:"
-msgstr "Viridis:"
+msgstr "Viridis: "
 
 #. [label]
 #: data/gui/default/window/editor_settings.cfg:172
 msgid "Blue:"
-msgstr "Caeruleus:"
+msgstr "Caeruleus: "
 
 #. [toggle_button]: id=use_mdi
 #: data/gui/default/window/editor_settings.cfg:208
@@ -1332,9 +1328,8 @@ msgstr "Servatum Delere"
 
 #. [label]: id=lblMessage
 #: data/gui/default/window/game_delete.cfg:52
-#, fuzzy
 msgid "Do you really want to delete this game?"
-msgstr "Visne vere relinquere?"
+msgstr "Itane vis ludum delere?"
 
 #. [toggle_button]: id=dont_ask_again
 #: data/gui/default/window/game_delete.cfg:72
@@ -1706,7 +1701,7 @@ msgstr "Fugare"
 #. [label]
 #: data/gui/default/window/lobby_player_info.cfg:167
 msgid "Ban time:"
-msgstr ""
+msgstr "Tempus fugandi: "
 
 #. [button]: id=kick_ban
 #: data/gui/default/window/lobby_player_info.cfg:180
@@ -1979,7 +1974,7 @@ msgstr "Auxilium"
 #. [button]: id=help
 #: data/gui/default/window/title_screen.cfg:147
 msgid "Show Battle for Wesnoth help"
-msgstr ""
+msgstr "Auxilium Proelio pro Vesnote ostemdere"
 
 #. [button]: id=previous_tip
 #: data/gui/default/window/title_screen.cfg:162
@@ -2252,9 +2247,8 @@ msgid "Turn Bell"
 msgstr "Tintinnabulum Vicis"
 
 #: src/game_preferences_display.cpp:186
-#, fuzzy
 msgid "Show Team Colors"
-msgstr "Colores Partium Monstrare"
+msgstr "Colores Manuum Monstrare"
 
 #: src/game_preferences_display.cpp:187
 #, fuzzy
@@ -2336,9 +2330,8 @@ msgid "Bell Volume:"
 msgstr "Magnitudo Tintinabuli:"
 
 #: src/game_preferences_display.cpp:208
-#, fuzzy
 msgid "Scroll Speed:"
-msgstr "Velocitas Gyri:"
+msgstr "Velocitas Gyri: "
 
 #: src/game_preferences_display.cpp:211
 msgid "Sample Rate (Hz):"
@@ -2420,14 +2413,12 @@ msgid ""
 msgstr ""
 
 #: src/game_preferences_display.cpp:309
-#, fuzzy
 msgid "Make units move and fight faster"
-msgstr "Efficere ut unitates celerius moveantur et pugnent"
+msgstr "Fac ut unitates celerius moveantur et pugnent"
 
 #: src/game_preferences_display.cpp:326
-#, fuzzy
 msgid "Units move and fight speed"
-msgstr "Efficere ut unitates celerius moveantur et pugnent"
+msgstr "Velocitas movendi pugnandique actorum "
 
 #: src/game_preferences_display.cpp:329
 #, fuzzy
@@ -2908,9 +2899,8 @@ msgid "Add waypoint"
 msgstr "Finem addere"
 
 #: src/hotkeys.cpp:55
-#, fuzzy
 msgid "Hold Position"
-msgstr "Positionem Mantenere"
+msgstr "Positionem Tenere"
 
 #: src/hotkeys.cpp:56
 msgid "End Unit Turn"
@@ -2969,9 +2959,8 @@ msgid "Rename Unit"
 msgstr "Actorem Transnominare"
 
 #: src/hotkeys.cpp:70
-#, fuzzy
 msgid "Save Replay"
-msgstr "Claves Notarum Servare"
+msgstr "Restitutum Servare"
 
 #: src/hotkeys.cpp:71 src/hotkeys.cpp:125
 msgid "Save Map"
@@ -3000,7 +2989,6 @@ msgid "Toggle Grid"
 msgstr "Rete Ponere/Tollere"
 
 #: src/hotkeys.cpp:79
-#, fuzzy
 msgid "Mouse Scrolling"
 msgstr "Gyrum Muris"
 
@@ -3058,9 +3046,8 @@ msgid "Show Enemy Moves"
 msgstr "Motus Hostium Ostendere"
 
 #: src/hotkeys.cpp:96
-#, fuzzy
 msgid "Best Possible Enemy Moves"
-msgstr "Motus Optimos Hostium Monstrare"
+msgstr "Optimi Motus Hostium"
 
 #: src/hotkeys.cpp:98
 msgid "Reset"
@@ -3101,11 +3088,11 @@ msgstr ""
 
 #: src/hotkeys.cpp:112
 msgid "Execute all actions"
-msgstr ""
+msgstr "Omnes actiones agere"
 
 #: src/hotkeys.cpp:113
 msgid "Delete planned action"
-msgstr ""
+msgstr "Actionem contstitutam delere"
 
 #: src/hotkeys.cpp:114
 msgid "Move action up queue"
@@ -3149,9 +3136,8 @@ msgid "Revert All Changes"
 msgstr ""
 
 #: src/hotkeys.cpp:129
-#, fuzzy
 msgid "Map Information"
-msgstr "Generator Chartarum"
+msgstr "Descriptio Chartae"
 
 #: src/hotkeys.cpp:131
 msgid "Swap fore- and background terrains"
@@ -3254,9 +3240,8 @@ msgid "Randomize Tiles In Selection"
 msgstr ""
 
 #: src/hotkeys.cpp:171
-#, fuzzy
 msgid "Rotate Map"
-msgstr "Chartam Restituere"
+msgstr "Chartam Convertere"
 
 #: src/hotkeys.cpp:173
 #, fuzzy
@@ -3307,9 +3292,8 @@ msgid "Update Shroud Now"
 msgstr "Absconsum Nunc Mutare"
 
 #: src/hotkeys.cpp:196
-#, fuzzy
 msgid "Continue Move"
-msgstr "Tractum Pergere"
+msgstr "Vicem Pergere"
 
 #: src/hotkeys.cpp:197
 msgid "Find Label or Unit"
