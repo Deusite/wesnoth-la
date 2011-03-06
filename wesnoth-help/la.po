@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth 1.8\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2011-03-05 10:32+0100\n"
+"PO-Revision-Date: 2011-03-06 19:07+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -88,13 +88,13 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:16
 #: data/core/macros/abilities.cfg:10
 msgid "heals +4"
-msgstr "medetur +IV"
+msgstr "sanit +IV"
 
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:17
 #: data/core/macros/abilities.cfg:11
 msgid "female^heals +4"
-msgstr "medetur +IV"
+msgstr "sanit +IV"
 
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:22
@@ -121,13 +121,13 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:45
 #: data/core/macros/abilities.cfg:30
 msgid "heals +8"
-msgstr "medetur +VIII"
+msgstr "sanit +VIII"
 
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:46
 #: data/core/macros/abilities.cfg:31
 msgid "female^heals +8"
-msgstr "medetur +VIII"
+msgstr "sanit +VIII"
 
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:51
@@ -192,7 +192,7 @@ msgstr ""
 #. [topic]: id=breeding_pen
 #: data/core/encyclopedia/drakes.cfg:19
 msgid "Breeding Pen"
-msgstr ""
+msgstr "Cohors Feturae"
 
 #. [topic]: id=breeding_pen
 #: data/core/encyclopedia/drakes.cfg:20
@@ -205,7 +205,7 @@ msgstr ""
 #. [topic]: id=breeding_cycle
 #: data/core/encyclopedia/drakes.cfg:25
 msgid "Breeding Cycle"
-msgstr ""
+msgstr "Circumitus Feturae"
 
 #. [topic]: id=breeding_cycle
 #: data/core/encyclopedia/drakes.cfg:26
@@ -362,7 +362,7 @@ msgstr ""
 #. [topic]: id=breeder
 #: data/core/encyclopedia/drakes.cfg:104
 msgid "Breeder"
-msgstr ""
+msgstr "Conpar"
 
 #. [topic]: id=breeder
 #: data/core/encyclopedia/drakes.cfg:105
@@ -457,7 +457,7 @@ msgstr ""
 #. [topic]: id=swarming
 #: data/core/encyclopedia/drakes.cfg:146
 msgid "Swarming"
-msgstr "Fervere"
+msgstr "Fervendum"
 
 #. [topic]: id=swarming
 #: data/core/encyclopedia/drakes.cfg:147
@@ -492,7 +492,7 @@ msgstr ""
 #. [topic]: id=long_count
 #: data/core/encyclopedia/drakes.cfg:164
 msgid "Long Count"
-msgstr ""
+msgstr "Numerandum Longum"
 
 #. [topic]: id=long_count
 #: data/core/encyclopedia/drakes.cfg:165
@@ -504,7 +504,7 @@ msgstr ""
 #. [topic]: id=long_pig
 #: data/core/encyclopedia/drakes.cfg:170
 msgid "Long Pig"
-msgstr ""
+msgstr "Longus Porcus"
 
 #. [topic]: id=long_pig
 #: data/core/encyclopedia/drakes.cfg:171
@@ -516,7 +516,7 @@ msgstr ""
 #. [topic]: id=ceramic
 #: data/core/encyclopedia/drakes.cfg:176
 msgid "Ceramics"
-msgstr ""
+msgstr "Fictilia"
 
 #. [topic]: id=ceramic
 #: data/core/encyclopedia/drakes.cfg:177
@@ -529,7 +529,7 @@ msgstr ""
 #. [topic]: id=drakish_script
 #: data/core/encyclopedia/drakes.cfg:182
 msgid "Drakish, script"
-msgstr ""
+msgstr "Litteratura Draculia, litteratura"
 
 #. [topic]: id=drakish_script
 #: data/core/encyclopedia/drakes.cfg:183
@@ -542,12 +542,12 @@ msgstr ""
 #. [topic]: id=drakish_language
 #: data/core/encyclopedia/drakes.cfg:188
 msgid "Drakish, language"
-msgstr ""
+msgstr "Draculica, lingua"
 
 #. [topic]: id=drakish_language
 #: data/core/encyclopedia/drakes.cfg:189
 msgid "The language spoken by the drakes."
-msgstr ""
+msgstr "Lingua a draculis loquitur."
 
 #. [section]: id=geography
 #. [topic]: id=..geography
@@ -891,9 +891,8 @@ msgstr "Facultates"
 #. [section]: id=weapon_specials
 #. [topic]: id=..weapon_specials
 #: data/core/help.cfg:59 data/core/help.cfg:110
-#, fuzzy
 msgid "Weapon Specials"
-msgstr "Praecipua Telorum"
+msgstr "Res Unica Telorum"
 
 #. #-#-#-#-#  wesnoth-help.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [section]: id=factions_section
@@ -3069,20 +3068,19 @@ msgstr ""
 
 #. [topic]: id=general_commands
 #: data/core/help.cfg:788
-#, fuzzy
 msgid "General commands"
 msgstr "Imperia Vulgaria"
 
 #. [topic]: id=general_commands
 #: data/core/help.cfg:793
-#, fuzzy
 msgid ""
 "\n"
 "Clear chat messages.\n"
 "\n"
 msgstr ""
 "\n"
-"Tollere nuntios sermonis."
+"Nuntios colloquii tollere.\n"
+"\n"
 
 #. [topic]: id=general_commands
 #: data/core/help.cfg:797
@@ -3183,9 +3181,8 @@ msgstr ""
 
 #. [topic]: id=mp_commands
 #: data/core/help.cfg:827
-#, fuzzy
 msgid "Multiplayer commands"
-msgstr "Imperia plurum lusorum"
+msgstr "Imperia plurium lusorum"
 
 #. [topic]: id=mp_commands
 #: data/core/help.cfg:833
@@ -3697,6 +3694,7 @@ msgstr ""
 msgid "+1 max HP"
 msgstr "+I fin PS"
 
+# lubrcus, callet
 #. [damage]: id=backstab
 #: data/core/macros/abilities.cfg:593
 #, fuzzy
@@ -3752,9 +3750,8 @@ msgstr ""
 
 #. [slow]: id=slow
 #: data/core/macros/abilities.cfg:631
-#, fuzzy
 msgid "slows"
-msgstr "lentifacit"
+msgstr "tardit"
 
 #. [slow]: id=slow
 #: data/core/macros/abilities.cfg:633
@@ -3790,9 +3787,8 @@ msgstr ""
 
 #. [chance_to_hit]: id=marksman
 #: data/core/macros/abilities.cfg:653
-#, fuzzy
 msgid "marksman"
-msgstr "peritus arcus"
+msgstr "perspicax"
 
 #. [chance_to_hit]: id=marksman
 #: data/core/macros/abilities.cfg:655
@@ -4251,7 +4247,7 @@ msgstr "sana"
 #. [trait]: id=healthy
 #: data/core/macros/traits.cfg:148
 msgid "Always rest heals"
-msgstr ""
+msgstr "Semper quiete sanatur"
 
 #. [trait]: id=fearless
 #: data/core/macros/traits.cfg:165 data/core/macros/traits.cfg:178
@@ -5040,21 +5036,19 @@ msgstr "Factiones: "
 
 #: src/help.cpp:1301
 msgid "Factions are only used in multiplayer"
-msgstr ""
+msgstr "Factiones modo cum pluribus lusoribus usui sunt"
 
 #: src/help.cpp:1344
 msgid "level"
 msgstr "ordo"
 
 #: src/help.cpp:1376
-#, fuzzy
 msgid "Advances from: "
-msgstr "Promovetur ad: "
+msgstr "Producitur a: "
 
 #: src/help.cpp:1378
-#, fuzzy
 msgid "Advances to: "
-msgstr "Promovetur ad: "
+msgstr "Producitur ad: "
 
 #: src/help.cpp:1405 src/help.cpp:1717 src/help.cpp:1778
 msgid "race^Miscellaneous"
@@ -5069,9 +5063,8 @@ msgid "Abilities: "
 msgstr "Facultates: "
 
 #: src/help.cpp:1431
-#, fuzzy
 msgid "Ability Upgrades: "
-msgstr "Facultates: "
+msgstr "Praemia Producendi: "
 
 #: src/help.cpp:1447
 msgid "HP: "
@@ -5090,13 +5083,12 @@ msgid "Alignment: "
 msgstr "Pars: "
 
 #: src/help.cpp:1456
-#, fuzzy
 msgid "Required XP: "
-msgstr "PE Necessaria: "
+msgstr "PU Necessaria: "
 
 #: src/help.cpp:1465
 msgid "unit help^Attacks"
-msgstr ""
+msgstr "Ictus"
 
 #: src/help.cpp:1472
 msgid "unit help^Name"
@@ -5115,9 +5107,8 @@ msgid "Range"
 msgstr "Iactus"
 
 #: src/help.cpp:1476
-#, fuzzy
 msgid "Special"
-msgstr "Praecipuum"
+msgstr "Unica"
 
 #: src/help.cpp:1526
 #, fuzzy
