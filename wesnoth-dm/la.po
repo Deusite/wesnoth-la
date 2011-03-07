@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2011-03-05 21:35+0100\n"
+"PO-Revision-Date: 2011-03-07 20:06+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: none\n"
 "Language: \n"
@@ -116,7 +116,7 @@ msgstr "Prologus"
 #. [side]: type=Mage of Light, id=Marshal
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:27
 msgid "Marshal"
-msgstr "Imperator"
+msgstr "Princeps"
 
 #. [side]: type=Mage of Light, id=Marshal
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:33
@@ -513,7 +513,7 @@ msgstr "Hostes"
 #. [label]
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_The_Road_to_Weldyn.cfg:68
 msgid "The Great Valley"
-msgstr "Magna Vallis"
+msgstr "Vallis Magna"
 
 #. [label]
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_The_Road_to_Weldyn.cfg:72
@@ -3538,6 +3538,13 @@ msgid ""
 "I think I now know how to close Iliah-Malal’s portal to the Land of the "
 "Dead. I will need a small escort, but this must be done immediately."
 msgstr ""
+"Tres res faciendae sunt. Primo praesidia parare opus est ut possumus. "
+"Secundo, debemus dryadales petere ut hostes distringant ad Iliam Malalem "
+"distinendum et impediendum. Dryadales coram inmortibus in agris pugnare non "
+"poterunt, sed eos, se iacentes a silvis ubi sequi non audent, vexare "
+"possunt. Postremo cogitavi et credo me, quomodo porta Iliae Malalis ad "
+"Inferna claudere possum, scire. Opus est mihi comites pauci, sed statim "
+"faciendum est. "
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:113
@@ -3557,6 +3564,9 @@ msgid ""
 "every mage in Wesnoth, from Alduin and elsewhere. And you must prepare more "
 "heavy infantry."
 msgstr ""
+"Haec modo elementa sunt. Si inmortus vicerimus, necesse erit aliter "
+"exercitum uti exercereque. Primo debes omnes magos in Vesnote et Alduine et "
+"aliis locis revocare. Et magis peditum armatorum parare opus est ."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:125
@@ -3564,6 +3574,8 @@ msgid ""
 "But heavy infantry is too slow! And mages in the army? Who can command these "
 "know-it-alls?"
 msgstr ""
+"Sed pedites armati nimis lenti sunt! Et magi in exercitu? Quis sophistis "
+"imperare potest?"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:129
@@ -3572,6 +3584,8 @@ msgid ""
 "mages in battle, for they are precious. Now, go, close the portal and come "
 "back soon!"
 msgstr ""
+"Delador potest. Tu peditibus armatis imperabis. Fac ut magos a proelio "
+"tegant, nam pretiosi sunt. Agedum, claudite portam! Mox redite!"
 
 #. [scenario]: id=17_A_New_Ally
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:3
@@ -3586,6 +3600,9 @@ msgid ""
 "was a perilous road. Delfador was constrained to avoid well-trodden paths. "
 "This meant a detour..."
 msgstr ""
+"Delfador manum ad septentriones cepit portam claudere conari. Sed Iliae "
+"exercitu solutu Malalis trans Magnum Flumen haec iter periculosum erat. "
+"Delfador coactus est ut vias notas vitet. Itaque via devertit..."
 
 #. [side]: type=Dwarvish Lord
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:58
@@ -3622,6 +3639,8 @@ msgstr "Mors Relgornii"
 msgid ""
 "Attack, my loyal soldiers; the more we slay, the more troops for our master!"
 msgstr ""
+"Pugnate, mi milites fideles; quo magis necaverimus, eo magis copiae ero "
+"erunt!"
 
 #. [message]: speaker=Ulrek
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:143
@@ -3631,7 +3650,7 @@ msgstr "Pergite sacculos ossium pugnare."
 #. [message]: speaker=Relgorn
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:147
 msgid "Ulrek, more enemies approach from the south... Wait, these are humans!"
-msgstr ""
+msgstr "Ulrecce, magis hostium a meridie appropinquant... Mane, ecce humanos!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:151
@@ -3656,7 +3675,7 @@ msgstr "Ego Delfador et deflagraris!"
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:188
 msgid "Now we shall rid Wesnoth of the rest of your unholy spawn!"
-msgstr ""
+msgstr "Iam Vesnotem a ceteris catulis incestis purgabimus!"
 
 #. [message]: speaker=Ulrek
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:192
@@ -3881,7 +3900,7 @@ msgstr "Bluddus"
 #. [message]: id=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:491
 msgid "What’s going on here? Is this Delfador? Welcome to your doom, Delfador!"
-msgstr ""
+msgstr "Quod hic accidit? Estne Delfador? Ave, ecce fatum, Delfador!"
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:495
@@ -4008,6 +4027,8 @@ msgid ""
 "Book of Crelanu, and found there your final doom at the hands of the dead "
 "themselves."
 msgstr ""
+"Non iam. Enim aspexi cor atrum artis venefici in Libro Crelani, et ibi "
+"inveni fatum extremum coram illis mortuis."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:303
@@ -4015,6 +4036,8 @@ msgid ""
 "Not this time. For I have gazed upon the dark heart of necromancy in the "
 "Book of Crelanu, AND I REMAIN OF THE LIGHT!"
 msgstr ""
+"Non iam. Enim aspexi cor atrum artis venefici in Libro Crelani, ET MANEO "
+"LUCIS!"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:345
