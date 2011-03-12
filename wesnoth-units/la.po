@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth Latin 1.2\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-12-26 10:10+0100\n"
-"PO-Revision-Date: 2011-03-05 16:45+0100\n"
+"PO-Revision-Date: 2011-03-12 14:55+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -490,7 +490,7 @@ msgstr ""
 #. [unit_type]: id=Drake Thrasher, race=drake
 #: data/core/units/drakes/Thrasher.cfg:4
 msgid "Drake Thrasher"
-msgstr "Draculus Mulcatans"
+msgstr "Draculus Verberans"
 
 #. [unit_type]: id=Drake Thrasher, race=drake
 #: data/core/units/drakes/Thrasher.cfg:19
@@ -561,6 +561,7 @@ msgstr ""
 msgid "hammer"
 msgstr "malleus"
 
+# Nanus Bacchans?
 #. [unit_type]: id=Dwarvish Berserker, race=dwarf
 #: data/core/units/dwarves/Berserker.cfg:4
 msgid "Dwarvish Berserker"
@@ -574,6 +575,7 @@ msgid ""
 "only of the unrelenting assaults for which they are legendary."
 msgstr ""
 
+# debacchari?
 #. [attack]: type=blade
 #: data/core/units/dwarves/Berserker.cfg:44
 #: data/core/units/dwarves/Ulfserker.cfg:45
@@ -583,7 +585,7 @@ msgstr "saevitia"
 #. [unit_type]: id=Dwarvish Dragonguard, race=dwarf
 #: data/core/units/dwarves/Dragonguard.cfg:4
 msgid "Dwarvish Dragonguard"
-msgstr "Nanus Draconigenus"
+msgstr "Nanus Draconigena"
 
 #. [unit_type]: id=Dwarvish Dragonguard, race=dwarf
 #: data/core/units/dwarves/Dragonguard.cfg:21
@@ -824,7 +826,7 @@ msgstr ""
 #. [unit_type]: id=Dwarvish Steelclad, race=dwarf
 #: data/core/units/dwarves/Steelclad.cfg:4
 msgid "Dwarvish Steelclad"
-msgstr "Nanus Cataphractus"
+msgstr "Nanus Ferratus"
 
 #. [unit_type]: id=Dwarvish Steelclad, race=dwarf
 #: data/core/units/dwarves/Steelclad.cfg:20
@@ -893,6 +895,7 @@ msgstr ""
 "Etsi iactus ex his 'fustibus tonitrus' complura momenta temporis requiret ad "
 "parandum, Nani dicunt eventus dignos mora esse."
 
+# Nanus Debacchans?
 #. [unit_type]: id=Dwarvish Ulfserker, race=dwarf
 #: data/core/units/dwarves/Ulfserker.cfg:4
 msgid "Dwarvish Ulfserker"
@@ -916,7 +919,7 @@ msgstr ""
 #. [unit_type]: id=Elvish Archer, race=elf
 #: data/core/units/elves/Archer.cfg:4
 msgid "Elvish Archer"
-msgstr "Saggitarius Dryadalium"
+msgstr "Sagittarius Dryadalium"
 
 #. [unit_type]: id=Elvish Archer, race=elf
 #: data/core/units/elves/Archer.cfg:21
@@ -1026,7 +1029,7 @@ msgstr "Ultatrix Dryadalium"
 #. [unit_type]: id=Elvish Captain, race=elf
 #: data/core/units/elves/Captain.cfg:4
 msgid "Elvish Captain"
-msgstr "Princeps Dryadalium"
+msgstr "Princeps Dryadalis"
 
 #. [unit_type]: id=Elvish Captain, race=elf
 #: data/core/units/elves/Captain.cfg:26
@@ -1126,7 +1129,7 @@ msgstr "spinae"
 #. [unit_type]: id=Elvish Enchantress, race=elf
 #: data/core/units/elves/Enchantress.cfg:4
 msgid "female^Elvish Enchantress"
-msgstr "Incantatrix Nymphis"
+msgstr "Praecantrix Nymphis"
 
 #. [unit_type]: id=Elvish Enchantress, race=elf
 #: data/core/units/elves/Enchantress.cfg:19
@@ -1395,7 +1398,7 @@ msgstr ""
 #. [unit_type]: id=Elvish Shaman, race=elf
 #: data/core/units/elves/Shaman.cfg:4
 msgid "female^Elvish Shaman"
-msgstr "Flamen Dryadalium"
+msgstr "Haruspica Nymphis"
 
 #. [unit_type]: id=Elvish Shaman, race=elf
 #: data/core/units/elves/Shaman.cfg:23
@@ -1471,10 +1474,11 @@ msgstr ""
 msgid "faerie touch"
 msgstr "tactus Nympharum"
 
+# Piatrix?
 #. [unit_type]: id=Elvish Sorceress, race=elf
 #: data/core/units/elves/Sorceress.cfg:4
 msgid "female^Elvish Sorceress"
-msgstr "Saga Dryadalium"
+msgstr "Saga Nymphis"
 
 #. [unit_type]: id=Elvish Sorceress, race=elf
 #: data/core/units/elves/Sorceress.cfg:21
@@ -1488,6 +1492,8 @@ msgid ""
 "certainly are capable of acting the part."
 msgstr ""
 
+# Sylphis? To steal the original tern from Paracelsus
+# Hariola?
 #. [unit_type]: id=Elvish Sylph, race=elf
 #: data/core/units/elves/Sylph.cfg:4
 msgid "female^Elvish Sylph"
@@ -2143,7 +2149,7 @@ msgstr ""
 #. [unit_type]: id=Heavy Infantryman, race=human
 #: data/core/units/humans/Loyalist_Heavy_Infantryman.cfg:4
 msgid "Heavy Infantryman"
-msgstr "Pedes Armatus"
+msgstr "Ferratus"
 
 #. [unit_type]: id=Heavy Infantryman, race=human
 #: data/core/units/humans/Loyalist_Heavy_Infantryman.cfg:20
@@ -2527,7 +2533,7 @@ msgstr "Saga"
 #. [unit_type]: id=Arch Mage, race=human
 #: data/core/units/humans/Mage_Arch.cfg:4
 msgid "Arch Mage"
-msgstr "Magus Princeps"
+msgstr "Princeps Magus"
 
 #. [unit_type]: id=Arch Mage, race=human
 #: data/core/units/humans/Mage_Arch.cfg:21
@@ -2569,7 +2575,7 @@ msgstr "globus ignis"
 #. [female]
 #: data/core/units/humans/Mage_Arch.cfg:171
 msgid "female^Arch Mage"
-msgstr "Saga Princeps"
+msgstr "Princeps Saga"
 
 #. [unit_type]: id=Elder Mage, race=human
 #: data/core/units/humans/Mage_Elder.cfg:4
@@ -3189,6 +3195,7 @@ msgid ""
 "unusually competent at night, and in forests and swamps."
 msgstr ""
 
+# Fatidica?
 #. [unit_type]: id=Mermaid Diviner, race=merman
 #: data/core/units/merfolk/Diviner.cfg:4
 msgid "female^Mermaid Diviner"
@@ -3205,10 +3212,11 @@ msgid ""
 "wrought the downfall of the crimson duke."
 msgstr ""
 
+# Incantans?
 #. [unit_type]: id=Mermaid Enchantress, race=merman
 #: data/core/units/merfolk/Enchantress.cfg:4
 msgid "female^Mermaid Enchantress"
-msgstr "Incantatrix Nereiis"
+msgstr "Praecantrix Nereiis"
 
 #. [unit_type]: id=Mermaid Enchantress, race=merman
 #: data/core/units/merfolk/Enchantress.cfg:20
@@ -3575,7 +3583,7 @@ msgstr "ungues ignis"
 #. [unit_type]: id=Giant Mudcrawler, race=monster
 #: data/core/units/monsters/Giant_Mudcrawler.cfg:4
 msgid "Giant Mudcrawler"
-msgstr "Monstrum Caenum"
+msgstr "Monstrum Caeni"
 
 #. [unit_type]: id=Giant Mudcrawler, race=monster
 #: data/core/units/monsters/Giant_Mudcrawler.cfg:19
@@ -4502,6 +4510,7 @@ msgstr ""
 "\n"
 "Nota Praecipua:"
 
+# fraudator<callens?
 #. [unit_type]: id=Ancient Lich, race=undead
 #: data/core/units/undead/Necro_Ancient_Lich.cfg:4
 msgid "Ancient Lich"
@@ -4627,6 +4636,7 @@ msgid ""
 "the merest desire for power."
 msgstr ""
 
+# Fraudator<Callens?
 #. [unit_type]: id=Lich, race=undead
 #: data/core/units/undead/Necro_Lich.cfg:4
 msgid "Lich"
@@ -4782,6 +4792,7 @@ msgstr ""
 "\n"
 "Nota Praecipua:"
 
+# Mortiferrum? A pun on mortifer
 #. [unit_type]: id=Deathblade, race=undead
 #: data/core/units/undead/Skele_Deathblade.cfg:4
 msgid "Deathblade"
