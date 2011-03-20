@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2011-03-19 22:18+0100\n"
+"PO-Revision-Date: 2011-03-20 23:31+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: none\n"
 "Language: \n"
@@ -221,7 +221,7 @@ msgid ""
 "Great”</i> before your days are through. I give you the second syllable of "
 "power, the second part of your name: FA"
 msgstr ""
-"Non minimus apud illos eris. Veto; <i>“Magno”</i> vocatus eris priusquam ex "
+"Non minimus apud illos eris. Quin; <i>“Magnum”</i> vocatus eris priusquam ex "
 "vita abibis. Dono tibi syllabam secundam potestatis, partem secundam nominis "
 "tui: FA"
 
@@ -563,7 +563,7 @@ msgid ""
 "press on westward, you will have to fight them."
 msgstr ""
 "Cave, advena! Veni te monitum — manus orcum Vallem Magnam ad septentriones "
-"occupavit et vicinum excucurrit. Si ad occidentem perrexerim, debebis eos "
+"occupavit et vicinum excucurrit. Si ad occidentem perrexeris, debebis eos "
 "pugnare."
 
 #. [message]: speaker=Delfador
@@ -3109,7 +3109,8 @@ msgid ""
 "Elves! I heard you have been looking for me! But you will save neither the "
 "human prince, nor yourselves."
 msgstr ""
-"Dryadales! Audivi vos me invenire! Sed ne regulum humanum ne vos servabitis. "
+"Dryadales! Audivi vos me invenire! Sed nec regulum humanum nec vos "
+"servabitis. "
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:266
@@ -3981,6 +3982,9 @@ msgid ""
 "Lionel marched north to join Delfador for the battle that would decide the "
 "fate of Wesnoth."
 msgstr ""
+"Nuntios nanorum et dryadalium utens, Delfador regem nuntiare et auxilium "
+"petere potebam. Copiis collectis Lionelus iter ad septentrionem fecit "
+"Delfadorem in proelio fatum Vesnotei constaturo conventum."
 
 #. [side]: type=Necromancer, id=Maldun
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:106
@@ -4066,7 +4070,7 @@ msgstr "Nunc tempus tuus finivitur!"
 msgid ""
 "The power of death is mine! When you strike me down I arise stronger than "
 "before!"
-msgstr "Potestas motis mihi est! Cum me transigeris exsurgam potentior!"
+msgstr "Potestas mortis mihi est! Cum me transigeris exsurgam potentior!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:248
@@ -4099,6 +4103,8 @@ msgid ""
 "in the otherworld a way here, and they come to us of their own will. Today "
 "they fight for the living."
 msgstr ""
+"Non arcesso, nec e mortuis nostris; nonnullis in Tartaro mecum pugnatis viam "
+"huc obtuli, et sua sponte veniunt. Hodie viventis certant."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:357
@@ -4112,7 +4118,7 @@ msgstr ""
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:362
 msgid "Powers of darkness, enshroud this field!"
-msgstr "Potestates tenebrarum, involvi agrum!"
+msgstr "Potestates tenebrarum, involvite agrum!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:376
@@ -4142,7 +4148,7 @@ msgstr ""
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:396
 msgid ""
 "Your mindless minions will be no match for the spirit and fire of the living."
-msgstr ""
+msgstr "Servi stulti animo et ardori viventium impar erunt."
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:401
@@ -4198,6 +4204,8 @@ msgid ""
 "You who fought beside me in the Land of the Dead and chose the side of the "
 "living on this day, return now to your peace and rest."
 msgstr ""
+"Vos quae quoque mecum in Inferna pugnabatis et hodie partem viventum "
+"elegistis, redite ad pacem tuam et requiescite."
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:479
@@ -4214,6 +4222,10 @@ msgid ""
 "corruption of the dark arts, and show themselves worthy of the land they "
 "live in."
 msgstr ""
+"Clauditur. Sed factum nimis magnum erat ut tote corrigebatur; etiam est "
+"peccatum relinquum, vestigium viae Iliae Malalis inter muna. Arcessere "
+"inmortus facilius erit. Posteribus in corruptelas artis tenebrarum "
+"praecavendum est, qui digni patria sint."
 
 #. [scenario]: id=20_Prince_of_Wesnoth
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:4
@@ -4228,6 +4240,9 @@ msgid ""
 "battle of Abez Ford, and it was no surprise that Delfador became Garard II’s "
 "most valued advisor."
 msgstr ""
+"Post victoriam societatis et foedus pacis quietis saeculum evenit. Rex novus "
+"Delfadori proelio Vadi Abesis fidere docuerat, et non erat dubium quin "
+"Delfador sausorem fidissimum Garardi factus sit. "
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:26
@@ -4244,6 +4259,8 @@ msgid ""
 "But Delfador was not alone in having the King’s ear; there was one yet "
 "closer to him. The Queen’s power was rising..."
 msgstr ""
+"Non etiam Delfador Regi aurem praebuit, sed aliquis propior illi. Auctoritas "
+"Reginae crescebat..."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:37
@@ -4307,6 +4324,9 @@ msgid ""
 "offers his deepest apologies for these events and promises to do anything in "
 "his power to make amends."
 msgstr ""
+"Pax, amici! Usque dies equitavi rabiem impeditum! Eldredie, iussu Regis, "
+"tibi a me ad Regiam ducere opus est, ubi factis foedis punieris. Calens, "
+"Regi eventi paenitet et promittit se aliquid acturum ut corrigat. "
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:179
@@ -4315,6 +4335,8 @@ msgid ""
 "believe he should be very careful, for he does not seem to be the only ruler "
 "in Wesnoth!"
 msgstr ""
+"Delfador! Gaudeo te adesse. Nullum e Rege postulamus, sed credo illum cavere "
+"debere, enim nec imperatorem solum in Vesnote esse videtur!"
 
 #. [message]: id=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:183
@@ -4362,6 +4384,8 @@ msgid ""
 "Palace more swiftly than I came here, even if I have to kill three horses "
 "under me to do it."
 msgstr ""
+"Fortasse. Cogitans, puto me ad Regiam redire celerius quam venire debere, "
+"etiam si me tres equos occidere opus sit."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:212
@@ -4383,6 +4407,11 @@ msgid ""
 "would cost Lionel his life; and neither Lionel nor Delfador knew that "
 "Lionel’s mission had been compromised from the start."
 msgstr ""
+"Cum Veldine rediit, Delfador invenit reginam cum magno manu familiam et "
+"parentes aegros visum exisse. Lionelus legatus fidissimus Regis iussu "
+"Ascuerae ad Gnalgam missus erat, ut Sceptrum Ignis reciperet. Haec expeditio "
+"Lionelo sumptui vitae erat; nec ille nec Delfador sciebant rem initio "
+"impedivisse."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:29
@@ -4392,6 +4421,9 @@ msgid ""
 "Asheviere had flattered them and beguiled them with promises of glory and "
 "plunder in a coming war."
 msgstr ""
+"Quamquam punivit Rex gratia factorum Eldredium, Delfador sentire potebat "
+"legatos militares solide Eldredio et matro favere. Ascuera eos blandita "
+"fefellitque est cum spe in bellum venturum gloriae praedaeque."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:33
@@ -4401,6 +4433,9 @@ msgid ""
 "Weldyn, and ordered Delfador to take no further action. And for once, "
 "Delfador knew he could not obey the King’s order."
 msgstr ""
+"Delfadori concilium cum Rege datum est, ubi dubia de libro demonstravit, sed "
+"mentem distulit donec Ascuera Veldini redit, et Delfadori imperavit ut "
+"nullum agat. Ac denique Delfador sciebat se mandato Regis parere non posse."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:37
@@ -4442,6 +4477,8 @@ msgid ""
 "falter. We have acquired orcish weapons, as you have requested. Nobody will "
 "be able to link this to you or the elves."
 msgstr ""
+"Pestis libri iam te opprimit, amice. Sed non possumus falli. Arma orcum "
+"adepti sumus, ut petivisti. Nemo credet te dryadalesve rem facere."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:137
@@ -4562,6 +4599,10 @@ msgid ""
 "You always underestimated me, as Leollyn did before you. Now you will meet "
 "the same fate as he. Rise, my loyal soldiers!"
 msgstr ""
+"Semper idem Delfador, superbus, insolens, semper super alios te ipsum "
+"ponens. Sed sum tantus factus quantus tu; tenui Librum! Tu semper me minoris "
+"aestimavisti, sicut Leollus ante te. Iam idem fatum quam se invenies. "
+"Surgite, milites fideles!  "
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:152
@@ -4604,6 +4645,10 @@ msgid ""
 "armies to deal with the orcish menace, leading to the great battle at the "
 "Ford of Abez that was lost through betrayal."
 msgstr ""
+"Delfador Veldini rediit, sed nec priusquam Librum Crelani in loco eo noto "
+"modo condiderat. Ascuera mirabiliter facta in villa praeteriit. Sed mox "
+"orces tantopere excucurrerunt ut Regno minantur. Exercitibus excitatis regis "
+"clare in Vado Abesis pugnatum est, at proditi defuerunt. "
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/23_Epilogue.cfg:20
@@ -4627,6 +4672,11 @@ msgid ""
 "came near in power and skill to Delfador, greatest mage ever to grace the "
 "courts of Wesnoth."
 msgstr ""
+"Heride legitimo in solio Vesnotei recepto, Delfador vitam egit suasor novis "
+"regibus. Animadvertit ut Scholam Magnam Alduini restituat usque ad gloriam "
+"vetus. Sed labor fecundus sua memoria non erat; nam multos annos belli et "
+"certaminis pauci magorum superaverunt, et nulli par potestati et facultati "
+"Delfadoris, optimi magi illustrantis in regia Vesnotei."
 
 #. [terrain_type]: id=milestone1
 #. [terrain_type]: id=milestone2
