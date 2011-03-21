@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth 1.8\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2011-03-06 19:07+0100\n"
+"PO-Revision-Date: 2011-03-21 00:18+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -88,13 +88,13 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:16
 #: data/core/macros/abilities.cfg:10
 msgid "heals +4"
-msgstr "sanit +IV"
+msgstr "sanat +IV"
 
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:17
 #: data/core/macros/abilities.cfg:11
 msgid "female^heals +4"
-msgstr "sanit +IV"
+msgstr "sanat +IV"
 
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:22
@@ -121,13 +121,13 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:45
 #: data/core/macros/abilities.cfg:30
 msgid "heals +8"
-msgstr "sanit +VIII"
+msgstr "sanat +VIII"
 
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:46
 #: data/core/macros/abilities.cfg:31
 msgid "female^heals +8"
-msgstr "sanit +VIII"
+msgstr "sanat +VIII"
 
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:51
@@ -529,7 +529,7 @@ msgstr ""
 #. [topic]: id=drakish_script
 #: data/core/encyclopedia/drakes.cfg:182
 msgid "Drakish, script"
-msgstr "Litteratura Draculia, litteratura"
+msgstr "Litteratura Draculica, litteratura"
 
 #. [topic]: id=drakish_script
 #: data/core/encyclopedia/drakes.cfg:183
@@ -936,7 +936,7 @@ msgstr ""
 #. [topic]: id=.unknown_unit
 #: data/core/help.cfg:120
 msgid "Unknown Unit"
-msgstr "Actor incognitus"
+msgstr "Actor Ignotus"
 
 #. [topic]: id=.unknown_unit
 #: data/core/help.cfg:123
@@ -1724,13 +1724,13 @@ msgstr "Aurora"
 #. [topic]: id=time_of_day
 #: data/core/help.cfg:285 data/core/macros/schedules.cfg:17
 msgid "Morning"
-msgstr "Antemeridiem"
+msgstr "Ante Meridiem"
 
 #. [time]: id=afternoon
 #. [topic]: id=time_of_day
 #: data/core/help.cfg:286 data/core/macros/schedules.cfg:26
 msgid "Afternoon"
-msgstr "Postmeridiem"
+msgstr "Post Meridiem"
 
 #. [time]: id=dusk
 #. [topic]: id=time_of_day
@@ -1830,7 +1830,7 @@ msgstr ""
 #. [topic]: id=healing
 #: data/core/help.cfg:310
 msgid "Healing"
-msgstr "Mederi"
+msgstr "Sanare"
 
 #. [topic]: id=healing
 #: data/core/help.cfg:311
@@ -2050,7 +2050,7 @@ msgstr ""
 #. [topic]: id=about
 #: data/core/help.cfg:347
 msgid "ingame_help_item^Contributors"
-msgstr ""
+msgstr "Collatores"
 
 #. [topic]: id=license
 #: data/core/help.cfg:353
@@ -3645,7 +3645,7 @@ msgstr ""
 #. [hides]: id=submerge
 #: data/core/macros/abilities.cfg:495 data/core/macros/abilities.cfg:501
 msgid "submerge"
-msgstr "demergere"
+msgstr "demergit"
 
 #. [hides]: id=submerge
 #: data/core/macros/abilities.cfg:496 data/core/macros/abilities.cfg:502
@@ -3694,12 +3694,10 @@ msgstr ""
 msgid "+1 max HP"
 msgstr "+I fin PS"
 
-# lubrcus, callet
 #. [damage]: id=backstab
 #: data/core/macros/abilities.cfg:593
-#, fuzzy
 msgid "backstab"
-msgstr "in tergum percutere"
+msgstr "traicit"
 
 #. [damage]: id=backstab
 #: data/core/macros/abilities.cfg:595
