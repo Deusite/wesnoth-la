@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth 1.8\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-12-08 18:05+0100\n"
-"PO-Revision-Date: 2011-02-26 09:10+0100\n"
+"PO-Revision-Date: 2011-03-21 19:57+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -826,7 +826,7 @@ msgstr ""
 #. [multiplayer]: id=multiplayer_Howling_Ghost_Badlands
 #: data/multiplayer/scenarios/2p_Howling_Ghost_Badlands.cfg:5
 msgid "2p — Howling Ghost Badlands"
-msgstr "2l — Eremus Lemurum Ululantium"
+msgstr "2l — Eremus Lemurum Flentium"
 
 #. [multiplayer]: id=multiplayer_Howling_Ghost_Badlands
 #: data/multiplayer/scenarios/2p_Howling_Ghost_Badlands.cfg:6
@@ -873,7 +873,7 @@ msgstr "imago"
 #. [trait]: id=remove_hp
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:24
 msgid "This is a sculpture made of stone."
-msgstr ""
+msgstr "Est statua lapium."
 
 #. [multiplayer]: id=multiplayer_Sullas_Ruins
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:39
@@ -1088,7 +1088,7 @@ msgstr "Manus I"
 #: data/multiplayer/scenarios/8p_Morituri.cfg:51
 #: data/multiplayer/scenarios/8p_Morituri.cfg:95
 msgid "teamname^Team 2"
-msgstr "Manus I"
+msgstr "Manus II"
 
 #. [multiplayer]: id=multiplayer_Castle_Hopping_Isle
 #: data/multiplayer/scenarios/4p_Castle_Hopping_Isle.cfg:5
@@ -1294,7 +1294,7 @@ msgstr ""
 #. [multiplayer]: id=multiplayer_Siege_Castles
 #: data/multiplayer/scenarios/4p_Siege_Castles.cfg:7
 msgid "4p — Siege Castles"
-msgstr "4l — Castella Obsidionis"
+msgstr "4l — Castella Obsidendni"
 
 #. [multiplayer]: id=multiplayer_Siege_Castles
 #: data/multiplayer/scenarios/4p_Siege_Castles.cfg:9
@@ -1368,10 +1368,11 @@ msgstr "Occidentales-Australes"
 msgid "teamname^Center"
 msgstr "Medium"
 
+# it sounds superiorz
 #. [multiplayer]: id=multiplayer_Forest_of_Fear
 #: data/multiplayer/scenarios/5p_Forest_of_Fear.cfg:5
 msgid "5p — Forest of Fear"
-msgstr "5l — Silva Terroris"
+msgstr "5l — Nemus Metus"
 
 #. [multiplayer]: id=multiplayer_Forest_of_Fear
 #: data/multiplayer/scenarios/5p_Forest_of_Fear.cfg:7
