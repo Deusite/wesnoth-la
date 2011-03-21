@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth 1.8\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2011-03-21 00:18+0100\n"
+"PO-Revision-Date: 2011-03-21 00:39+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -3749,7 +3749,7 @@ msgstr ""
 #. [slow]: id=slow
 #: data/core/macros/abilities.cfg:631
 msgid "slows"
-msgstr "tardit"
+msgstr "tardat"
 
 #. [slow]: id=slow
 #: data/core/macros/abilities.cfg:633
