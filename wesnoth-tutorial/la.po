@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.2\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-01-08 13:43+0100\n"
-"PO-Revision-Date: 2011-02-25 07:57+0100\n"
+"PO-Revision-Date: 2011-03-21 19:35+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: none\n"
 "Language: \n"
@@ -72,7 +72,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:155
 msgid "Destroy a fierce enemy"
-msgstr "ferocem hostis delere"
+msgstr "Ferocem hostem delere"
 
 #. [objective]: condition=lose
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:159
@@ -249,7 +249,7 @@ msgstr ""
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:386
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:392
 msgid "Attacking"
-msgstr "Pugnandum"
+msgstr "Pugnare"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:388
@@ -258,7 +258,7 @@ msgid ""
 "(the quintain). You will see an attack description. When you click <b>OK</"
 "b>, Konrad will attack."
 msgstr ""
-"Elige primo pugnatorem (Conradus), tunc destinatum (forma militis) ad "
+"Elige primo pugnatorem (Conradum), tunc destinatum (forma militis) ad "
 "pugnandum. Descriptio impetus videbis. Cum <b>confirmare</b> tetigeris "
 "Conradus pugnabit."
 
@@ -269,7 +269,7 @@ msgid ""
 "(the quintain). You will see an attack description. When you click <b>OK</"
 "b>, Li’sar will attack."
 msgstr ""
-"Elige primo pugnatorem (Lisaris), tunc destinatum (forma militis). "
+"Elige primo pugnatorem (Lisarem), tunc destinatum (forma militis). "
 "Descriptio impetus videbis. Cum <b>confirmare</b> tetigeris Lisaris "
 "pugnabit. "
 
@@ -583,7 +583,7 @@ msgstr ""
 #. [then]
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:791
 msgid "Left click on an Elvish Fighter"
-msgstr "Tange laeve Pugnatorem Dryadalum"
+msgstr "Tange laeve Pugnatorem Dryadalium"
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:792
@@ -639,6 +639,8 @@ msgid ""
 "\n"
 "You should tell the other elf to use the bow."
 msgstr ""
+"\n"
+"Debes dryadalem alium iussere arcum uti."
 
 #. [else]
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:882
@@ -727,10 +729,10 @@ msgid ""
 "to support as first level units."
 msgstr ""
 "Cum actor satis usus adipiscitur (<i>regula usus</i>, si adest, a <i>regula "
-"punctorum salutis</i> dextra est), ordine augebit. Pugnatoribus Dryadalibus "
-"duae optiones producendi sunt et occasionem habebis eligendi quod vis. Tamen "
-"actores ordinis secundorum tibi dimidio pretiosiores quam primorum sustinere "
-"sumptui sunt.  "
+"punctorum salutis</i> <b>dextra</b> est), ordine augebit. Pugnatoribus "
+"Dryadalibus duae optiones producendi sunt et occasionem habebis eligendi "
+"quod vis. Tamen actores ordinis secundorum tibi dimidio pretiosiores quam "
+"primorum sustinere sumptui sunt.  "
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1044
@@ -827,7 +829,7 @@ msgid ""
 "mode</i>. When you’re finished, click the <b>End Scenario</b> button to go "
 "on the next scenario in the campaign."
 msgstr ""
-"Post nuntium victoriae, charta pallescet ut designaet scaenarium finivisse, "
+"Post nuntium victoriae, charta pallescet ut designet scaenarium finivisse, "
 "sed etiam locos ultimos et statum nostri inspicere poteris. Cum paratum "
 "globulum <b>Scaenarium Finire</b> tangis ut ad scaenarium secundum "
 "progrediaris."
@@ -835,7 +837,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/2_Speaking.cfg:30
 msgid "Undo"
-msgstr "Reddendum"
+msgstr "Corrigere"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/2_Speaking.cfg:31
@@ -862,8 +864,8 @@ msgid ""
 "‘Strong’ means a unit does more damage, and ‘intelligent’ means it needs "
 "less experience to advance a level."
 msgstr ""
-", tiro sibi habitus duo est: <i>fortis</i> et <i>callidus</i>. ‘Fortis’ "
-"designat actorem plus damni facere, et ‘callidus’ designat se minores usus "
+", tiro sibi habitus duo est: <i>validus</i> et <i>doctus</i>. ‘Validis’ "
+"designat actorem plus damni facere, et ‘doctus’ designat se minores usus "
 "egere ut uno ordine augeat."
 
 #. [then]
@@ -893,7 +895,7 @@ msgstr ""
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:27
 msgid "Can one unit survive against all those enemies?"
-msgstr "Potestne actorem solum tot milites superesse?"
+msgstr "Potestne actorem solum tot milites ferre?"
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:28
@@ -937,7 +939,7 @@ msgstr "Spero occasinem effugere mihi erit!"
 #. [message]: speaker=second_unit
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:237
 msgid "One lucky attack by an Orcish Grunt, and I’m done for!"
-msgstr "Si impetus felicis ab Armatus Orcum fiet necabor!"
+msgstr "Si impetus felicis ab Orce Gregario fiet necabor!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:248
@@ -986,7 +988,7 @@ msgid ""
 "Ho, Galdrad! Has Delfador conjured something else to beat me with? A flock "
 "of scarecrows, perhaps?"
 msgstr ""
-"Ave Galdradus! Num aliud aliquid, ut me vincant, Delfador creavit? An grecem "
+"Ave Galdrade! Num aliud aliquid, ut me vincant, Delfador creavit? An grecem "
 "terriculorum, fortasse?"
 
 #. [event]
@@ -1022,8 +1024,8 @@ msgid ""
 "First, we will have to deal with the Orcish Grunt stationed in the middle of "
 "the river. He should be little trouble."
 msgstr ""
-"Armatus Orcum positus in medium fluminis primo ocasus erit. Nobis non curae "
-"sit. "
+"Orcem Gregarium positus in medium fluminis primo ocasus erit. Nobis non "
+"curae sit. "
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:429
@@ -1052,16 +1054,15 @@ msgstr "Aqua alta"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:439
-#, fuzzy
 msgid ""
 "See this dark blue water? It’s too deep for either side to cross. The orcs "
 "could slowly wade through that narrow band of shallow lighter-blue water in "
 "the east; but we could stand on the shore and force them to fight us from "
 "the water, where they are exposed and we are protected by the forest."
 msgstr ""
-"aquane caesea vides? Nimis alti ut factiones utras transeant est. Lente per "
-"angustiam brevis caerulei in ortu vadant; in litore autem stemus et ab aqua "
-"nos pugnare se cogamus, quo patent et a silva tegimur. "
+"Aquamne caeseam vides? Nimis alta ut factiones utras transeant est. Orces "
+"lente per angustiam brevis caerulei in ortu vadant; sed in litore stemus et "
+"ab aqua nos ut illos pugnent cogamus, ubi patent et a silva tegimur. "
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:449
@@ -1076,7 +1077,6 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:455
-#, fuzzy
 msgid ""
 "To start, we will need some units:\n"
 "two Elvish Fighters\n"
@@ -1084,33 +1084,31 @@ msgid ""
 "one Elvish Shaman"
 msgstr ""
 "Opus actores nunnullos primo erit:\n"
-"Pugnatores Dryadalum duos\n"
-"Sagittarius Dryadalum duos\n"
-"Flamen Dryadalum unum  "
+"duo Pugnatorum Dryadalium\n"
+"duo Sagittariorum Dryadalium\n"
+"una Haruspicarum Nymphis "
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:530
-#, fuzzy
 msgid ""
 "During your tutorial, both $recall_name1 and $recall_name2 gained "
 "$recall_xp1 experience points. You should <i>recall</i> them now so they can "
 "gain more experience, rather than recruiting new Fighters."
 msgstr ""
-"Dum rudimentum, aut $recall_name1 aut $recall_name2 $recall_xp1 punta usus "
-"adepti sunt. Se revocem ut plus usus adipisci possint, potius quam novos "
-"adlegere."
+"In rudimento, et $recall_name1 et $recall_name2 $recall_xp1 punta usus "
+"adepti sunt. Se <i>revocare</i> debes ut plures usus adipisci possint, "
+"potius quam Pugnatores recentes adlegere."
 
 #. [else]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:533
-#, fuzzy
 msgid ""
 "During your tutorial, $recall_name1 gained $recall_xp1 experience points, "
 "and $recall_name2 gained $recall_xp2. You should <i>recall</i> them now so "
 "they can gain more experience, rather than recruiting new Fighters."
 msgstr ""
-"Dum rudimentum, $recall_name1 $recall_xp1 puncta usus adeptum est, et "
-"$recall_name2 $recall_xp2 adeptum est. Se revocem ut plus usus adipisci "
-"possint, potius quam novos adlegere."
+"In rudimento, $recall_name1 $recall_xp1 puncta usus adeptus est, et "
+"$recall_name2 $recall_xp2 adeptus est. Se <i>revocare</i> debes ut plures "
+"usus adipisci possint, potius quam Pugnatores recentes adlegere."
 
 #. [else]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:539
@@ -1125,46 +1123,43 @@ msgstr ""
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:542
 msgid "RECALL $recall_name1"
-msgstr "REVOCARE $recall_name1"
+msgstr "REVOCA $recall_name1|nem"
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:543
-#, fuzzy
 msgid ""
 "Right click on the tile north-east of you and <i>recall</i> $recall_name1"
 msgstr ""
-"Tange dextra in spatio aquilonis et revoca actorem, quod $recall_name1 "
-"vocatur"
+"Tange dextra in spatio aquilonis et <i>revoca</i> actorem, quod "
+"$recall_name1 vocatur"
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:552
-#, fuzzy
 msgid ""
 "If any Elvish Fighters from your last battle had experience, we would "
 "<i>recall</i> them to the current battlefield. However, your veterans gained "
 "no experience so it’s cheaper to recruit new units instead. Recruit an "
 "Elvish Fighter."
 msgstr ""
-"Si Pugnatores ulli Dryadalum usus a pugna prius sibi essent, se ad campus "
-"proelii recentis revocabant. Utri actores parvus usus sibi est, fructuosior "
-"ita novos adlegere est. Adlege Pugnatorem Dryadalum. "
+"Si Pugnatores ulli Dryadalium usus a pugna priore sibi essent, se ad campum "
+"proelii recentem <i>revocabant</i>. Autem actores nullus usus sibi est, "
+"fructuosior ita novos adlegere est. Adlege Pugnatorem Dryadalium. "
 
 #. [else]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:555
-#, fuzzy
 msgid ""
 "If you had any experienced units alive from your last battle we would "
 "<i>recall</i> them. Instead we must recruit some new Elvish Fighters."
 msgstr ""
-"Si ulli actores docti a pugna prius viverent se revocaremus. Oportet "
-"Pugnatorem loco novum Dryadalum adlegere."
+"Si ulli actores usi a pugna priore viverent se <i>revocaremus</i>. Oportet "
+"nonnullos Pugnatores Dryadalium adlegere."
 
 #. [else]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:558
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:814
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:857
 msgid "Elvish Fighter"
-msgstr "Pugnator Dryadalum"
+msgstr "Pugnator Dryadalium"
 
 #. [else]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:559
@@ -1173,20 +1168,20 @@ msgstr "Tange dextra in spatio aquilonis et adlege Pugnatorem Dryadalum"
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:599
-#, fuzzy
 msgid "No! I said recruit an Elvish <i>Shaman</i>! Now try again..."
-msgstr "Hau! Dixi FLAMINEM Dryadalum adlegere! Conare rursus iam..."
+msgstr ""
+"Hau! Iussi te <i>Haruspicam</i> Dryadalium adlegere! Conare rursus iam..."
 
 #. [else]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:608
-#, fuzzy
 msgid ""
 "The Shaman is a fairly weak unit, but she has the ability to <i>heal</i> "
 "friendly units around her. She also has a special attack which <i>slows</i> "
 "enemies, halving the damage they do."
 msgstr ""
-"Flamen invalidus est, sed facultas sibi actores adfines curare est. impetus "
-"proprium sibi est, quod hostes retardit, dimidio damni fractis!"
+"Haruspica invalidus est, sed facultas curandi sibi actores adfines est. "
+"Impetus quoque proprium sibi est, quod hostes <i>tardat</i>, dimidio damni "
+"fractis!"
 
 #. [else]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:609
@@ -1217,9 +1212,9 @@ msgstr "Move Lisarem viculum captum"
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:631
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:670
-#, fuzzy
 msgid "No! I said recruit an Elvish <i>Archer</i>! Now try again..."
-msgstr "Hau! Dixi FLAMINEM Dryadalum adlegere! Conare rursus iam..."
+msgstr ""
+"Hau! Iussi te <i>Sagittarium</i> Dryadalium adlegere! Conare rursus iam..."
 
 #. [unit]: id=Eowynial, type=Elvish Archer
 #. [else]
@@ -1231,12 +1226,12 @@ msgstr "Eovynial"
 #. [else]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:653
 msgid "Shaman"
-msgstr "Flamen"
+msgstr "Haruspica"
 
 #. [else]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:654
 msgid "Recruit an Elvish Shaman to your north"
-msgstr "Adlege Flaminem Dryadalum in borea"
+msgstr "Adlege Haruspicam Nymphis in borea"
 
 #. [unit]: id=Elriend, type=Elvish Archer
 #. [else]
@@ -1247,9 +1242,8 @@ msgstr "Elriend"
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:710
-#, fuzzy
 msgid "No! I said <i>recall</i> $recall_name2|! Now try again..."
-msgstr "Hau! Dixi $recall_name2|tem ADLEGERE! Conare rursus iam..."
+msgstr "Hau! Iussi te $recall_name2|tem <i>revocare</i>! Conare rursus iam..."
 
 #. [else]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:719
@@ -1266,15 +1260,14 @@ msgstr "Sagittarius II"
 #. [else]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:722
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:759
-#, fuzzy
 msgid "Recruit two Elvish Archers in the tiles to your west"
-msgstr "Adlege Sagittarios duos Dryadalum in spatio occidentis"
+msgstr "Adlege duos Sagittarios Dryadalium in spatio occidentale"
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:735
-#, fuzzy
 msgid "No! I said recruit an Elvish <i>Fighter</i>! Now try again..."
-msgstr "Hau! Dixi PUGNATOREM Dryadalum adlegere! Conare rursus iam..."
+msgstr ""
+"Hau! Iussi te <i>Pugnatorem</i> Dryadalium adlegere! Conare rursus iam..."
 
 #. [unit]: id=Golir, type=Elvish Fighter
 #. [else]
@@ -1292,13 +1285,12 @@ msgstr ""
 
 #. [else]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:794
-#, fuzzy
 msgid ""
 "No! I said <i>recall</i> $recall_name1 from the last battle, not recruit a "
 "new $recruit.language_name|! Now try again..."
 msgstr ""
-"Hau! Dixi $recall_name1|tem a proelium tum ADLEGERE, non adlegi $recruit."
-"language_name|! Conare rursus iam..."
+"Hau! Iussi te $recall_name1|tem a proelium priore <i>revocare</i>, non "
+"$recruit.language_name| adlegere! Conare rursus iam..."
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:810
@@ -1308,23 +1300,22 @@ msgstr "Tange dextra in spatio ortu et adlege, qui $recall_name2 vocatur."
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:811
 msgid "RECALL $recall_name2"
-msgstr "REVOCARE $recall_name2"
+msgstr "REVOCA $recall_name2|nem"
 
 #. [else]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:815
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:858
 msgid "Right click on the tile east of you and recruit an Elvish Fighter"
-msgstr "Tange dextra in spatio ortus et Pugnatorem Dryadalum adlegere"
+msgstr "Tange dextra in spatio ortus et Pugnatorem Dryadalium adlegere"
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:838
-#, fuzzy
 msgid ""
 "$recruit.language_name|? I said <i>recruit</i> a new <i>Elvish Fighter</i>. "
 "Now try again..."
 msgstr ""
-"$recruit.language_name|ne! Dixi PUGNATOREM dryadalum novum ADLEGERE. Conare "
-"rursus iam..."
+"$recruit.language_name|ne? Iussi te <i>Pugnatorem Dryadalium</i> recentem "
+"<i>adlegere</i>. Conare rursus iam..."
 
 #. [unit]: id=Elindel, type=Elvish Fighter
 #. [else]
@@ -1371,29 +1362,27 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:911
-#, fuzzy
 msgid ""
 "You should leave the villages near your keep for Konrad to capture. He needs "
 "to stay nearby to recruit more units anyway."
 msgstr ""
-"Debes viculos prope arcem omittere ut Conradum capere, quoniam sibi opus "
-"remanere est ut plures actores adleget."
+"Debes viculos prope arcem omittere ut Conradus illos capiat, quoniam sibi "
+"opus manere est ut plures actores adleget."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:912
-#, fuzzy
 msgid ""
 "You should leave the villages near your keep for Li’sar to capture. She "
 "needs to stay nearby to recruit more units anyway."
 msgstr ""
-"Debes viculos prope arcem omittere ut Lisarem capere, quoniam sibi opus "
-"remanere est ut plures actores adleget"
+"Debes viculos prope arcem omittere ut Lisaris illos capiat, quoniam sibi "
+"opus manere est ut plures actores adleget."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:918
-#, fuzzy
 msgid "Orcish Grunts have no ranged attacks, so use your archers against them."
-msgstr "Orces non impetus missile sunt, utere ita contra eos sagittarios. "
+msgstr ""
+"Orces Gregarii eminus pugnare non possunt, utere ita contra se sagittarios. "
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:920
@@ -1416,13 +1405,12 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:930
-#, fuzzy
 msgid ""
 "Excellent. Elves are well-protected in the forest. There’s only a 30% chance "
 "of hitting an Elvish Archer in that tile."
 msgstr ""
-"Optime. Dryadales bene in silvis teguntur. modo occasio triginta centesimae "
-"Sagittarium Dryadalum in silvis ferire est."
+"Optime. Dryadales bene in silvis teguntur. Modo occasio triginta centesimae "
+"Sagittarium Dryadalium in silvis ferire est."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:939
@@ -1437,7 +1425,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:945
 msgid "Attack the orc with the other Archer"
-msgstr "Pugna orcem cum Sagittaria alia"
+msgstr "Pugna orcem cum Sagittario alio"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:957
@@ -1446,18 +1434,17 @@ msgstr "Pugnator HUC"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:958
-#, fuzzy
 msgid ""
 "Your other units cannot reach the orc this turn. Send a Fighter to the "
 "village in the far east of the map. It will take two turns to reach it."
 msgstr ""
-"Nostri alii orcem illum advenire in vice hoc non possunt. Mitte Pugnatorem "
+"Nostri alii orcem illum attingere in vice hac non possunt. Mitte Pugnatorem "
 "ad viculum ortum longum. Egebit vices duos ut adveniat."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:959
 msgid "<big>Long-distance Movement</big>"
-msgstr ""
+msgstr "<big>Motus Longe</big>"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:960
@@ -1468,6 +1455,7 @@ msgid ""
 "clicking on the destination. A number will indicate how many turns it will "
 "take to get there."
 msgstr ""
+"\n"
 "Potes actorem vices nunnullas movere iubere per actor eligitur et destinatum "
 "tangitur. Numerus multum vicium fore designabit ante actorem spatium "
 "advenit. "
@@ -1483,25 +1471,23 @@ msgid ""
 "Send the other Fighter and the Shaman south so they can attack next turn, "
 "then return to the keep to recruit more units!"
 msgstr ""
-"Mitte Pugnatorem alium Flaminemque ad austro ut vicem proximam pugnent, redi "
-"tum ad arcem ut plures actores adlegas! "
+"Mitte Pugnatorem alium et Haruspicam ad austro ut vicem proximam pugnent, "
+"redi tum ad arcem ut plures actores adlegas! "
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:980
-#, fuzzy
 msgid "Move your Fighter and Shaman south, then return Konrad to the keep"
-msgstr "Move Pugnatorem Flaminemque ad austrum, redi tunc Conradum ad arcem"
+msgstr "Move Pugnatorem et Haruspicam ad austrum, redi tunc Conradum ad arcem"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:981
-#, fuzzy
 msgid "Move your Fighter and Shaman south, then return Li’sar to the keep"
-msgstr "Move Pugnatorem Flaminemque ad austrum, redi tunc Contadum ad arcem"
+msgstr "Move Pugnatorem et Haruspicam ad austrum, redi tunc Lisarem ad arcem"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:991
 msgid "Recruit another Archer and a Fighter"
-msgstr "Adlege Sagittarium Pugnatoremque alium"
+msgstr "Adlege Sagittarium et Pugnatorem alium"
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1006
@@ -1510,19 +1496,18 @@ msgstr "Aurorum nulla mihi ad legendum est!"
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1007
-#, fuzzy
 msgid "That is often a problem, which is why owning villages is important."
-msgstr "Ille saepe mora est, qui viculi tenti necesse est."
+msgstr "Ille saepe mora est, qua re viculi tenti necesse sunt."
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1008
 msgid "Move Konrad to another (unowned) village"
-msgstr "Move Conradum ad pagum aliud (non proprium)"
+msgstr "Move Conradum ad viculum alium (non proprium)"
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1009
 msgid "Move Li’sar to another (unowned) village"
-msgstr "Move Lisaris ad pagum aliud (non proprium)"
+msgstr "Move Lisaris ad viculum alium (non proprium)"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1034
@@ -1564,35 +1549,32 @@ msgstr ""
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1073
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1084
-#, fuzzy
 msgid "Advance other units and capture villages, then <b>End Turn</b>"
-msgstr "Progredere actores alios viculos captum, fini tunc vicem"
+msgstr "Progredere actores alios viculos captum, tum <b>Fini Vicem</b>"
 
 #. [else]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1076
-#, fuzzy
 msgid ""
 "No other units can reach that orc. I hope my $unit.type survives its counter-"
 "attack! I’d better grab more villages and move everyone closer for next turn."
 msgstr ""
-"Actores alii orcem illum advenire possunt. Spero sagittarium meum certamem "
-"superesse posse! Debeo plures viculos capere et omnes pro vice secunda "
-"movere."
+"Nulli actores orcem illum attingere possunt. Certamem eius $unit.type "
+"supersit! Debeo plures viculorum capere et omnes propius causa vicis "
+"secundae movere."
 
 #. [else]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1077
-#, fuzzy
 msgid ""
 "Yes. If your Shaman stands just behind that unit on the bridge, she will "
 "heal it at the beginning of the next turn."
 msgstr ""
-"Vere, si Flamen tua post actorem illum in ponte stabit coeptu vicis secundae "
+"Vere, si Haruspica tua post actorem in ponte steterit, coeptu vice secunda "
 "curabit."
 
 #. [else]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1078
 msgid "Move your Shaman onto the bridge to stand behind your other unit"
-msgstr "Move Flaminem tuam in pontem ut post actorem alium stet"
+msgstr "Move Haruspicam tuam in pontem ut post actorem alium stet"
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1124
@@ -1614,28 +1596,26 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1147
-#, fuzzy
 msgid ""
 "Don’t forget about your Fighter in the east; you can move him south to that "
 "last village near the channel."
 msgstr ""
-"Noli oblivisci pugnatoris tui orti; potes per austrum ad viculum prope "
+"Noli oblivisci Pugnatoris tui in ortu; potes per austrum ad viculum prope "
 "canalem movere."
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1152
-#, fuzzy
 msgid ""
 "We need to occupy that village, otherwise they will take it next turn! Move "
 "a unit into the village to stop the orcs capturing it. Whichever unit you "
 "choose will benefit from the village’s healing, too."
 msgstr ""
-"Nobis viculus capiendus est, vicem aliter proximam ceperint! Move actor "
-"vulneratus ad viculos ut curetur, neca tum orcem illum!"
+"Nobis viculus capiendus est, vicem aliter proximam ceperint! Move actor ad "
+"viculos ut orces impediat quominus locum capiant. Qualiscumque actor legerit "
+"quoque beneficium e curando viculi inveniet."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1164
-#, fuzzy
 msgid ""
 "Careful! It is now nighttime. Orcs are <i>chaotic</i>, which means their "
 "attacks are now 25% stronger. By day, their attacks are 25% weaker, which is "
@@ -1643,14 +1623,15 @@ msgid ""
 "at night. Your elvish warriors are <i>neutral</i>: unaffected by the time of "
 "day."
 msgstr ""
-"Cave! Nunc nox est. Orces nocturni sunt, qui designat impetus sui fortiores "
-"XXV centesimae noctu et idem inbecilliores die esse. Te diei est: fortior "
-"die. Dryadales medii sunt: a noctu dieque inmoti."
+"Cave! Nunc nox est. Orces <i>nocturni</i> sunt, qui designat impetus iam sui "
+"fortiores XXV centesimae et idem infirmiores die esse, quod refert. "
+"<i>Diurnus</i> es: fortior die. Dryadales <i>medii</i> sunt: a noctu dieque "
+"inmoti."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1165
 msgid "<big>Time of Day</big>"
-msgstr "<big>Hora</big>"
+msgstr "<big>Tempus Diei</big>"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1166
@@ -1661,20 +1642,18 @@ msgid ""
 "on the right. This brings up a description of the time of day, showing who "
 "has the advantage."
 msgstr ""
-"Post colloquium hoc, tene murem super rure infra chartam dextra ut "
-"descriptio horae videas."
+"Post colloquium, tene murem super rure infra chartam dextra ut descriptio "
+"horae videas."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1173
-#, fuzzy
 msgid ""
 "Remember to retreat your wounded units to villages. Healers can only heal 4 "
 "hitpoints at a time, while villages can heal 8 (the maximum healing for any "
 "unit)."
 msgstr ""
-"Memora actores vulneratos tui ad viculos retrahere. Medentes modo quattor "
-"puncta salutis curare possunt, at viculos octo dum vicis, qui maximus pro "
-"actore ulla est. "
+"Memora actores vulneratos ad viculos retrahere. Medici modo in vicis quattor "
+"puncta salutis curare possunt, at viculi octo (maximus pro actore ulla)."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1180
@@ -1683,18 +1662,17 @@ msgstr "Defende hic"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1181
-#, fuzzy
 msgid ""
 "Beware of those orcs crossing the river! If they get into the forest they’ll "
 "be hard to dislodge!"
 msgstr ""
-"Praecave orces transientes flumen! Si in silva ibunt difficiles depellere "
-"erint!"
+"Praecave orces transientes flumen! Si in silva iverint difficiles pulsu "
+"erunt!"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1187
 msgid "<big>Tracking Unused Units</big>"
-msgstr ""
+msgstr "<big>Sequi Actores Otiosos</big>"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1188
@@ -1714,7 +1692,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1193
 msgid "<big>Victory Conditions</big>"
-msgstr ""
+msgstr "<big>Leges Victoriae</big>"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1194
@@ -1728,22 +1706,21 @@ msgstr ""
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1199
 msgid "<big>Recruit the Right Unit Types</big>"
-msgstr ""
+msgstr "<big>Adlegere Modum Rectum Actorum</big> "
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1200
-#, fuzzy
 msgid ""
 "\n"
 "Remember to recruit troops useful for the situation. Archers are "
 "particularly effective against Grunts, Wolf Riders and the orcish leader."
 msgstr ""
+"\n"
 "Memora actores adlegere qui usui tempori sunt. Sagittarii multum contra "
-"Armatos Equitesque et ducem possunt."
+"Gregarios Lupitesque et ducem orcum possunt."
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1218
-#, fuzzy
 msgid ""
 "Stay near the keep! You need to be on a keep to recruit more units, and I "
 "doubt the orc leader will let you use his!"
@@ -1781,52 +1758,47 @@ msgstr ""
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1291
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1307
-#, fuzzy
 msgid ""
 "You are close to killing their leader! The unit who finishes him will gain "
 "16 experience points because he is second level. Choose your attacking unit "
 "carefully!"
 msgstr ""
 "Dux interficiendus est! Actor qui se ruit XVI puncta usus adipisceris quod "
-"ordo secundum est. Lege diligenter actorem!"
+"ordo secundus est. Lege diligenter actorem!"
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1356
-#, fuzzy
 msgid ""
 "We will miss $deadguy.name| because he had $deadguy.experience experience "
 "points. He would have advanced to second level soon."
 msgstr ""
-"$deadguy,name fletur, quod $deadguy.experience puncta usus sibi erat, mox "
-"sic ad ordinem secundum augeretur."
+"$deadguy.name|nem fletur, quod $deadguy.experience puncta usus sibi fuit, "
+"mox sic ad ordinem secundum augeretur."
 
 #. [else]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1359
-#, fuzzy
 msgid ""
 "We will miss $deadguy.name| because she had $deadguy.experience experience "
 "points. She would have advanced to second level soon."
 msgstr ""
-"$deadguy.name fletur, quod $deadguy.experience puncta usus sibi erat, mox "
-"sic ad ordinem secundum augeretur."
+"$deadguy.name|nem fletur, quod $deadguy.experience puncta usus sibi fuit, "
+"mox sic ad ordinem secundum augeretur."
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1376
-#, fuzzy
 msgid ""
 "We will miss $deadguy.name|, but at least he was not one of our experienced "
 "troops!"
 msgstr ""
-"$deadguy.name fletur, sed melius est quam actorem peritum mortuum esse!"
+"$deadguy.name|nem fletur, sed melius est quam actorem peritum mortuum esse!"
 
 #. [else]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1379
-#, fuzzy
 msgid ""
 "We will miss $deadguy.name|, but at least she was not one of our experienced "
 "troops!"
 msgstr ""
-"$deadguy.name fletur, sed melius est quam actorem peritum mortuum esse!"
+"$deadguy.name|nem fletur, sed melius est quam actorem peritum mortuum esse!"
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1394
@@ -1837,7 +1809,7 @@ msgstr "Medica amittens omnes copias laedit! Dista se tactum hostus!"
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1395
 msgid "<big>Tracking Enemy Movement</big>"
-msgstr ""
+msgstr "<big>Sequi Motus Hostis</big>"
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1396
@@ -1848,13 +1820,13 @@ msgid ""
 "see all possible enemy moves at once with the <b>Show Enemy Moves</b> "
 "command from the <b>Actions</b> menu."
 msgstr ""
-"Potes quo hostem adtingere potest videre per murem super se movetur. Potes "
+"\n"
+"Potes quo hostem attingere potest videre per murem super se movetur. Potes "
 "vias possibiles alias aliter cum imperio 'Tactus Hostis Signare' a tabula "
 "'Actiones' videre."
 
 #. [else]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1400
-#, fuzzy
 msgid ""
 "Second level units are powerful, but not invulnerable! Goodbye, $deadguy."
 "name|."
@@ -1864,43 +1836,39 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1415
-#, fuzzy
 msgid ""
 "Beware of the orc leader: he can do 36 hitpoints of damage at night! Attack "
 "with many units at once during the day."
 msgstr ""
-"Praecave ducem orcum: potest XXXVI puncta damnorum noctu facere! Pugna die "
-"cum actoribus multis alias aliter."
+"Praecave ducem orcum: potest XXXVI puncta damnorum noctu ferire! Pugna die "
+"una cum actoribus multis."
 
 #. [message]: speaker=unit
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1436
-#, fuzzy
 msgid ""
 "Advancing a level has fully healed me!\n"
 "I always have a 60% chance of hitting with my <i>Marksman</i> ability, and I "
 "deal 9 damage each for 4 attacks. Use me to dislodge hard-to-hit units."
 msgstr ""
 "Ordine uno auctus me perfecte curavit!\n"
-"Semper occasio sexaginta centesimae per facultatis mihi Accurationis est et "
+"Semper occasio sexaginta centesimae per facultatem <i>Perspicacem</i> mei et "
 "novem quidque damna cum impetibus quattor metior. Utere me ut actores tectos "
-"depellere."
+"depellam."
 
 #. [message]: speaker=unit
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1445
-#, fuzzy
 msgid ""
 "female^Advancing a level has fully healed me!\n"
 "I always have a 60% chance of hitting with my <i>Marksman</i> ability, and I "
 "deal 9 damage each for 4 attacks. Use me to dislodge hard-to-hit units."
 msgstr ""
-"Ordine uno auctus, me perfecte curavit!\n"
-"Semper occasio sexaginta centesimae per facultatis mihi Accurationis est et "
+"Ordine uno aucta, me perfecte curavit!\n"
+"Semper occasio sexaginta centesimae per facultatem <i>Perspicacem</i> mei et "
 "novem quidque damna cum impetibus quattor metior. Utere me ut actores tectos "
-"depellere."
+"depellam."
 
 #. [message]: speaker=unit
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1461
-#, fuzzy
 msgid ""
 "Advancing a level has fully healed me!\n"
 "I am good with both bow and sword, and I have a special ability: <i>Ambush</"
@@ -1908,12 +1876,12 @@ msgid ""
 "next to me."
 msgstr ""
 "Ordine uno auctus, me perfecte curavit!\n"
-"Multum cum gladioque arcoque possum et mihi facultas specialis est: insidia. "
-"Possum in silva celare quo hostes me modo videre possunt si prope me sunt."
+"Multum cum gladioque arcoque possum et mihi facultas specialis est: "
+"<i>Insidiae</i>. In silva celare possum quo hostes me modo videre possunt si "
+"prope me sunt."
 
 #. [message]: speaker=unit
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1475
-#, fuzzy
 msgid ""
 "Advancing a level has fully healed me!\n"
 "I am good with both bow and sword, and I have a special ability: "
@@ -1921,9 +1889,9 @@ msgid ""
 "position me carefully."
 msgstr ""
 "Ordine uno auctus, me perfecte curavit!\n"
-"Multum cum gladioque arcoque possum et mihi facultas specialis est: ducatus. "
-"Actores ordinis primae circa me XXV centesimae plures damna metiri, pone me "
-"igitur diligenter."
+"Multum cum gladioque arcoque possum et mihi facultas specialis est: "
+"<i>ducatus</i>. Actores ordinis primae circa me XXV centesimae plures damna "
+"metiri, pone igitur me diligenter."
 
 #. [message]: speaker=unit
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1490
@@ -1936,13 +1904,11 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1658
-#, fuzzy
 msgid "You took too long! We’ll never be rid of these orcs!"
 msgstr "Nimis horae consumpsisti! Numquam orcibus illis defungentur!"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1676
-#, fuzzy
 msgid ""
 "You have beaten the orcs! You may want to try some novice-level campaigns "
 "next, such as: <i>The South Guard</i>, <i>An Orcish Incursion</i>, <i>A Tale "
@@ -1950,10 +1916,11 @@ msgid ""
 "was specifically designed as a beginner’s campaign. Konrad, Li’sar and "
 "Delfador are characters from <i>Heir to the Throne</i>."
 msgstr ""
-"Victoria tibi est! Velis militias ordinis tironis: Legio Austri, Adventus "
-"Orcum, Fabula Duorum Fraturum et Heres Solii nomine conari. Legio Austri "
-"specialiter velut militia tironi designavit. Conradus, Lisaris et Delfadoris "
-"personae a Herede Solio sunt. "
+"Orces vicisti! Velis militias ordinis tironis: exempli gratia <i>Legio "
+"Austri</i>, <i>Adventus Orcum</i>, <i>Fabula Duorum Fraturum</i> aut "
+"<i>Heres Solii</i> nomine conari. <i>Legio Austri</i> praecipue ut militia "
+"tironi designatus est. Conradus, Lisaris et Delfadoris personae ab <i>Herede "
+"Solii</i> sunt. "
 
 #. [unit_type]: id=Fighter, race=human
 #: data/campaigns/tutorial/units/Fighter.cfg:4
