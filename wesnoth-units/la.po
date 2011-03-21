@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth Latin 1.2\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-12-26 10:10+0100\n"
-"PO-Revision-Date: 2011-03-12 14:55+0100\n"
+"PO-Revision-Date: 2011-03-20 23:37+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -749,7 +749,7 @@ msgstr ""
 #. [unit_type]: id=Dwarvish Runemaster, race=dwarf
 #: data/core/units/dwarves/Runemaster.cfg:5
 msgid "Dwarvish Runemaster"
-msgstr "Dominus Typorum Nanorum"
+msgstr "Nanus Dominus Typorum"
 
 #. [unit_type]: id=Dwarvish Runemaster, race=dwarf
 #: data/core/units/dwarves/Runemaster.cfg:26
@@ -4408,7 +4408,7 @@ msgstr ""
 #. [unit_type]: id=Ghast, race=undead
 #: data/core/units/undead/Corpse_Ghast.cfg:4
 msgid "Ghast"
-msgstr "Helluo Edax"
+msgstr "Abominamentum"
 
 #. [unit_type]: id=Ghast, race=undead
 #: data/core/units/undead/Corpse_Ghast.cfg:20
@@ -4452,7 +4452,7 @@ msgstr ""
 #. [unit_type]: id=Necrophage, race=undead
 #: data/core/units/undead/Corpse_Necrophage.cfg:4
 msgid "Necrophage"
-msgstr "Lurco Mortum"
+msgstr "Necrophagus"
 
 #. [unit_type]: id=Necrophage, race=undead
 #: data/core/units/undead/Corpse_Necrophage.cfg:19
@@ -4733,7 +4733,7 @@ msgstr ""
 #. [unit_type]: id=Bone Shooter, race=undead
 #: data/core/units/undead/Skele_Bone_Shooter.cfg:4
 msgid "Bone Shooter"
-msgstr "Coniciens Ossium"
+msgstr "Coniciens Ossa"
 
 #. [unit_type]: id=Bone Shooter, race=undead
 #: data/core/units/undead/Skele_Bone_Shooter.cfg:17
