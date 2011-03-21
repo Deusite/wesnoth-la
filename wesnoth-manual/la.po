@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.3.7+svn\n"
 "POT-Creation-Date: 2011-02-12 13:09+0100\n"
-"PO-Revision-Date: 2011-03-21 00:38+0100\n"
+"PO-Revision-Date: 2011-03-21 18:58+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: none\n"
 "Language: \n"
@@ -201,6 +201,8 @@ msgid ""
 "<imageobject> <imagedata fileref=\"images/main-menu-1.9.4.jpg\"/> </"
 "imageobject>"
 msgstr ""
+"<imageobject> <imagedata fileref=\"images/main-menu-1.9.4.jpg\"/> </"
+"imageobject>"
 
 #. type: Content of: <book><chapter><section><simpara><inlinemediaobject><textobject><phrase>
 #: /src/wesnoth/doc/manual/manual.en.xml:93
@@ -227,7 +229,7 @@ msgstr ""
 #: /src/wesnoth/doc/manual/manual.en.xml:2300
 #: /src/wesnoth/doc/manual/manual.en.xml:2316
 msgid "<placeholder type=\"inlinemediaobject\" id=\"0\"/>"
-msgstr ""
+msgstr "<placeholder type=\"inlinemediaobject\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><section><variablelist><varlistentry><term>
 #: /src/wesnoth/doc/manual/manual.en.xml:98
@@ -539,6 +541,8 @@ msgid ""
 "<imageobject> <imagedata fileref=\"images/multiplayer-1.9.4.jpg\"/> </"
 "imageobject>"
 msgstr ""
+"<imageobject> <imagedata fileref=\"images/multiplayer-1.9.4.jpg\"/> </"
+"imageobject>"
 
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject><textobject><phrase>
 #: /src/wesnoth/doc/manual/manual.en.xml:329
@@ -673,6 +677,8 @@ msgid ""
 "<imageobject> <imagedata fileref=\"images/game-screen-1.9.4.jpg\"/> </"
 "imageobject>"
 msgstr ""
+"<imageobject> <imagedata fileref=\"images/game-screen-1.9.4.jpg\"/> </"
+"imageobject>"
 
 # type: Content of: <book><chapter><section><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject><textobject><phrase>
@@ -698,6 +704,8 @@ msgid ""
 "<imageobject> <imagedata fileref=\"images/top_pane-1.9.4.jpg\"/> </"
 "imageobject>"
 msgstr ""
+"<imageobject> <imagedata fileref=\"images/top_pane-1.9.4.jpg\"/> </"
+"imageobject>"
 
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject><textobject><phrase>
 #: /src/wesnoth/doc/manual/manual.en.xml:405
@@ -789,6 +797,8 @@ msgid ""
 "<imageobject> <imagedata fileref=\"images/right_pane-1.9.4.jpg\"/> </"
 "imageobject>"
 msgstr ""
+"<imageobject> <imagedata fileref=\"images/right_pane-1.9.4.jpg\"/> </"
+"imageobject>"
 
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject><textobject><phrase>
 #: /src/wesnoth/doc/manual/manual.en.xml:474
@@ -823,7 +833,7 @@ msgstr ""
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><simpara>
 #: /src/wesnoth/doc/manual/manual.en.xml:495
 msgid "End Turn button"
-msgstr ""
+msgstr "Globulus Vicem Finiendi "
 
 # type: Content of: <book><chapter><section><section><title>
 #. type: Content of: <book><chapter><section><section><title>
@@ -1061,7 +1071,7 @@ msgstr ""
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:636
 msgid "Escape"
-msgstr ""
+msgstr "Fugere"
 
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
@@ -1237,7 +1247,7 @@ msgstr "Ctrl-j"
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:775
 msgid "Show scenario objectives"
-msgstr ""
+msgstr "Proposita scaenarii ostendere"
 
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
@@ -1285,7 +1295,7 @@ msgstr "l"
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:813
 msgid "Move to leader unit"
-msgstr ""
+msgstr "Ad actorem ducentem movere"
 
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
@@ -1315,7 +1325,7 @@ msgstr "Ctrl+r"
 #: /src/wesnoth/doc/manual/manual.en.xml:847
 #: /src/wesnoth/doc/manual/manual.en.xml:1254
 msgid "Recruit unit"
-msgstr ""
+msgstr "Actorem adlegere "
 
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
@@ -1340,7 +1350,7 @@ msgstr "Alt-r"
 #: /src/wesnoth/doc/manual/manual.en.xml:863
 #: /src/wesnoth/doc/manual/manual.en.xml:1278
 msgid "Recall unit"
-msgstr ""
+msgstr "Actorem revocare"
 
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
@@ -1352,7 +1362,7 @@ msgstr "Ctrl-n"
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:877
 msgid "Rename unit"
-msgstr ""
+msgstr "Nomen actoris mutare"
 
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
@@ -1498,7 +1508,7 @@ msgstr "Ctrl-Spacium"
 #: /src/wesnoth/doc/manual/manual.en.xml:991
 #: /src/wesnoth/doc/manual/manual.en.xml:1223
 msgid "End this player&#8217;s turn"
-msgstr ""
+msgstr "Vicem lusoris finire"
 
 #. type: Content of: <book><chapter><section><table><title>
 #: /src/wesnoth/doc/manual/manual.en.xml:1001
@@ -1608,7 +1618,7 @@ msgstr "Alt-c"
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:1087
 msgid "View chat log"
-msgstr ""
+msgstr "Colloquium videre"
 
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
@@ -1619,7 +1629,7 @@ msgstr "Ctrl+x"
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:1095
 msgid "Clear messages"
-msgstr ""
+msgstr "Nuntios delere"
 
 #. type: Content of: <book><chapter><section><table><title>
 #: /src/wesnoth/doc/manual/manual.en.xml:1105
@@ -1673,7 +1683,7 @@ msgstr "Ctrl-l"
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:1139
 msgid "Set team label"
-msgstr ""
+msgstr "Titulum manui ponere"
 
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
@@ -1820,9 +1830,8 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><title>
 #: /src/wesnoth/doc/manual/manual.en.xml:1309
-#, fuzzy
 msgid "Recruiting and Recalling"
-msgstr "Conscriptio et Reevocatio"
+msgstr "Adlegere et Revocare"
 
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject>
 #: /src/wesnoth/doc/manual/manual.en.xml:1311
@@ -1830,6 +1839,8 @@ msgid ""
 "<imageobject> <imagedata fileref=\"images/recruit-1.9.4.jpg\"/> </"
 "imageobject>"
 msgstr ""
+"<imageobject> <imagedata fileref=\"images/recruit-1.9.4.jpg\"/> </"
+"imageobject>"
 
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject><textobject><phrase>
 #: /src/wesnoth/doc/manual/manual.en.xml:1314
@@ -2319,7 +2330,7 @@ msgstr ""
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 #: /src/wesnoth/doc/manual/manual.en.xml:1619
 msgid "Resilient"
-msgstr "Robustis"
+msgstr "Robustus"
 
 # type: Content of: <book><chapter><section><section><variablelist><varlistentry><listitem><simpara>
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><listitem><simpara>
@@ -2494,7 +2505,7 @@ msgstr ""
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 #: /src/wesnoth/doc/manual/manual.en.xml:1758
 msgid "Berserk"
-msgstr ""
+msgstr "Saevitia"
 
 # type: Content of: <book><chapter><section><section><variablelist><varlistentry><listitem><simpara>
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><listitem><simpara>
@@ -2947,7 +2958,7 @@ msgstr "IIL"
 #. type: Content of: <book><chapter><section><section><title>
 #: /src/wesnoth/doc/manual/manual.en.xml:2172
 msgid "Recalling units"
-msgstr ""
+msgstr "Actores revocare"
 
 # type: Content of: <book><chapter><section><section><simpara>
 #. type: Content of: <book><chapter><section><section><simpara>
@@ -3022,7 +3033,7 @@ msgstr ""
 #. type: Content of: <book><chapter><section><section><title>
 #: /src/wesnoth/doc/manual/manual.en.xml:2211
 msgid "Zone of Control"
-msgstr ""
+msgstr "Zona Imperii"
 
 # type: Content of: <book><chapter><section><section><simpara>
 #. type: Content of: <book><chapter><section><section><simpara>
@@ -3282,7 +3293,7 @@ msgstr ""
 #. type: Content of: <book><chapter><section><section><title>
 #: /src/wesnoth/doc/manual/manual.en.xml:2378
 msgid "Attack types"
-msgstr ""
+msgstr "Modi pugnandi"
 
 # type: Content of: <book><chapter><section><section><itemizedlist><listitem><simpara>
 #. type: Content of: <book><chapter><section><section><itemizedlist><listitem><simpara>
@@ -3690,7 +3701,7 @@ msgstr ""
 #. type: Content of: <book><chapter><section><section><title>
 #: /src/wesnoth/doc/manual/manual.en.xml:2609
 msgid "Use the terrain"
-msgstr ""
+msgstr "Utere terram"
 
 # type: Content of: <book><chapter><section><section><simpara>
 #. type: Content of: <book><chapter><section><section><simpara>
@@ -3913,7 +3924,7 @@ msgstr ""
 #. type: Content of: <book><chapter><section><section><title>
 #: /src/wesnoth/doc/manual/manual.en.xml:2727
 msgid "At the start of a scenario"
-msgstr ""
+msgstr "In initio scaenarii"
 
 #. type: Content of: <book><chapter><section><section><itemizedlist><listitem><simpara>
 #: /src/wesnoth/doc/manual/manual.en.xml:2731
@@ -3945,7 +3956,7 @@ msgstr ""
 #. type: Content of: <book><chapter><section><section><title>
 #: /src/wesnoth/doc/manual/manual.en.xml:2753
 msgid "During the scenario"
-msgstr ""
+msgstr "In scaenario"
 
 # type: Content of: <book><chapter><section><section><itemizedlist><listitem><simpara>
 #. type: Content of: <book><chapter><section><section><itemizedlist><listitem><simpara>
