@@ -13,8 +13,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2009-11-13 21:53-0500\n"
-"Last-Translator: Michael Babich (Aethaeryn) <michaelbabich7@gmail.com>\n"
+"PO-Revision-Date: 2011-03-22 20:57+0100\n"
+"Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: none\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -33,9 +33,8 @@ msgstr "Heroica Fabella Vesmerei"
 
 #. [campaign]: id=LOW
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:90
-#, fuzzy
 msgid "(Intermediate level, 18 scenarios.)"
-msgstr "(Ordo intermedius, 17 scaenarii.)"
+msgstr "(Ordo mediocris, XVIII scaenarii.)"
 
 #. [campaign]: id=LOW
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:90
@@ -45,6 +44,9 @@ msgid ""
 "the recorded history of the Elves.\n"
 "\n"
 msgstr ""
+"Fabella Calentis, Optimatis qui populum post secundam incursionem "
+"Continentis Magni excitavit et notissimum heroa omnium saeclorum Dryadalium "
+"factus est.\n"
 
 #. [campaign]: id=LOW
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:91
@@ -54,12 +56,12 @@ msgstr "(Facilis)"
 #. [campaign]: id=LOW
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:91
 msgid "Soldier"
-msgstr "Pugnator"
+msgstr "Militis"
 
 #. [campaign]: id=LOW
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:92
 msgid "(Normal)"
-msgstr "(Normativus)"
+msgstr "(Mediocris)"
 
 #. [campaign]: id=LOW
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:92
@@ -79,18 +81,18 @@ msgstr "Optimas"
 #. [about]
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:96
 msgid "Creator and Lead Designer"
-msgstr ""
+msgstr "Conditor et Princeps Architectus "
 
 #. [entry]
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:98
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:111
 msgid "Spiros, George and Alexander Alexiou (Santi/fnaek)"
-msgstr ""
+msgstr "Spiros, George et Alexander Alexiou (Santi/fnaek)"
 
 #. [about]
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:105
 msgid "Campaign Maintenance"
-msgstr ""
+msgstr "Conservatio Militiae"
 
 #. [about]
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:115
@@ -100,87 +102,86 @@ msgstr ""
 #. [about]
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:125
 msgid "WML Assistance"
-msgstr ""
+msgstr "VML Auxilium"
 
 #. [about]
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:140
 msgid "Artificial Intelligence"
-msgstr ""
+msgstr "Intellegentia Artificiosa"
 
 #. [about]
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:147
 msgid "Graphics"
-msgstr ""
+msgstr "Imagines"
 
 #. [about]
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:163
 msgid "Additional thanks to"
-msgstr ""
+msgstr "Gratias quoque agitur"
 
 #. [entry]
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:222
+#, fuzzy
 msgid ""
 "And the rest of the Wesnoth community for feedback,\n"
 "criticism, help with WML code and graphics."
-msgstr ""
+msgstr "Et ceteris populi Vesnotei subsidio,\n"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:21
 msgid "River Telfar"
-msgstr "Flumen Telfar"
+msgstr "Flumen Telfaris"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:26
 msgid "Northern Shallows"
-msgstr ""
+msgstr "Vada Borea"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:27
 msgid "Ford of Alyas"
-msgstr ""
+msgstr "Vadum Alyae"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:28
 msgid "Ford of Tifranur"
-msgstr ""
+msgstr "Vadum Tifranri"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:29
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:31
 msgid "North Tower"
-msgstr "Turris Septentrionalis"
+msgstr "Turris Borea"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:32
-#, fuzzy
 msgid "West Tower"
-msgstr "Turris Septentrionalis"
+msgstr "Turris Occidentalis"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:33
-#, fuzzy
 msgid "East Tower"
-msgstr "Turris Septentrionalis"
+msgstr "Turris Orientalis"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:35
 msgid "South Bastion"
-msgstr ""
+msgstr "Arx Australis"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:36
 msgid "Telfar Green"
-msgstr ""
+msgstr "Campus Telfarius"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:37
 msgid "Dancer’s Green"
-msgstr ""
+msgstr "Campus Saltatoris"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:38
 msgid "Karmarth Hills"
-msgstr ""
+msgstr "Colles Karfinis"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:39
@@ -190,77 +191,77 @@ msgstr "Pons Septentrionalis"
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:42
 msgid "Brightleaf Wood"
-msgstr ""
+msgstr "Nemus Folicandidus"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:43
 msgid "Westwind Wood"
-msgstr ""
+msgstr "Nemus Zephyri"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:44
 msgid "Southwind Wood"
-msgstr ""
+msgstr "Nemus Austri"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:45
 msgid "Telionath"
-msgstr ""
+msgstr "Telionathus"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:46
 msgid "Arthen"
-msgstr ""
+msgstr "Arthenus"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:47
 msgid "Arryn"
-msgstr ""
+msgstr "Arryna"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:48
 msgid "Illissa"
-msgstr ""
+msgstr "Illissa"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:49
 msgid "Viricon"
-msgstr ""
+msgstr "Viricon"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:50
 msgid "Tireas"
-msgstr ""
+msgstr "Tireas"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:51
 msgid "Essarn"
-msgstr ""
+msgstr "Essarna"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:52
 msgid "Valcathra"
-msgstr ""
+msgstr "Valcathra"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:53
 msgid "Aelion"
-msgstr ""
+msgstr "Aelionis"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:54
 msgid "Elendor"
-msgstr ""
+msgstr "Elender"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:55
 msgid "Erethean"
-msgstr ""
+msgstr "Eretheanis"
 
 #. [multiplayer]: id=01_The_Uprooting_EASY, id=01_The_Uprooting_NORMAL, id=01_The_Uprooting_HARD
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:5
 msgid "2p MC — LoW, Easy Mode, Chapter one"
-msgstr ""
+msgstr "IIl MPL — HFV, Modus Facilis, Liber I "
 
 #. [multiplayer]: id=01_The_Uprooting_EASY, id=01_The_Uprooting_NORMAL, id=01_The_Uprooting_HARD
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:6
@@ -270,11 +271,15 @@ msgid ""
 "Chapter one\n"
 " Easy difficulty"
 msgstr ""
+"<i>Heroica Fabella Vesmerei</i>\n"
+"Militia Pluribus Lusoribus\n"
+"Liber I\n"
+" Difficultas levis"
 
 #. [multiplayer]: id=01_The_Uprooting_EASY, id=01_The_Uprooting_NORMAL, id=01_The_Uprooting_HARD
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:11
 msgid "2p MC — LoW, Normal Mode, Chapter one"
-msgstr ""
+msgstr "IIl MPL — HFV, Modus Mediocris, Liber I"
 
 #. [multiplayer]: id=01_The_Uprooting_EASY, id=01_The_Uprooting_NORMAL, id=01_The_Uprooting_HARD
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:12
@@ -284,11 +289,15 @@ msgid ""
 "Chapter one\n"
 " Normal difficulty"
 msgstr ""
+"<i>Heroica Fabella Vesmerei</i>\n"
+"Militia Pluribus Lusoribus\n"
+"Liber I\n"
+" Difficultas mediocris"
 
 #. [multiplayer]: id=01_The_Uprooting_EASY, id=01_The_Uprooting_NORMAL, id=01_The_Uprooting_HARD
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:17
 msgid "2p MC — LoW, Hard Mode, Chapter one"
-msgstr ""
+msgstr "IIl MPL — HFV, Modus Difficilis, Liver I"
 
 #. [multiplayer]: id=01_The_Uprooting_EASY, id=01_The_Uprooting_NORMAL, id=01_The_Uprooting_HARD
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:18
@@ -298,22 +307,28 @@ msgid ""
 "Chapter one\n"
 " Hard difficulty"
 msgstr ""
+"<i>Heroica Fabella Vesmerei</i>\n"
+"Militia Pluribus Lusoribus\n"
+"Liber I\n"
+" Difficilis"
 
 #. [part]
 #. [scenario]: id=01_The_Uprooting
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:26
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:60
 msgid "The Uprooting"
-msgstr ""
+msgstr "Eradicare"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:55
-#, fuzzy
 msgid ""
 "The Legend of Wesmere,\n"
 "Chapter One\n"
 "Flight and fight"
-msgstr "Heroica Fabella Vesmerei"
+msgstr ""
+"Heroica Fabella Vesmerei,\n"
+"Liber I\n"
+"Fuga pugnaque"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:64
@@ -324,6 +339,10 @@ msgid ""
 "gained him more than usual respect among elders normally inclined to pay "
 "little heed to anyone younger than a century old."
 msgstr ""
+"Magnus heros Calens in nemore viride tranquilo in Lintanire, fine Magnae "
+"Silvae Boreae natus est. Etsi sine gente erat, florescuit artibus populi. "
+"Calidus plus quam honorem suetum apud patres nanctus est, qui aliquid iunior "
+"quam mille annos neglegere soliti sunt."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:70
@@ -333,6 +352,10 @@ msgid ""
 "establishing themselves south of the Great River, and the known world was "
 "changing more rapidly than it had for a thousand years before."
 msgstr ""
+"Fortasse patres sentiebant tempora mutantes vires flexibiliores petitura "
+"esse; fuit saeculum in quo homines ab Insula Viride australi Magni Fluminis "
+"se condebant, et mundus gnotus celerius vertebat, qui mille annos "
+"mutavisset. "
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:76
@@ -424,7 +447,7 @@ msgstr ""
 #. [side]: id=Tbaran, type=Orcish Warrior
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:202
 msgid "T’baran"
-msgstr ""
+msgstr "Tibaran"
 
 #. [side]: id=Hraurg, type=Saurian Ambusher
 #. [side]: type=Saurian Ambusher, id=Spahr
@@ -506,35 +529,34 @@ msgstr ""
 #: data/campaigns/Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:187
 #: data/campaigns/Legend_of_Wesmere/scenarios/23_End_of_War.cfg:79
 msgid "Enemies"
-msgstr ""
+msgstr "Hostes"
 
 #. [side]: id=Wrulf, type=Orcish Warrior
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:241
 msgid "Wrulf"
-msgstr ""
+msgstr "Vrulf"
 
 #. [side]: type=Orcish Warrior, id=Qumseh
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:285
 msgid "Qumseh"
-msgstr ""
+msgstr "Cumsa"
 
 #. [side]: type=Orcish Warrior, id=Graur-Tan
 #. [side]: type=Orcish Warlord, id=Graur-Tan
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:323
 #: data/campaigns/Legend_of_Wesmere/scenarios/06_Acquaintance_in_Need.cfg:155
 msgid "Graur-Tan"
-msgstr ""
+msgstr "Graus Tan"
 
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:393
 msgid "Kill any of the orc leaders"
-msgstr ""
+msgstr "Ducem ullum orcum occidere"
 
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:398
-#, fuzzy
 msgid "Keep Velon alive"
-msgstr "Mors Calentis"
+msgstr ""
 
 #. [objective]: condition=lose
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:402
@@ -888,12 +910,12 @@ msgstr ""
 #. [unit]: type=Orcish Slayer, id=Urudin
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:381
 msgid "Urudin"
-msgstr ""
+msgstr "Urudin"
 
 #. [unit]: type=Orcish Warlord, id=Murudin
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:392
 msgid "Murudin"
-msgstr ""
+msgstr "Murudin"
 
 #. [unit]: type=Orcish Warlord, id=Mutaf-uru
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:401
@@ -955,24 +977,21 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:843
-#, fuzzy
 msgid "Defeat all enemy leaders."
-msgstr "Omnes hostes vincere"
+msgstr "Omnes duces hostium vincere."
 
 #. [objective]: condition=lose
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:855
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:936
 #: data/campaigns/Legend_of_Wesmere/scenarios/07_Elves_Last_Stand.cfg:414
-#, fuzzy
 msgid "Death of Galtrid"
-msgstr "Mors Calentis"
+msgstr ""
 
 #. [objective]: condition=lose
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:860
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:941
-#, fuzzy
 msgid "Death of El'Isomithir"
-msgstr "Mors Calentis"
+msgstr ""
 
 #. [message]: speaker=narrator
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:875
@@ -1107,7 +1126,7 @@ msgstr ""
 #. [multiplayer]: id=04_The_Elvish_Treasury_HARD, id=04_The_Elvish_Treasury_EASY, id=04_The_Elvish_Treasury_NORMAL
 #: data/campaigns/Legend_of_Wesmere/scenarios/04_The_Elvish_Treasury.cfg:5
 msgid "3p MC — LoW, Hard Mode, Chapter two"
-msgstr ""
+msgstr "IIIl MPL — HFV, Modus Difficilis, Liber II"
 
 #. [multiplayer]: id=04_The_Elvish_Treasury_HARD, id=04_The_Elvish_Treasury_EASY, id=04_The_Elvish_Treasury_NORMAL
 #: data/campaigns/Legend_of_Wesmere/scenarios/04_The_Elvish_Treasury.cfg:6
@@ -1117,11 +1136,15 @@ msgid ""
 "Chapter two\n"
 " Hard difficulty"
 msgstr ""
+"<i>Heroica Fabella Vesmerei</i>\n"
+"Militia Pluribus Lusoribus\n"
+"Liber II\n"
+" Difficilis"
 
 #. [multiplayer]: id=04_The_Elvish_Treasury_HARD, id=04_The_Elvish_Treasury_EASY, id=04_The_Elvish_Treasury_NORMAL
 #: data/campaigns/Legend_of_Wesmere/scenarios/04_The_Elvish_Treasury.cfg:11
 msgid "3p MC — LoW, Easy Mode, Chapter two"
-msgstr ""
+msgstr "IIIl MPL — HFV, Modus Facilis, Liber II"
 
 #. [multiplayer]: id=04_The_Elvish_Treasury_HARD, id=04_The_Elvish_Treasury_EASY, id=04_The_Elvish_Treasury_NORMAL
 #: data/campaigns/Legend_of_Wesmere/scenarios/04_The_Elvish_Treasury.cfg:12
@@ -1131,11 +1154,15 @@ msgid ""
 "Chapter two\n"
 " Easy difficulty"
 msgstr ""
+"<i>Heroica Fabella Vesmerei</i>\n"
+"Militia Pluribus Lusoribus\n"
+"Liber II\n"
+" Difficultas Levis"
 
 #. [multiplayer]: id=04_The_Elvish_Treasury_HARD, id=04_The_Elvish_Treasury_EASY, id=04_The_Elvish_Treasury_NORMAL
 #: data/campaigns/Legend_of_Wesmere/scenarios/04_The_Elvish_Treasury.cfg:17
 msgid "3p MC — LoW, Normal Mode, Chapter two"
-msgstr ""
+msgstr "IIIl — HFV, Modus Mediocris, Liber II"
 
 #. [multiplayer]: id=04_The_Elvish_Treasury_HARD, id=04_The_Elvish_Treasury_EASY, id=04_The_Elvish_Treasury_NORMAL
 #: data/campaigns/Legend_of_Wesmere/scenarios/04_The_Elvish_Treasury.cfg:18
@@ -1145,16 +1172,20 @@ msgid ""
 "Chapter two\n"
 " Normal difficulty"
 msgstr ""
+"<i>Heroica Fabella Vesmerei</i>\n"
+"Militia Pluribus Lusoribus\n"
+"Liber II\n"
+" Difficultas mediocris"
 
 #. [scenario]: id=04_The_Elvish_Treasury
 #: data/campaigns/Legend_of_Wesmere/scenarios/04_The_Elvish_Treasury.cfg:26
 msgid "The Elvish Treasury"
-msgstr ""
+msgstr "Thesaurus Dryadalium"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/04_The_Elvish_Treasury.cfg:48
 msgid "Chapter Two: The Treasury"
-msgstr ""
+msgstr "Liber II: Thesaurus"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/04_The_Elvish_Treasury.cfg:54
@@ -1165,7 +1196,7 @@ msgstr ""
 #. [side]: type=Saurian Ambusher, id=Shurm
 #: data/campaigns/Legend_of_Wesmere/scenarios/04_The_Elvish_Treasury.cfg:105
 msgid "Shurm"
-msgstr ""
+msgstr "Scurmus"
 
 #. [side]: type=Saurian Ambusher, id=Trigr
 #: data/campaigns/Legend_of_Wesmere/scenarios/04_The_Elvish_Treasury.cfg:132
@@ -1181,9 +1212,8 @@ msgstr ""
 #: data/campaigns/Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:196
 #: data/campaigns/Legend_of_Wesmere/scenarios/17_Breaking_the_Siege.cfg:249
 #: data/campaigns/Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:237
-#, fuzzy
 msgid "Defeat all enemy leaders"
-msgstr "Omnes hostes vincere"
+msgstr "Omnes duces hostium vincere"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/04_The_Elvish_Treasury.cfg:312
@@ -1229,12 +1259,12 @@ msgstr ""
 #. [unit]: id=Arkildur, type=Elvish Fighter
 #: data/campaigns/Legend_of_Wesmere/scenarios/04_The_Elvish_Treasury.cfg:378
 msgid "Arkildur"
-msgstr ""
+msgstr "Arkilder"
 
 #. [unit]: id=Tameril-Isimeril, type=Elvish Archer
 #: data/campaigns/Legend_of_Wesmere/scenarios/04_The_Elvish_Treasury.cfg:395
 msgid "Tameril-Isimeril"
-msgstr ""
+msgstr "Tameril Isimeril"
 
 #. [unit]: id=Laril, type=Elvish Archer
 #: data/campaigns/Legend_of_Wesmere/scenarios/04_The_Elvish_Treasury.cfg:414
@@ -1348,7 +1378,7 @@ msgstr ""
 #. [side]: id=Hraurg, type=Saurian Ambusher
 #: data/campaigns/Legend_of_Wesmere/scenarios/05_The_Saurian_Treasury.cfg:142
 msgid "Hraurg"
-msgstr ""
+msgstr "Hraugus"
 
 #. [side]: type=Saurian Ambusher, id=Spahr
 #. [side]: type=Saurian Flanker, id=Spahr
@@ -1489,7 +1519,7 @@ msgstr ""
 #. [side]: type=Orcish Warlord, id=Urug-Tar
 #: data/campaigns/Legend_of_Wesmere/scenarios/06_Acquaintance_in_Need.cfg:123
 msgid "Urug-Tar"
-msgstr ""
+msgstr "Urug Tar"
 
 #. [side]: type=Troll Warrior, id=Traur
 #: data/campaigns/Legend_of_Wesmere/scenarios/06_Acquaintance_in_Need.cfg:185
@@ -1621,22 +1651,22 @@ msgstr ""
 #: data/campaigns/Legend_of_Wesmere/scenarios/07_Elves_Last_Stand.cfg:166
 #: data/campaigns/Legend_of_Wesmere/utils/characters.cfg:96
 msgid "El’Isomithir"
-msgstr ""
+msgstr "Elisomither"
 
 #. [side]: type=Orcish Warlord, id=Mordrum
 #: data/campaigns/Legend_of_Wesmere/scenarios/07_Elves_Last_Stand.cfg:196
 msgid "Mordrum"
-msgstr ""
+msgstr "Mordrum"
 
 #. [side]: type=Orcish Warlord, id=Urug-Pir
 #: data/campaigns/Legend_of_Wesmere/scenarios/07_Elves_Last_Stand.cfg:230
 msgid "Urug-Pir"
-msgstr ""
+msgstr "Urug Pir"
 
 #. [side]: type=Great Troll, id=Truugl
 #: data/campaigns/Legend_of_Wesmere/scenarios/07_Elves_Last_Stand.cfg:258
 msgid "Truugl"
-msgstr ""
+msgstr "Truugl"
 
 #. [side]: type=Orcish Warlord, id=Grubr
 #: data/campaigns/Legend_of_Wesmere/scenarios/07_Elves_Last_Stand.cfg:330
@@ -1894,32 +1924,32 @@ msgstr ""
 #. [unit]: id=Bulrod, type=Dwarvish Steelclad
 #: data/campaigns/Legend_of_Wesmere/scenarios/07_Elves_Last_Stand_utils.cfg:5
 msgid "Bulrod"
-msgstr ""
+msgstr "Bulrod"
 
 #. [unit]: id=Simclon, type=Dwarvish Thunderer
 #: data/campaigns/Legend_of_Wesmere/scenarios/07_Elves_Last_Stand_utils.cfg:19
 msgid "Simclon"
-msgstr ""
+msgstr "Simclum"
 
 #. [unit]: id=Harald, type=Dwarvish Berserker
 #: data/campaigns/Legend_of_Wesmere/scenarios/07_Elves_Last_Stand_utils.cfg:32
 msgid "Harald"
-msgstr ""
+msgstr "Haraldus"
 
 #. [unit]: id=Budrin, type=Dwarvish Berserker
 #: data/campaigns/Legend_of_Wesmere/scenarios/07_Elves_Last_Stand_utils.cfg:45
 msgid "Budrin"
-msgstr ""
+msgstr "Budrinius"
 
 #. [unit]: id=Dudan, type=Dwarvish Fighter
 #: data/campaigns/Legend_of_Wesmere/scenarios/07_Elves_Last_Stand_utils.cfg:58
 msgid "Dudan"
-msgstr ""
+msgstr "Dudan"
 
 #. [unit]: id=Korbun, type=Dwarvish Fighter
 #: data/campaigns/Legend_of_Wesmere/scenarios/07_Elves_Last_Stand_utils.cfg:71
 msgid "Korbun"
-msgstr ""
+msgstr "Korbum"
 
 #. [unit]: id=Merhun, type=Dwarvish Berserker
 #: data/campaigns/Legend_of_Wesmere/scenarios/07_Elves_Last_Stand_utils.cfg:84
@@ -2192,9 +2222,8 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:125
-#, fuzzy
 msgid "This is the end of Chapter Two."
-msgstr "Heroica Fabella Vesmerei"
+msgstr "Sic finit Liber II."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:130
@@ -2207,7 +2236,7 @@ msgstr ""
 #. [multiplayer]: id=09_Bounty_Hunters_HARD, id=09_Bounty_Hunters_EASY, id=09_Bounty_Hunters_NORMAL
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:5
 msgid "4p MC — LoW, Hard Mode, Chapter three"
-msgstr ""
+msgstr "IVl MPL — HFV, Modus Difficilis, Liber III"
 
 #. [multiplayer]: id=09_Bounty_Hunters_HARD, id=09_Bounty_Hunters_EASY, id=09_Bounty_Hunters_NORMAL
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:6
@@ -2217,11 +2246,15 @@ msgid ""
 "Chapter three\n"
 " Hard difficulty"
 msgstr ""
+"<i>Heroica Fabella Vesmerei</i>\n"
+"Militia Pluribus Lusoribus\n"
+"Liber III\n"
+" Difficilis"
 
 #. [multiplayer]: id=09_Bounty_Hunters_HARD, id=09_Bounty_Hunters_EASY, id=09_Bounty_Hunters_NORMAL
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:11
 msgid "4p MC — LoW, Easy Mode, Chapter three"
-msgstr ""
+msgstr "IVl MPL — HFV, Modus Facilis, Liber III"
 
 #. [multiplayer]: id=09_Bounty_Hunters_HARD, id=09_Bounty_Hunters_EASY, id=09_Bounty_Hunters_NORMAL
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:12
@@ -2231,11 +2264,15 @@ msgid ""
 "Chapter three\n"
 " Easy difficulty"
 msgstr ""
+"<i>Heroica Fabella Vesmerei</i>\n"
+"Militia Pluribus Lusoribus\n"
+"Liber III\n"
+" Difficultas levis"
 
 #. [multiplayer]: id=09_Bounty_Hunters_HARD, id=09_Bounty_Hunters_EASY, id=09_Bounty_Hunters_NORMAL
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:17
 msgid "4p MC — LoW, Normal Mode, Chapter three"
-msgstr ""
+msgstr "IVl — HFV, Modus Mediocris, Liber III"
 
 #. [multiplayer]: id=09_Bounty_Hunters_HARD, id=09_Bounty_Hunters_EASY, id=09_Bounty_Hunters_NORMAL
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:18
@@ -2245,6 +2282,10 @@ msgid ""
 "Chapter three\n"
 " Normal difficulty"
 msgstr ""
+"<i>Heroica Fabella Vesmerei</i>\n"
+"Militia Pluribus Lusoribus\n"
+"Liber III\n"
+" Difficultas mediocris"
 
 #. [scenario]: id=09_Bounty_Hunters
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:26
@@ -2253,9 +2294,8 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:47
-#, fuzzy
 msgid "The Legend of Wesmere, Chapter two"
-msgstr "Heroica Fabella Vesmerei"
+msgstr "Heroica Fabella Vesmerei, Liber II"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:49
@@ -2282,7 +2322,7 @@ msgstr ""
 #. [side]: type=Saurian Flanker, id=Huurgh
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:124
 msgid "Huurgh"
-msgstr ""
+msgstr "Hurg"
 
 #. [side]: type=Saurian Oracle, id=Shhar
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:157
@@ -2297,12 +2337,12 @@ msgstr ""
 #. [set_variable]
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:265
 msgid "$left_behind_{NAME} and $l3_store_{NAME}[$i].name"
-msgstr ""
+msgstr "$left_behind_{NAME} and $l3_store_{NAME}[$i].name"
 
 #. [set_variable]
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:271
 msgid "$left_behind_{NAME}|, $l3_store_{NAME}[$i].name"
-msgstr ""
+msgstr "$left_behind_{NAME}|, $l3_store_{NAME}[$i].name"
 
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:381
@@ -2450,7 +2490,7 @@ msgstr ""
 #. [unit]: type=Cuttle Fish, id=Kalimar
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:677
 msgid "Kalimar"
-msgstr ""
+msgstr "Calimer"
 
 #. [unit]: type=Cuttle Fish, id=Alkamar
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:696
@@ -2568,7 +2608,7 @@ msgstr ""
 #. [unit]: type=Yeti, id=Tralg
 #: data/campaigns/Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:351
 msgid "Tralg"
-msgstr ""
+msgstr "Tralg"
 
 #. [unit]: type=Yeti, id=Drolg
 #: data/campaigns/Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:364
@@ -2588,7 +2628,7 @@ msgstr ""
 #. [side]: type=Arch Mage, id=Aquagar
 #: data/campaigns/Legend_of_Wesmere/scenarios/11_Battle_of_the_Book.cfg:101
 msgid "Aquagar"
-msgstr ""
+msgstr "Aquager"
 
 #. [part]
 #. [side]: type=Elder Mage, id=Crelanu
@@ -2615,7 +2655,7 @@ msgstr ""
 #: data/campaigns/Legend_of_Wesmere/scenarios/12_Revelations.cfg:238
 #: data/campaigns/Legend_of_Wesmere/scenarios/12_Revelations.cfg:248
 msgid "Crelanu"
-msgstr ""
+msgstr "Crelanus"
 
 #. [side]: type=Troll Warrior, id=Trigrul
 #: data/campaigns/Legend_of_Wesmere/scenarios/11_Battle_of_the_Book.cfg:136
@@ -3146,7 +3186,7 @@ msgstr ""
 #. [multiplayer]: id=14_Human_Alliance_HARD, id=14_Human_Alliance_EASY, id=14_Human_Alliance_NORMAL
 #: data/campaigns/Legend_of_Wesmere/scenarios/14_Human_Alliance.cfg:5
 msgid "4p MC — LoW, Hard Mode, Chapter four"
-msgstr ""
+msgstr "IVl MPL — MPL, Modus Difficilis, Liber IV"
 
 #. [multiplayer]: id=14_Human_Alliance_HARD, id=14_Human_Alliance_EASY, id=14_Human_Alliance_NORMAL
 #: data/campaigns/Legend_of_Wesmere/scenarios/14_Human_Alliance.cfg:6
@@ -3156,11 +3196,15 @@ msgid ""
 "Chapter four\n"
 " Hard difficulty"
 msgstr ""
+"<i>Heroica Fabella Vesmerei</i>\n"
+"Militia Pluribus Lusoribus\n"
+"Liber IV\n"
+" Difficilis"
 
 #. [multiplayer]: id=14_Human_Alliance_HARD, id=14_Human_Alliance_EASY, id=14_Human_Alliance_NORMAL
 #: data/campaigns/Legend_of_Wesmere/scenarios/14_Human_Alliance.cfg:10
 msgid "4p MC — LoW, Easy Mode, Chapter four"
-msgstr ""
+msgstr "IVl MPL — HFV, Modus Facilis, Liber IV"
 
 #. [multiplayer]: id=14_Human_Alliance_HARD, id=14_Human_Alliance_EASY, id=14_Human_Alliance_NORMAL
 #: data/campaigns/Legend_of_Wesmere/scenarios/14_Human_Alliance.cfg:11
@@ -3170,11 +3214,15 @@ msgid ""
 "Chapter four\n"
 " Easy difficulty"
 msgstr ""
+"<i>Heroica Fabella Vesmerei</i>\n"
+"Militia Pluribus Lusoribus\n"
+"Liber IV\n"
+" Difficultas levis"
 
 #. [multiplayer]: id=14_Human_Alliance_HARD, id=14_Human_Alliance_EASY, id=14_Human_Alliance_NORMAL
 #: data/campaigns/Legend_of_Wesmere/scenarios/14_Human_Alliance.cfg:15
 msgid "4p MC — LoW, Normal Mode, Chapter four"
-msgstr ""
+msgstr "IVl MPL — HRV, Modus Mediocris, Liber IV"
 
 #. [multiplayer]: id=14_Human_Alliance_HARD, id=14_Human_Alliance_EASY, id=14_Human_Alliance_NORMAL
 #: data/campaigns/Legend_of_Wesmere/scenarios/14_Human_Alliance.cfg:16
@@ -3184,6 +3232,10 @@ msgid ""
 "Chapter four\n"
 " Normal difficulty"
 msgstr ""
+"<i>Heroica Fabella Vesmerei</i>\n"
+"Militia Pluribus Lusoribus\n"
+"Liber IV\n"
+" Difficultas mediocris"
 
 #. [scenario]: id=14_Human_Alliance
 #: data/campaigns/Legend_of_Wesmere/scenarios/14_Human_Alliance.cfg:24
@@ -3206,22 +3258,22 @@ msgstr ""
 #: data/campaigns/Legend_of_Wesmere/scenarios/14_Human_Alliance.cfg:194
 #: data/campaigns/Legend_of_Wesmere/scenarios/15_The_Treaty.cfg:29
 msgid "Aldar"
-msgstr ""
+msgstr "Alder"
 
 #. [side]: type=Orcish Warlord, id=Pirror
 #: data/campaigns/Legend_of_Wesmere/scenarios/14_Human_Alliance.cfg:219
 msgid "Pirror"
-msgstr ""
+msgstr "Pirror"
 
 #. [side]: type=Orcish Warlord, id=Tan-Grub
 #: data/campaigns/Legend_of_Wesmere/scenarios/14_Human_Alliance.cfg:256
 msgid "Tan-Grub"
-msgstr ""
+msgstr "Tan Grub"
 
 #. [side]: type=Great Troll, id=Grol
 #: data/campaigns/Legend_of_Wesmere/scenarios/14_Human_Alliance.cfg:294
 msgid "Grol"
-msgstr ""
+msgstr "Grolus"
 
 #. [side]: type=Orcish Warlord, id=Khafa-Urg
 #: data/campaigns/Legend_of_Wesmere/scenarios/14_Human_Alliance.cfg:330
@@ -3603,17 +3655,17 @@ msgstr ""
 #. [side]: type=Orcish Warlord, id=Tamitahan
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die.cfg:104
 msgid "Tamitahan"
-msgstr ""
+msgstr "Tamitahan"
 
 #. [side]: id=Khrubar, type=Orcish Warlord
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die.cfg:136
 msgid "Khrubar"
-msgstr ""
+msgstr "Cruber"
 
 #. [side]: type=Orcish Warlord, id=Gvur
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die.cfg:162
 msgid "Gvur"
-msgstr ""
+msgstr "Gver"
 
 #. [side]: type=Orcish Warlord, id=Ozul
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die.cfg:192
@@ -3736,157 +3788,157 @@ msgstr ""
 #. [unit]: type=Goblin Pillager, id=Odrun
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:55
 msgid "Odrun"
-msgstr ""
+msgstr "Odrum"
 
 #. [unit]: type=Goblin Pillager, id=Kardur
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:87
 msgid "Kardur"
-msgstr ""
+msgstr "Kardur"
 
 #. [unit]: type=Goblin Pillager, id=Kartrog
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:118
 msgid "Kartrog"
-msgstr ""
+msgstr "Cartrogus"
 
 #. [unit]: type=Goblin Knight, id=Sdrul
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:148
 msgid "Sdrul"
-msgstr ""
+msgstr "Strullus"
 
 #. [unit]: type=Direwolf Rider, id=Utrub
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:180
 msgid "Utrub"
-msgstr ""
+msgstr "Utrubus"
 
 #. [unit]: type=Goblin Knight, id=Uhmit
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:212
 msgid "Uhmit"
-msgstr ""
+msgstr "Umit"
 
 #. [unit]: type=Orcish Grunt, id=Grut
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:246
 msgid "Grut"
-msgstr ""
+msgstr "Grutus"
 
 #. [unit]: type=Orcish Grunt, id=Krolru
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:254
 msgid "Krolru"
-msgstr ""
+msgstr "Crolru"
 
 #. [unit]: type=Orcish Warrior, id=Kryl
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:262
 msgid "Kryl"
-msgstr ""
+msgstr "Kryl"
 
 #. [unit]: type=Orcish Crossbowman, id=Erdug
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:270
 msgid "Erdug"
-msgstr ""
+msgstr "Erduggus"
 
 #. [unit]: type=Orcish Warrior, id=Urdol
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:278
 msgid "Urdol"
-msgstr ""
+msgstr "Urdol"
 
 #. [unit]: type=Orcish Warrior, id=Tan-Drur
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:286
 msgid "Tan-Drur"
-msgstr ""
+msgstr "Tan Drer"
 
 #. [unit]: type=Orcish Crossbowman, id=Brim
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:294
 msgid "Brim"
-msgstr ""
+msgstr "Brimus"
 
 #. [unit]: type=Orcish Grunt, id=Krud
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:302
 msgid "Krud"
-msgstr ""
+msgstr "Crudus"
 
 #. [unit]: type=Orcish Warrior, id=Krulr
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:310
 msgid "Krulr"
-msgstr ""
+msgstr "Cruler"
 
 #. [unit]: type=Orcish Warrior, id=Draglar
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:318
 msgid "Draglar"
-msgstr ""
+msgstr "Dragler"
 
 #. [unit]: type=Orcish Warrior, id=Qmrun
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:326
 msgid "Qmrun"
-msgstr ""
+msgstr "Cumrum"
 
 #. [unit]: type=Goblin Impaler, id=Erdog
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:334
 msgid "Erdog"
-msgstr ""
+msgstr "Erdog"
 
 #. [unit]: type=Goblin Spearman, id=Sbrak
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:342
 msgid "Sbrak"
-msgstr ""
+msgstr "Spracchus"
 
 #. [unit]: type=Goblin Spearman, id=Urdum
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:350
 msgid "Urdum"
-msgstr ""
+msgstr "Urdum"
 
 #. [unit]: type=Goblin Impaler, id=Ozdul
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:358
 msgid "Ozdul"
-msgstr ""
+msgstr "Ozdul"
 
 #. [unit]: type=Goblin Impaler, id=Zuzerd
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:366
 msgid "Zuzerd"
-msgstr ""
+msgstr "Zuzerdus"
 
 #. [unit]: type=Orcish Archer, id=Egrok
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:373
 msgid "Egrok"
-msgstr ""
+msgstr "Egrok"
 
 #. [unit]: type=Orcish Assassin, id=Urbrus
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:380
 msgid "Urbrus"
-msgstr ""
+msgstr "Urbrus"
 
 #. [unit]: type=Orcish Slayer, id=Erbru
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:387
 msgid "Erbru"
-msgstr ""
+msgstr "Erbru"
 
 #. [unit]: type=Orcish Warrior, id=Muhmr
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:395
 msgid "Muhmr"
-msgstr ""
+msgstr "Mummer"
 
 #. [unit]: type=Orcish Crossbowman, id=Cfrul
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:403
 msgid "Cfrul"
-msgstr ""
+msgstr "Cifrul"
 
 #. [unit]: type=Orcish Crossbowman, id=Irkrul
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:411
 msgid "Irkrul"
-msgstr ""
+msgstr "Ircrul"
 
 #. [unit]: type=Orcish Grunt, id=Cebrun
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:419
 msgid "Cebrun"
-msgstr ""
+msgstr "Cebrum"
 
 #. [unit]: type=Orcish Grunt, id=Krundrum
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:427
 msgid "Krundrum"
-msgstr ""
+msgstr "Krundrum"
 
 #. [unit]: type=Orcish Grunt, id=Arrkud
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:435
 msgid "Arrkud"
-msgstr ""
+msgstr "Arkudus"
 
 #. [unit]: type=Orcish Grunt, id=Gulmod
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die_utils.cfg:443
@@ -3911,12 +3963,12 @@ msgstr ""
 #. [side]: type=Orcish Warlord, id=Kior-Pur
 #: data/campaigns/Legend_of_Wesmere/scenarios/17_Breaking_the_Siege.cfg:108
 msgid "Kior-Pur"
-msgstr ""
+msgstr "Cior Pur"
 
 #. [side]: type=Orcish Warlord, id=Mbiran
 #: data/campaigns/Legend_of_Wesmere/scenarios/17_Breaking_the_Siege.cfg:145
 msgid "Mbiran"
-msgstr ""
+msgstr "Mabiran"
 
 #. [side]: type=Orcish Warlord, id=Tan-Durr
 #: data/campaigns/Legend_of_Wesmere/scenarios/17_Breaking_the_Siege.cfg:179
@@ -3966,17 +4018,17 @@ msgstr ""
 #. [unit]: type=Direwolf Rider, id=Zhuk
 #: data/campaigns/Legend_of_Wesmere/scenarios/17_Breaking_the_Siege.cfg:343
 msgid "Zhuk"
-msgstr ""
+msgstr "Zucchus"
 
 #. [unit]: type=Direwolf Rider, id=Dran
 #: data/campaigns/Legend_of_Wesmere/scenarios/17_Breaking_the_Siege.cfg:360
 msgid "Dran"
-msgstr ""
+msgstr "Dranus"
 
 #. [unit]: type=Direwolf Rider, id=Hrugt
 #: data/campaigns/Legend_of_Wesmere/scenarios/17_Breaking_the_Siege.cfg:372
 msgid "Hrugt"
-msgstr ""
+msgstr "Hrugtus"
 
 #. [unit]: type=Direwolf Rider, id=Orhtib
 #: data/campaigns/Legend_of_Wesmere/scenarios/17_Breaking_the_Siege.cfg:384
@@ -4070,7 +4122,7 @@ msgstr ""
 #. [multiplayer]
 #: data/campaigns/Legend_of_Wesmere/scenarios/19_Costly_Revenge.cfg:5
 msgid "2p MC — LoW, Hard Mode, Chapter five"
-msgstr ""
+msgstr "IIl MPL — HFV, Modus Difficilis, Liber V"
 
 #. [multiplayer]
 #: data/campaigns/Legend_of_Wesmere/scenarios/19_Costly_Revenge.cfg:6
@@ -4080,11 +4132,15 @@ msgid ""
 "Chapter five\n"
 " Hard difficulty"
 msgstr ""
+"<i>Heroica Fabella Vesmerei</i>\n"
+"Militia Pluribus Lusoribus\n"
+"Liber V\n"
+" Difficilis"
 
 #. [multiplayer]
 #: data/campaigns/Legend_of_Wesmere/scenarios/19_Costly_Revenge.cfg:9
 msgid "2p MC — LoW, Easy Mode, Chapter five"
-msgstr ""
+msgstr "IIl MPL — HFV, Modus Facilis, Liber V"
 
 #. [multiplayer]
 #: data/campaigns/Legend_of_Wesmere/scenarios/19_Costly_Revenge.cfg:10
@@ -4094,11 +4150,14 @@ msgid ""
 "Chapter five\n"
 " Easy difficulty"
 msgstr ""
+"<i>Heroica Fabella Vesmerei</i>\n"
+"Militia Pluribus Lusoribus\n"
+"Liber V Difficultas levis"
 
 #. [multiplayer]
 #: data/campaigns/Legend_of_Wesmere/scenarios/19_Costly_Revenge.cfg:13
 msgid "2p MC — LoW, Normal Mode, Chapter five"
-msgstr ""
+msgstr "IIl MPL — HFV, Modus Mediocris, Liber V"
 
 #. [multiplayer]
 #: data/campaigns/Legend_of_Wesmere/scenarios/19_Costly_Revenge.cfg:14
@@ -4108,6 +4167,10 @@ msgid ""
 "Chapter five\n"
 " Normal difficulty"
 msgstr ""
+"<i>Heroica Fabella Vesmerei</i>\n"
+"Militia Pluribus Lusoribus\n"
+"Liber V\n"
+" Difficultas mediocris"
 
 #. [scenario]: id=19_Costly_Revenge
 #: data/campaigns/Legend_of_Wesmere/scenarios/19_Costly_Revenge.cfg:20
@@ -4419,13 +4482,13 @@ msgstr ""
 #. [side]: type=Elvish Ranger, id=Antaril
 #: data/campaigns/Legend_of_Wesmere/scenarios/21_Elvish_Assassins.cfg:242
 msgid "Antaril"
-msgstr ""
+msgstr "Antaril"
 
 #. [side]: type=Elvish Marshal, id=Crintil
 #: data/campaigns/Legend_of_Wesmere/scenarios/21_Elvish_Assassins.cfg:310
 #: data/campaigns/Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:190
 msgid "Crintil"
-msgstr ""
+msgstr "Crintil"
 
 #. [side]: type=Elvish Captain, id=Oblil
 #: data/campaigns/Legend_of_Wesmere/scenarios/21_Elvish_Assassins.cfg:347
@@ -4713,12 +4776,12 @@ msgstr ""
 #. [multiplayer]: id=Chapter_One_End
 #: data/campaigns/Legend_of_Wesmere/scenarios/Chapter_One_End.cfg:10
 msgid "End of Chapter One"
-msgstr ""
+msgstr "Finis Libri I"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/Chapter_One_End.cfg:30
 msgid "This is the end of Chapter One."
-msgstr ""
+msgstr "Sic finitur Liber I."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/Chapter_One_End.cfg:35
@@ -4736,18 +4799,17 @@ msgstr ""
 #. [unit_type]: id=Elvish Horse Archer
 #: data/campaigns/Legend_of_Wesmere/units/Horse_Archer.cfg:16
 msgid "Elvish Horse Archer"
-msgstr ""
+msgstr "Sagittarius Dryadalium"
 
 #. [attack]: type=blade
 #: data/campaigns/Legend_of_Wesmere/units/Horse_Archer.cfg:20
-#, fuzzy
 msgid "sword"
-msgstr "Dominus"
+msgstr "gladius"
 
 #. [attack]: type=pierce
 #: data/campaigns/Legend_of_Wesmere/units/Horse_Archer.cfg:29
 msgid "bow"
-msgstr ""
+msgstr "arcus"
 
 #. [leadership]: id=elates_kalenz
 #: data/campaigns/Legend_of_Wesmere/utils/abilities.cfg:15
@@ -4763,14 +4825,13 @@ msgstr ""
 
 #. [heals]: id=heals_kalenz
 #: data/campaigns/Legend_of_Wesmere/utils/abilities.cfg:33
-#, fuzzy
 msgid "heals Kalenz +4"
-msgstr "Mors Calentis"
+msgstr "sanat Calentem +IV"
 
 #. [heals]: id=heals_kalenz
 #: data/campaigns/Legend_of_Wesmere/utils/abilities.cfg:34
 msgid "female^heals Kalenz +4"
-msgstr ""
+msgstr "sanat Calentem +IV"
 
 #. [heals]: id=heals_kalenz
 #: data/campaigns/Legend_of_Wesmere/utils/abilities.cfg:36
@@ -4799,7 +4860,7 @@ msgstr ""
 #. [message]: id=Cleodil
 #: data/campaigns/Legend_of_Wesmere/utils/characters.cfg:151
 msgid "I am wounded!"
-msgstr ""
+msgstr "Vulnerata sum!"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/utils/characters.cfg:155
