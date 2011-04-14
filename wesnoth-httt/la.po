@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth - HTTT 1.2.0\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-03-27 14:22+0200\n"
-"PO-Revision-Date: 2011-02-26 15:42+0100\n"
+"PO-Revision-Date: 2011-04-14 03:56+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -2191,7 +2191,6 @@ msgstr "Sceptrumne Ignis? Quid illud est?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:598
-#, fuzzy
 #| msgid ""
 #| "The Sceptre of Fire is the most ancient artifact of the realm of Wesnoth. "
 #| "It was forged by the dwarves of Knalga at the request of King Haldric II. "
@@ -2243,7 +2242,6 @@ msgstr "Te iuvamus ut recipias, domine mi."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:623
-#, fuzzy
 #| msgid ""
 #| "Time is short. We think that Asheviere is also searching for the Scepter, "
 #| "to help seal her place as ruler. But if you find the Scepter first, the "
@@ -3417,7 +3415,6 @@ msgstr ""
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/12_Northern_Winter.cfg:177
-#, fuzzy
 #| msgid ""
 #| "They are right, Kalenz. I had wanted to acquire the Scepter within a "
 #| "moon, but it is not to be. Our soldiers will begin to desert if they do "
@@ -4078,7 +4075,6 @@ msgstr "Et putasne vere vos Sceptrum Ignis invenire posse?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:439
-#, fuzzy
 #| msgid ""
 #| "Yes, I do. If you help us, friend, all the treasures of Knalga that we "
 #| "find are yours. We want only the Scepter. It will be dangerous. Make no "
@@ -4097,7 +4093,6 @@ msgstr ""
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:444
-#, fuzzy
 #| msgid ""
 #| "You are right, friend. I will put my best men at your disposal. We know "
 #| "not where the Scepter is though. Legend says it is hidden in the eastern "
@@ -4446,7 +4441,6 @@ msgstr "Lionelusne? Imperatorne? Nominis illius memini..."
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Heir_To_The_Throne/scenarios/15_The_Lost_General.cfg:494
-#, fuzzy
 #| msgid ""
 #| "Remember me, do you? Aye. I was the king’s finest general, sent down to "
 #| "these pits to retrieve the Scepter. But the orcs trapped me and my men in "
@@ -4477,7 +4471,6 @@ msgstr "Requiescas in pace, Lionele. Imperator amissus miser."
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Heir_To_The_Throne/scenarios/15_The_Lost_General.cfg:521
-#, fuzzy
 #| msgid ""
 #| "I am destroyed, but my mission must be completed. Though you are foes, "
 #| "you are at least worthy ones, so I will tell you that the Scepter is east "
@@ -4522,7 +4515,6 @@ msgstr ""
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/scenarios/15_The_Lost_General.cfg:579
-#, fuzzy
 #| msgid ""
 #| "The Scepter? Ah, the Scepter ye seek. You surface dwellers are ambitious. "
 #| "Beyond my citadel the spawn of the darkness hold complete sway. You’ll "
@@ -4543,7 +4535,6 @@ msgstr "Quomodo pergere possumus?"
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/scenarios/15_The_Lost_General.cfg:587
-#, fuzzy
 #| msgid ""
 #| "Northeast o’ my keep, young human, the tunnels converge towards the "
 #| "deepest reaches of the underground kingdom. The Scepter can only be "
@@ -4560,7 +4551,6 @@ msgstr ""
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/15_The_Lost_General.cfg:597
-#, fuzzy
 #| msgid ""
 #| "Your boon is most welcome, sir dwarf. Keeping the Scepter out of the "
 #| "hands of evil beasts is a common goal for us, and we will prevail with "
@@ -4692,7 +4682,6 @@ msgstr ""
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:236
-#, fuzzy
 #| msgid ""
 #| "Don’t try to trick me! I know why you have come here! But I will put an "
 #| "end to you and your treason here. Then I will get the Scepter, and return "
@@ -4762,7 +4751,6 @@ msgstr ""
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:381
-#, fuzzy
 #| msgid "Thank you, Princess. Come, men. Let us find the Scepter!"
 msgid "Thank you, Princess. Come, men. Let us find the Sceptre!"
 msgstr "Tibi gratias ago, Filia Reginae. Agite, viri. Sceptrum inveniamus!"
@@ -4809,7 +4797,6 @@ msgstr "Sceptrum Ignis cum Conrado Lisareve capere"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:160
-#, fuzzy
 #| msgid "The Scepter must be getting close now! Where shall we go?"
 msgid "The Sceptre must be getting close now! Where shall we go?"
 msgstr "Sceptro nunc certo appropinquamus! Quo ibimus?"
@@ -4851,7 +4838,6 @@ msgstr "Consciumne? Quis? Delfador, quid in animo habet?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:186
-#, fuzzy
 #| msgid ""
 #| "The Scepter... the earth... the molten lava... the fire... the air around "
 #| "us... everything. It calls out to the heir — I can barely hold it back in "
@@ -4894,7 +4880,6 @@ msgstr "Optio Facienda Est"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:16
-#, fuzzy
 #| msgid ""
 #| "The Scepter, initially dulled from decades of dust and debris, began to "
 #| "glow from the ruby’s inner fire. Dwarvish runes on the golden handle lit "
@@ -4911,7 +4896,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:21
-#, fuzzy
 #| msgid ""
 #| "An early encounter with the Scepter in the hands of its new owners left "
 #| "several trolls as smoking husks. Sensing the awakening of a powerful "
@@ -4989,7 +4973,6 @@ msgstr ""
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:196
-#, fuzzy
 #| msgid ""
 #| "Perhaps it is in both our best interests for us to remain allies for a "
 #| "little longer... but I do want that Scepter, and someday I will have it!"
@@ -5012,7 +4995,6 @@ msgstr "Effugimus."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:212
-#, fuzzy
 #| msgid ""
 #| "Yes, we have. Now I suppose you want to use the Scepter against me, "
 #| "Princess?"
@@ -5034,7 +5016,6 @@ msgstr ""
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:220
-#, fuzzy
 #| msgid ""
 #| "With all due respect, Princess, it is once again we who will spare you, "
 #| "Scepter or no Scepter."
@@ -6875,7 +6856,6 @@ msgstr ""
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/21_Elven_Council.cfg:173
-#, fuzzy
 #| msgid ""
 #| "Well, that is why I must take the Scepter. I will return, and people will "
 #| "accept me as Queen. I will rule justly and fairly. My mother is only "
@@ -6892,7 +6872,6 @@ msgstr ""
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/21_Elven_Council.cfg:177
-#, fuzzy
 #| msgid ""
 #| "Princess, there is some good in you, but the throne is not yours to "
 #| "claim. Konrad has the Scepter. He will take the throne."
@@ -6905,7 +6884,6 @@ msgstr ""
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/21_Elven_Council.cfg:183
-#, fuzzy
 #| msgid ""
 #| "Well, I have the Scepter! I will return and the people will accept me as "
 #| "Queen! My mother is only Queen Mother. The Throne is rightfully mine, and "
@@ -6923,7 +6901,6 @@ msgstr ""
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/21_Elven_Council.cfg:187
-#, fuzzy
 #| msgid ""
 #| "Though you have the Scepter, Princess, it is rightfully Konrad’s. You "
 #| "have it now only because we helped you get it."
