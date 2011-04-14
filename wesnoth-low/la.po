@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2011-03-22 20:57+0100\n"
+"PO-Revision-Date: 2011-04-14 01:38+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: none\n"
 "Language: \n"
@@ -121,11 +121,12 @@ msgstr "Gratias quoque agitur"
 
 #. [entry]
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:222
-#, fuzzy
 msgid ""
 "And the rest of the Wesnoth community for feedback,\n"
 "criticism, help with WML code and graphics."
-msgstr "Et ceteris populi Vesnotei subsidio,\n"
+msgstr ""
+"Et ceteris populi Vesnotei subsidio, iudicio,\n"
+"auxilio pro VML lingua et imaginibus."
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:21
@@ -366,6 +367,10 @@ msgid ""
 "Kalenz’s long childhood were a golden age, and the last time of untroubled "
 "peace."
 msgstr ""
+"Nonnulla mutata utilia erant. Dryadalibus ex somnio excitatis civitas "
+"augescuerunt. At alii pessima, praesertim adventus orcum, occulcantes, "
+"occisores arborum. Longa pueritia Calentis aetas aurea fuit, proximaque "
+"pacis secura."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:84
@@ -379,6 +384,11 @@ msgid ""
 "This is the story of Kalenz, and of the Elves in the days of the humans in "
 "Wesnoth."
 msgstr ""
+"Dryadales numquam bellici fuisset, et non parati belli fatalis cum orcibus. "
+"Calens, in ipso anno quo Erlornas primos vastatores orcum pugnabat, "
+"adolescevit. Secundo decem annis decursiones orcum valde augebantur.\n"
+"\n"
+"Haec est historia Calentis, et Dryadalium humano in saeculo Vesnotei.  "
 
 #. [side]: type=Elvish Marshal, id=El'Isomithir
 #. [side]
@@ -422,27 +432,27 @@ msgstr ""
 #: data/campaigns/Legend_of_Wesmere/utils/characters.cfg:98
 #: data/campaigns/Legend_of_Wesmere/utils/characters.cfg:120
 msgid "Player"
-msgstr ""
+msgstr "Lusor"
 
 #. [unit]: id=Anduilas, type=Elvish Fighter
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:127
 msgid "Anduilas"
-msgstr ""
+msgstr "Anduilas"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:153
 msgid "You trifled with the wrong elf!"
-msgstr ""
+msgstr "Iniuste ludis!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:163
 msgid "Take that, you orcish scum!"
-msgstr ""
+msgstr "Morere, te caenum!"
 
 #. [side]: id=Velon, type=Elvish Captain
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:173
 msgid "Velon"
-msgstr ""
+msgstr "Velon"
 
 #. [side]: id=Tbaran, type=Orcish Warrior
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:202
@@ -556,7 +566,7 @@ msgstr "Ducem ullum orcum occidere"
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:398
 msgid "Keep Velon alive"
-msgstr ""
+msgstr "Velonem defendere"
 
 #. [objective]: condition=lose
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:402
@@ -597,12 +607,12 @@ msgstr "Mors Calentis"
 #: data/campaigns/Legend_of_Wesmere/scenarios/17_Breaking_the_Siege.cfg:257
 #: data/campaigns/Legend_of_Wesmere/scenarios/19_Costly_Revenge.cfg:289
 msgid "Death of Landar"
-msgstr ""
+msgstr "Mors Landris"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:423
 msgid "Orcs are pressing on us from all directions! To arms!"
-msgstr ""
+msgstr "Orces nos undique opprimunt! Ad arma!"
 
 #. [message]: id=Velon
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:427
@@ -610,28 +620,30 @@ msgid ""
 "Hold, Kalenz. The Ka’lian council should discuss our response. Maybe we can "
 "reach an agreement with them!"
 msgstr ""
+"Mane, Calens. Concilium Calianis responsa nostra meditari debent. Fortasse "
+"pacisci possumus!"
 
 #. [message]: id=Qumseh
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:431
 msgid "Surrender or die, tree-shaggers!"
-msgstr ""
+msgstr "Dedite aut cadite, cinaedifolii!"
 
 #. [message]: id=Velon
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:435
 msgid "They are too many. We have no choice but to submit!"
-msgstr ""
+msgstr "Tot sunt. Nobis dedendum est! "
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:439
 msgid ""
 "Elves must never surrender to these foul beasts! Who will fight them beside "
 "me?"
-msgstr ""
+msgstr "Dtyadles numquam bestiis putidis dedere debent? Qui mecum pugnabit?"
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:447
 msgid "We will follow you, Kalenz — but where can we go?"
-msgstr ""
+msgstr "Te sequemur, Calens — sed quo eamus?"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:451
@@ -639,11 +651,13 @@ msgid ""
 "We must reach the elvish council in Ka’lian and enlist their help to "
 "recapture our home."
 msgstr ""
+"Consilium Dryadalium in Calianem attingere debemus et auxilium domui nostris "
+"recipiendo petere."
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:455
 msgid "We are surrounded!"
-msgstr ""
+msgstr "Circumdati sumus!"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:459
@@ -651,21 +665,23 @@ msgid ""
 "Then we must storm one of the orcs’ outposts to break the encirclement "
 "before more enemies arrive!"
 msgstr ""
+"Itaque unus stationum orcum expugnare oportet ut ante obsidionem frangamus "
+"quam plures hostium adeant!"
 
 #. [message]: id=Anduilas
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:463
 msgid "Very well, Kalenz — lead us!"
-msgstr ""
+msgstr "Certe, Calens — nos duc!"
 
 #. [message]: id=Velon
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:481
 msgid "We surrender!"
-msgstr ""
+msgstr "Dedemus!"
 
 #. [message]: id=Graur-Tan
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:485
 msgid "Did I mention that we take no prisoners? Die!"
-msgstr ""
+msgstr "Nonne dixi nos nullos captivos tenere! Morere!"
 
 #. [message]: id=Velon
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:489
@@ -673,11 +689,13 @@ msgid ""
 "Kalenz was right and I was wrong. Go; join Kalenz while yet you can. I and "
 "the remaining elders will cover your retreat as best we may."
 msgstr ""
+"Calens vera dixit et ego falsa. I; Calentem coniunge dum potes. Patres "
+"reliqui et ego cursum tuum quam optime defendemus."
 
 #. [message]: id=Velon
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:503
 msgid "Flee, Kalenz... find vengeance for us!"
-msgstr ""
+msgstr "Fuge, Calens... ulciscere!"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:507
@@ -685,16 +703,18 @@ msgid ""
 "Velon, I swear on the life of Irdya that I will not let you be forgotten "
 "while elves yet draw breath to sing."
 msgstr ""
+"Velon, me spondeo capite Irdyae te non obliturum esse dum dryadales auram "
+"canendi suscipiamus."
 
 #. [message]: id=Velon
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:516
 msgid "Swords will aid us more than songs, Kalenz; you saw that before I."
-msgstr ""
+msgstr "Gladii quam carmina usui erunt, Calens; sensisti ante me."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:520
 msgid "Swordsmen you shall have, as swiftly as I can find them and return."
-msgstr ""
+msgstr "Gladiatores tibi erunt, tam celeriter quam invenire et redire possum."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:530
@@ -702,31 +722,33 @@ msgid ""
 "Velon has fallen. He counseled weakness, but did not deserved such an ugly "
 "death. We shall return with swords to avenge him!"
 msgstr ""
+"Velo cecidit. Infirme suasit, sed non dignus tanto morte turpi fuit. Cum "
+"gladiis vindicatum redibimus!  "
 
 #. [message]: race=orc
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:543
 msgid "You won’t get very far! After them!"
-msgstr ""
+msgstr "Non longe ibitis! Se persequimini!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:560
 msgid "Curse you, tree-shaggers! We will feed your young to our wolves!"
-msgstr ""
+msgstr "Cinaedifolii maledicti! lupos nostros cum catulos vestris alemus!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:573
 msgid "What is this? The orc held plunder!"
-msgstr ""
+msgstr "Quid est? Praedas orcibus tentas!"
 
 #. [message]: id=Velon
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:609
 msgid "Flee, Kalenz... Our hopes ride with you..."
-msgstr ""
+msgstr "Fuge, Calens... Spes tecum it..."
 
 #. [scenario]: id=02_Hostile_Mountains
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:26
 msgid "Hostile Mountains"
-msgstr ""
+msgstr "Montes Obvii"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:45
@@ -737,21 +759,25 @@ msgid ""
 "of a great migration south. There was no choice but to make a detour through "
 "territory the elves would rather have avoided..."
 msgstr ""
+"Calens et manus vix obsidionem orcum fracti invenerunt iam ruri in via recta "
+"ad Calianem orces influere. Certamen domus Calentis modo parva pars "
+"migrationis magnae ad meridiem visum est. Illis nulla optio erat nisi iter "
+"per fines flectere, qui dryadales potius sperabant se vitaturos esse..."
 
 #. [side]
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:114
 msgid "Neutrals"
-msgstr ""
+msgstr "Medii"
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:136
 msgid "Those stinking trolls ha’ stepped on <i>our</i> land!"
-msgstr ""
+msgstr "Troglodytae foedae <i>nostrae</i> terrae instituerunt!"
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:203
 msgid "Those lying elves have stepped on <i>our</i> land!"
-msgstr ""
+msgstr "Dryadales mendaces <i>nostrae</i> terrae instituerunt!"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:208
@@ -759,38 +785,40 @@ msgid ""
 "Spare as many dwarves as you can and don't kill their leader. We can't risk "
 "to get the dwarves as an additional enemy."
 msgstr ""
+"Parcete omnibis nanis quibus potis est ac noli occidere ducem. Nanos hostem "
+"alium ferre non possumus. "
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:353
 msgid ""
 "It should be rare sport to watch this... Just be sure not to trespass on our "
 "land."
-msgstr ""
+msgstr "Sit ludus rarus id spectare... Sed fac ne in terram nostram invadetis."
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:365
 msgid "Up axes, and death to elves!"
-msgstr ""
+msgstr "Tollite secures, et mors ad dryadales!"
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:377
 msgid "Up axes, and death to trolls!"
-msgstr ""
+msgstr "Tollite secures, et mors ad troglodytas!"
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:390
 msgid "Up axes, and kill all the interlopers!"
-msgstr ""
+msgstr "Tollite secures, et occidite omnes advenas!"
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:404
 msgid "Defend our bounds! Slay all who trespass them!"
-msgstr ""
+msgstr "Defendite fines! Necate omnes invadentes!"
 
 #. [side]: type=Troll Hero, type=Great Troll, id=Grugl
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:433
 msgid "Grugl"
-msgstr ""
+msgstr "Grugelius"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:498
@@ -799,6 +827,9 @@ msgid ""
 "territory and is shorter. I pray the dwarves will grant us safe passage, "
 "since the other path is through troll territory..."
 msgstr ""
+"Speraveram me vias vitaturum esse... Via occidentem per fines nanorum "
+"brevior est. Precor ut nani iter tutum nobis dent, cum via alia per fines "
+"troglodytarum sit..."
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:502
@@ -806,6 +837,8 @@ msgid ""
 "Not even in yer dreams, elf. These are dwarvish lands, and troubles we want "
 "no part of nip at yer heels. Get out and stay out!"
 msgstr ""
+"Non etiam in somnio, dryadales. Hi fines nanorum sunt, et curae invisae "
+"plantas mordent. Exite et ibi manete!"
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:506
@@ -814,6 +847,9 @@ msgid ""
 "orcs have come down from the north like a flood; if we squabble among "
 "ourselves they will feast on our discord."
 msgstr ""
+"Curae quoque nostrae vobis curae sunt, sive volamus sive nolamus. Orces "
+"sicut aestus a Borea defluxerunt; si inter se altercati fuerimus discordia "
+"vorabunt."
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:510
@@ -823,11 +859,15 @@ msgid ""
 "kiss of steel will greet all intruders. Anyone who sets foot on the eastern "
 "bank o’ this river will rue the day he was born!"
 msgstr ""
+"Fu. Plures verborum disertorum ac fraudum, barba. Scimus genus tuum... atqui "
+"cui auxilium tuum opus est, invalidi? Iam discedite, aut tangite securem! "
+"Tactus idem ferri omnes irrupmentes salutabit. Quisquis ripae orienti "
+"fluminis huius institerit diem natalem dolebit!"
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:514
 msgid "I cannot see how trolls could be any less friendly."
-msgstr ""
+msgstr "Non intellego quomodo troglodytae minus amicae sint."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:518
@@ -836,16 +876,18 @@ msgid ""
 "and no matter what you do, do <i>not</i> step on the eastern bank of the "
 "river!"
 msgstr ""
+"Hmm... Fortasse nani constantes nobis usui sint. Agite, et quicquid agetis, "
+"<i>nolite</i> insistere ripae orienti fluminis!"
 
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:533
 msgid "Kalenz must reach the signpost"
-msgstr ""
+msgstr "Necesse est Calenti signum attingere"
 
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:538
 msgid "Defeat Grugl"
-msgstr ""
+msgstr "Grugelium vincere"
 
 #. [objective]: condition=lose
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:550
@@ -857,22 +899,24 @@ msgstr ""
 #: data/campaigns/Legend_of_Wesmere/scenarios/14_Human_Alliance.cfg:426
 #: data/campaigns/Legend_of_Wesmere/scenarios/17_Breaking_the_Siege.cfg:269
 msgid "Death of Olurf"
-msgstr ""
+msgstr "Mors Olurfii"
 
 #. [message]: speaker={SPEAKER_NAME}
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:566
 msgid "We made it. Onwards to Wesmere!"
-msgstr ""
+msgstr "Adiimus. Agite ad Vesmerem!"
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:577
 msgid "Crazy elves! But at least they felled a few trolls before they left."
 msgstr ""
+"Dryadales insanos! Sed prius saltem paucos troglodytarum ceciderunt quam "
+"exierunt."
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:583
 msgid "Crazy elves!"
-msgstr ""
+msgstr "Dryadales insanos!"
 
 #. [message]: id=Grugl
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:650
@@ -2186,7 +2230,7 @@ msgstr ""
 #: data/campaigns/Legend_of_Wesmere/scenarios/12_Revelations.cfg:138
 #: data/campaigns/Legend_of_Wesmere/utils/characters.cfg:72
 msgid "Olurf"
-msgstr ""
+msgstr "Olurfius"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:100
@@ -4926,7 +4970,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/Legend_of_Wesmere/utils/deaths.cfg:156
 msgid "Oh, no! We are too late..."
-msgstr ""
+msgstr "Heu! Seri sumus..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Legend_of_Wesmere/utils/low-macros.cfg:33
