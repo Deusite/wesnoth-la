@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth 1.8\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-03-27 14:22+0200\n"
-"PO-Revision-Date: 2011-04-14 05:13+0100\n"
+"PO-Revision-Date: 2011-04-14 19:18+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -153,9 +153,9 @@ msgstr "Septentrionales"
 msgid "teamname^South"
 msgstr "Australes"
 
+# Alcaic stanzas
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:101
-#, fuzzy
 msgid ""
 "The winds of the dark sky blew so cold,\n"
 "The moon was high, the night was old,\n"
@@ -178,26 +178,26 @@ msgid ""
 "His home to steal the Basilisk’s gold.\n"
 "(inscribed by Flametrooper)"
 msgstr ""
-"Venti caeli obscuri gelide flaverunt\n"
-"Excelsa luna, senex nox apparuerunt\n"
-"Acer draculus qui ausus domum\n"
-"Deserere ut Basilisci raperet aurum.\n"
+"Obscura hiems flat tam gelide acriter\n"
+"Aetate cessa, sunt veteres ruti.\n"
+"Hic draculus ausus domum aurum\n"
+"Deserere est Basilisci ademptum.\n"
 "\n"
-"Nocte obscura caelum ferbuit\n"
-"Omnem ignovit quod didicit\n"
-"Stultus sed acer ad cavernam volavit\n"
-"In ventris eius valde ignis arsit.\n"
+"Serum volatus sub nebulis spuit\n"
+"Fastidienter, quod didicit ruens,\n"
+"Stultus sed acer ad cavernam.\n"
+"Fax penita est Basilisci ibi ardens.\n"
 "\n"
-"Heu ardet numquam postea illa flamma,\n"
-"Quia Basiliscus clamavit voce magna\n"
-"congelitque draculum usque ad ossa \n"
-"et petrificatus manebit in saecula.\n"
+"Heu flamma fervet numquam iterum acrius\n"
+"Quod huc lacerta personuit, silex\n"
+"Hic draculus usque ad medullas\n"
+"Et manet saecula forte factus.\n"
 "\n"
-"Gelide flant hodie venti caeli,\n"
-"Dies sunt veteres, transiunt anni. \n"
-"Hic stat draculus qui ausus domum\n"
-"Deserere ut Basilisci raperet aurum.\n"
-"(a Equite Flammae inscriptum)"
+"Obscura hiems flat tam gelide acriter\n"
+"Aetate cessa, sunt veteres ruti\n"
+"Iam draculus aurum carens et\n"
+"Fortis et invalidus iacet hic.\n"
+"(a Flametroopro inscriptum)"
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:104
@@ -377,7 +377,7 @@ msgstr ""
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:164
 msgid "Bramwythl"
-msgstr "Bramvitl"
+msgstr "Bramvitla"
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:169
@@ -475,7 +475,6 @@ msgstr ""
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:212
-#, fuzzy
 msgid ""
 "Through waves and rocky channels\n"
 "blue and white\n"
@@ -493,19 +492,19 @@ msgid ""
 "\n"
 "(inscribed by MJQ)"
 msgstr ""
-"Per unda et freta saxosa \n"
-"caerulea et alba \n"
-"traxit et trusit aestus \n"
-"et pisces cum planetis loqui didicit \n"
-"argente viridis \n"
-"magica \n"
-"currente ex anima eius in pelles algarum et conchas cochlearum \n"
-"cum caudam et manus torquevit \n"
-"carmina sua misit cucursum pedibus acinatis in harinis \n"
-"et nunc \n"
-"et nunc pausa insolitissima \n"
-"a saeculis \n"
-"oculos non movebit \n"
+"Per unda fretaque saxosa\n"
+"caerulea albaque\n"
+"aestus traxit trusitque\n"
+"et pisces stellas errantes adloqui didicit\n"
+"viridis argenteaque\n"
+"arte magica\n"
+"currens ex anima in pelles algarum et conchas cochlearum\n"
+"manibus caudaque torquente\n"
+"carmina misit cursum in harinis pedibus acutis\n"
+"iam iamque\n"
+"et nunc mora mirabilis\n"
+"saecula\n"
+"oculos non movebat\n"
 "\n"
 "(a MJQ inscriptum)"
 
@@ -520,11 +519,13 @@ msgid ""
 "Cynsaun Province was named for Warrior-Queen Cynsaun the First, who drove "
 "the necromancers from these lands in 961 YW."
 msgstr ""
+"Provincia Cynsaunica sic vocatur ob Reginam Bellatricem I, quae veneficos a "
+"his terris AVC CMLXI depepulit."
 
 #. [multiplayer]: id=multiplayer_2p_Dark_Forecast
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:5
 msgid "2p — Dark Forecast (Survival)"
-msgstr "2l — Augurium Obscurus (Vive)"
+msgstr "2l — Augurium Obscurum (Vive)"
 
 #. [multiplayer]: id=multiplayer_2p_Dark_Forecast
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:8
@@ -592,12 +593,12 @@ msgstr "Humani"
 #. [then]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1386
 msgid "Single player mode — uses the reduced strength spawns."
-msgstr ""
+msgstr "Modus lusoris uni — fluctus minoris vis utitur."
 
 #. [else]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1389
 msgid "Two player mode — uses the full strength spawns."
-msgstr ""
+msgstr "Modus lusorum duorum — fluctus fortissimos utuitur."
 
 #. [objectives]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1409
@@ -617,7 +618,7 @@ msgstr "Duces omnes manus amiserunt"
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1426
 msgid "Dark Forecast — a random survival scenario"
-msgstr ""
+msgstr "Augurium Obscurum — scaenarium supervivendi fortunae"
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1449
@@ -646,11 +647,31 @@ msgid ""
 "<span color='green'>Rhuvaen</span>\n"
 "— WML implementation"
 msgstr ""
+"Necesse est fluctus apparitos superare et principes hostes ultimos vincere.\n"
+"\n"
+"Fluctus apparentes passim fiunt et varii erunt cum Augurium Obscurum ludis.\n"
+"\n"
+"\n"
+"Ad fines boreos, austros et occidentes veniunt — tamen ad fines occidentes "
+"venire solent. Fluctus fere recte apparebunt\n"
+"\n"
+"\n"
+"Tempestas quoque passim vertet, formam chartae mutans.\n"
+"\n"
+"\n"
+"\n"
+"<span color='red'>Augurium Obscurum factum est ab:</span>\n"
+"\n"
+"<span color='green'>jb</span>\n"
+"— forma, cohortes fluctuum et inventio scaenarii\n"
+"\n"
+"<span color='green'>Rhuvaene</span>\n"
+"— usus VML"
 
 #. [message]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1454
 msgid "So this is the accursed valley — a land ours for the taking."
-msgstr ""
+msgstr "Igitur haec vallis maledicta est — terra capenda."
 
 #. [message]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1458
@@ -665,7 +686,7 @@ msgstr ""
 msgid ""
 "Then let us discover what lies in waiting and teach them not to oppose our "
 "claim."
-msgstr ""
+msgstr "Quae latent inveniamus et fac ne postulata nostra negent."
 
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1499
@@ -1007,7 +1028,7 @@ msgstr "3l — Palus Alirocci"
 #: data/multiplayer/scenarios/8p_Mokena_Prairie.cfg:8
 #: data/multiplayer/scenarios/8p_Morituri.cfg:7
 msgid " Recommended setting of 2 gold per village."
-msgstr ""
+msgstr " Est initium consultum II aurorum pro viculo."
 
 #. [multiplayer]: id=multiplayer_Alirok_Marsh
 #: data/multiplayer/scenarios/3p_Alirok_Marsh.cfg:6
@@ -1176,7 +1197,7 @@ msgstr "4l — Rex Collis"
 #: data/multiplayer/scenarios/4p_King_of_the_Hill.cfg:9
 #: data/multiplayer/scenarios/4p_Siege_Castles.cfg:9
 msgid " Recommended setting of 2 gold per village and 150 starting gold."
-msgstr ""
+msgstr " Est initium consultum II aurorum pro viculo et incipio CL aura. "
 
 #. [multiplayer]: id=multiplayer_King_of_the_Hill
 #: data/multiplayer/scenarios/4p_King_of_the_Hill.cfg:9
@@ -1221,7 +1242,7 @@ msgstr "4l — Stagnum"
 #: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:38
 #: data/multiplayer/scenarios/6p_Crusaders_Field.cfg:7
 msgid " Recommended setting of 1 gold per village."
-msgstr ""
+msgstr " Est initium consultum I aurorum pro viculo."
 
 #. [multiplayer]: id=multiplayer_Lagoon
 #: data/multiplayer/scenarios/4p_Lagoon.cfg:6
@@ -1268,7 +1289,7 @@ msgstr "4l — Viae Sicarum"
 #. [multiplayer]: id=multiplayer_Paths_of_Daggers
 #: data/multiplayer/scenarios/4p_Paths_of_Daggers.cfg:9
 msgid " Recommended setting of 2 gold per village, 28 villages."
-msgstr ""
+msgstr " Est initium consultum II aurorum pro viculo, XXVIII viculorum."
 
 #. [multiplayer]: id=multiplayer_Paths_of_Daggers
 #: data/multiplayer/scenarios/4p_Paths_of_Daggers.cfg:9
@@ -1379,9 +1400,8 @@ msgstr "5l — Nemus Metus"
 
 #. [multiplayer]: id=multiplayer_Forest_of_Fear
 #: data/multiplayer/scenarios/5p_Forest_of_Fear.cfg:7
-#, fuzzy
 msgid "In this mixed landscape, five armies battle for supremacy."
-msgstr "In hoc agro mixto contendunt quinque exercitus ut vincant."
+msgstr "In hoc agro vario contendunt quinque exercitus ut vincant."
 
 #. [multiplayer]: id=multiplayer_The_Wilderlands
 #: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:37
