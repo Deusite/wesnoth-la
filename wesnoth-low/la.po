@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2011-04-14 01:38+0100\n"
+"PO-Revision-Date: 2011-04-14 01:44+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: none\n"
 "Language: \n"
@@ -638,7 +638,7 @@ msgstr "Tot sunt. Nobis dedendum est! "
 msgid ""
 "Elves must never surrender to these foul beasts! Who will fight them beside "
 "me?"
-msgstr "Dtyadles numquam bestiis putidis dedere debent? Qui mecum pugnabit?"
+msgstr "Dryadales numquam bestiis putidis dedere debent? Qui mecum pugnabit?"
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:447
@@ -733,7 +733,7 @@ msgstr "Non longe ibitis! Se persequimini!"
 #. [message]: speaker=unit
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:560
 msgid "Curse you, tree-shaggers! We will feed your young to our wolves!"
-msgstr "Cinaedifolii maledicti! lupos nostros cum catulos vestris alemus!"
+msgstr "Cinaedifolii maledicti! lupos nostros cum catulis vestris alemus!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:573
