@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-01-15 11:52+0100\n"
-"PO-Revision-Date: 2011-04-16 05:15+0100\n"
+"PO-Revision-Date: 2011-04-17 16:39+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -593,7 +593,7 @@ msgid ""
 "will have us at a disadvantage; our horses will not maneuver well in the "
 "trees."
 msgstr ""
-"Gaudeo saltem phasmas non necesse esse certare. Sed dryadales nobis "
+"Gaudeo saltem quod sunt nullae phasmae certandae. Sed dryadales nobis "
 "praestent; equi nostri male in his arboribus ibunt. "
 
 #. [message]: speaker=Arne
@@ -1379,12 +1379,12 @@ msgstr "Aio. Dextra ero, et pars laeva eris. Agedum!"
 #. [message]: speaker=Reeve Hoban
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:221
 msgid "I am glad to see you returned."
-msgstr "Felix sum quia te redire."
+msgstr "Gaudeo quod redisti."
 
 #. [message]: speaker=Bjarn
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:225
 msgid "No gladder than I am to be here. But what has happened to Maghre?"
-msgstr "Non felicior quam me vivum. Sed quid Magerhi accidit?"
+msgstr "Non magis quam ego vivus. Sed quid Magerhi accidit?"
 
 #. [message]: speaker=Reeve Hoban
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:229
