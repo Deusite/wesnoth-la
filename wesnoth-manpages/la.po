@@ -315,7 +315,6 @@ msgstr ""
 #. type: TP
 #: ../../doc/man/wesnoth.6:120
 #, no-wrap
-#| msgid "B<--logdomains>"
 msgid "B<--logdomains\\ [filter]>"
 msgstr "B<--logdomains\\ [filter]>"
 
@@ -820,7 +819,6 @@ msgstr "Vide quoque"
 # type: TH
 #. type: Plain text
 #: ../../doc/man/wesnoth.6:288
-#| msgid "wesnothd"
 msgid "B<wesnothd>(6)."
 msgstr "B<wesnothd>(6)."
 
@@ -1620,6 +1618,5 @@ msgstr ""
 # type: TH
 #. type: Plain text
 #: ../../doc/man/wesnothd.6:286
-#| msgid "wesnoth"
 msgid "B<wesnoth>(6)."
 msgstr "B<wesnoth>(6)."
