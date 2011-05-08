@@ -101,7 +101,7 @@ msgstr "Alia"
 #. [entry]
 #: data/campaigns/Two_Brothers/_main.cfg:82
 msgid "And special thanks to everyone else who I forgot to mention."
-msgstr "Et nultas gratias pro omnibus mei oblitiis agitur."
+msgstr "Et multas gratias pro omnibus mei oblitiis agitur."
 
 #. [scenario]: id=01_Rooting_Out_a_Mage
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:4
