@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth Latin 1.2\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-05-05 10:12+0200\n"
-"PO-Revision-Date: 2011-04-18 18:36+0100\n"
+"PO-Revision-Date: 2011-05-11 17:59+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -3226,7 +3226,7 @@ msgstr ""
 #. [unit_type]: id=Arif, race=khalifate
 #: data/core/units/khalifate/Arif.cfg:4
 msgid "Arif"
-msgstr ""
+msgstr "Arif"
 
 #. [unit_type]: id=Arif, race=khalifate
 #: data/core/units/khalifate/Arif.cfg:17
@@ -3241,7 +3241,6 @@ msgstr ""
 #: data/core/units/khalifate/Ghazi.cfg:22
 #: data/core/units/khalifate/Khalid.cfg:22
 #: data/core/units/khalifate/Shuja.cfg:22
-#, fuzzy
 #| msgid "longsword"
 msgid "long sword"
 msgstr "spatha"
@@ -3249,7 +3248,7 @@ msgstr "spatha"
 #. [unit_type]: id=Batal, race=khalifate
 #: data/core/units/khalifate/Batal.cfg:4
 msgid "Batal"
-msgstr ""
+msgstr "Batal"
 
 #. [unit_type]: id=Tineen, race=khalifate
 #. [unit_type]: id=Mufariq, race=khalifate
@@ -3292,14 +3291,13 @@ msgstr ""
 #: data/core/units/khalifate/Rami.cfg:32
 #: data/core/units/khalifate/Saree.cfg:32
 msgid "composite bow"
-msgstr ""
+msgstr "arcus"
 
 #. [unit_type]: id=Elder Falcon, race=falcon
 #: data/core/units/khalifate/Elder_Falcon.cfg:4
-#, fuzzy
 #| msgid "Elder Mage"
 msgid "Elder Falcon"
-msgstr "Magus Vetus"
+msgstr "Falco Vetus"
 
 #. [unit_type]: id=Elder Falcon, race=falcon
 #: data/core/units/khalifate/Elder_Falcon.cfg:20
@@ -3313,39 +3311,39 @@ msgstr ""
 #: data/core/units/khalifate/Elder_Falcon.cfg:34
 #: data/core/units/khalifate/Falcon.cfg:33
 msgid "beak"
-msgstr ""
+msgstr "rostrum"
 
 #. [unit_type]: id=Falcon, race=falcon
 #: data/core/units/khalifate/Falcon.cfg:4
 msgid "Falcon"
-msgstr ""
+msgstr "Falco"
 
 #. [unit_type]: id=Faris, race=khalifate
 #: data/core/units/khalifate/Faris.cfg:4
 msgid "Faris"
-msgstr ""
+msgstr "Faris"
 
 #. [unit_type]: id=Ghazi, race=khalifate
 #: data/core/units/khalifate/Ghazi.cfg:4
 msgid "Ghazi"
-msgstr ""
+msgstr "Ghazi"
 
 #. [attack]: type=impact
 #: data/core/units/khalifate/Ghazi.cfg:34
 #: data/core/units/khalifate/Khalid.cfg:34
 #: data/core/units/khalifate/Shuja.cfg:34
 msgid "shield bash"
-msgstr ""
+msgstr "ictus clipei"
 
 #. [unit_type]: id=Hadaf, race=khalifate
 #: data/core/units/khalifate/Hadaf.cfg:4
 msgid "Hadaf"
-msgstr ""
+msgstr "Hadaf"
 
 #. [unit_type]: id=Hakim, race=khalifate
 #: data/core/units/khalifate/Hakim.cfg:4
 msgid "Hakim"
-msgstr ""
+msgstr "Hakim"
 
 #. [unit_type]: id=Hakim, race=khalifate
 #: data/core/units/khalifate/Hakim.cfg:24
@@ -3357,7 +3355,7 @@ msgstr ""
 #. [unit_type]: id=Jawal, race=khalifate
 #: data/core/units/khalifate/Jawal.cfg:4
 msgid "Jawal"
-msgstr ""
+msgstr "Jawal"
 
 #. [unit_type]: id=Rami, race=khalifate
 #. [unit_type]: id=Saree, race=khalifate
@@ -3376,12 +3374,12 @@ msgstr ""
 #: data/core/units/khalifate/Rami.cfg:23
 #: data/core/units/khalifate/Saree.cfg:23
 msgid "cavalry sword"
-msgstr ""
+msgstr "spatha equester"
 
 #. [unit_type]: id=Jundi, race=khalifate
 #: data/core/units/khalifate/Jundi.cfg:4
 msgid "Jundi"
-msgstr ""
+msgstr "Jundi"
 
 #. [unit_type]: id=Mighwar, race=khalifate
 #. [unit_type]: id=Jundi, race=khalifate
@@ -3397,7 +3395,7 @@ msgstr ""
 #. [unit_type]: id=Khaiyal, race=khalifate
 #: data/core/units/khalifate/Khaiyal.cfg:4
 msgid "Khaiyal"
-msgstr ""
+msgstr "Khaiyal"
 
 #. [unit_type]: id=Khaiyal, race=khalifate
 #: data/core/units/khalifate/Khaiyal.cfg:18
@@ -3410,37 +3408,37 @@ msgstr ""
 #. [unit_type]: id=Khalid, race=khalifate
 #: data/core/units/khalifate/Khalid.cfg:4
 msgid "Khalid"
-msgstr ""
+msgstr "Khalid"
 
 #. [unit_type]: id=Mighwar, race=khalifate
 #: data/core/units/khalifate/Mighwar.cfg:4
 msgid "Mighwar"
-msgstr ""
+msgstr "Mighwar"
 
 #. [unit_type]: id=Monawish, race=khalifate
 #: data/core/units/khalifate/Monawish.cfg:4
 msgid "Monawish"
-msgstr ""
+msgstr "Monawish"
 
 #. [unit_type]: id=Mudafi, race=khalifate
 #: data/core/units/khalifate/Mudafi.cfg:4
 msgid "Mudafi"
-msgstr ""
+msgstr "Mudafi"
 
 #. [unit_type]: id=Mufariq, race=khalifate
 #: data/core/units/khalifate/Mufariq.cfg:4
 msgid "Mufariq"
-msgstr ""
+msgstr "Mufariq"
 
 #. [unit_type]: id=Muharib, race=khalifate
 #: data/core/units/khalifate/Muharib.cfg:4
 msgid "Muharib"
-msgstr ""
+msgstr "Muharib"
 
 #. [unit_type]: id=Naffat, race=khalifate
 #: data/core/units/khalifate/Naffat.cfg:4
 msgid "Naffat"
-msgstr ""
+msgstr "Naffat"
 
 #. [unit_type]: id=Naffat, race=khalifate
 #: data/core/units/khalifate/Naffat.cfg:17
@@ -3455,56 +3453,55 @@ msgstr ""
 #: data/core/units/khalifate/Qatif-al-nar.cfg:22
 #: data/core/units/khalifate/Tineen.cfg:22
 msgid "napalm attack"
-msgstr ""
+msgstr "ictus naphthae"
 
 #. [attack]: type=fire
 #: data/core/units/khalifate/Naffat.cfg:33
 #: data/core/units/khalifate/Qatif-al-nar.cfg:31
 #: data/core/units/khalifate/Tineen.cfg:31
-#, fuzzy
 #| msgid "fire claws"
 msgid "fire arrow"
-msgstr "ungues ignis"
+msgstr "sagitta ignis"
 
 #. [unit_type]: id=Qanas, race=khalifate
 #: data/core/units/khalifate/Qanas.cfg:4
 msgid "Qanas"
-msgstr ""
+msgstr "Qanas"
 
 #. [unit_type]: id=Qatif-al-nar, race=khalifate
 #: data/core/units/khalifate/Qatif-al-nar.cfg:4
 msgid "Qatif-al-nar"
-msgstr ""
+msgstr "Qatif-al-nar"
 
 #. [unit_type]: id=Rami, race=khalifate
 #: data/core/units/khalifate/Rami.cfg:4
 msgid "Rami"
-msgstr ""
+msgstr "Rami"
 
 #. [unit_type]: id=Rasikh, race=khalifate
 #: data/core/units/khalifate/Rasikh.cfg:4
 msgid "Rasikh"
-msgstr ""
+msgstr "Rasikh"
 
 #. [unit_type]: id=Saree, race=khalifate
 #: data/core/units/khalifate/Saree.cfg:4
 msgid "Saree"
-msgstr ""
+msgstr "Saree"
 
 #. [unit_type]: id=Shuja, race=khalifate
 #: data/core/units/khalifate/Shuja.cfg:4
 msgid "Shuja"
-msgstr ""
+msgstr "Shuja"
 
 #. [unit_type]: id=Tabib, race=khalifate
 #: data/core/units/khalifate/Tabib.cfg:4
 msgid "Tabib"
-msgstr ""
+msgstr "Tabib"
 
 #. [unit_type]: id=Tineen, race=khalifate
 #: data/core/units/khalifate/Tineen.cfg:4
 msgid "Tineen"
-msgstr ""
+msgstr "Tineen"
 
 # Fatidica?
 #. [unit_type]: id=Mermaid Diviner, race=merman
