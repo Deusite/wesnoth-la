@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth Latin 1.2\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-05-05 10:12+0200\n"
-"PO-Revision-Date: 2011-05-11 17:59+0100\n"
+"PO-Revision-Date: 2011-05-18 15:50+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -1255,7 +1255,7 @@ msgstr ""
 #. [unit_type]: id=Elvish Marksman, race=elf
 #: data/core/units/elves/Marksman.cfg:4
 msgid "Elvish Marksman"
-msgstr "Dryadalis Florens Arco"
+msgstr "Dryadalis Florens Arcu"
 
 #. [unit_type]: id=Elvish Marksman, race=elf
 #: data/core/units/elves/Marksman.cfg:19
@@ -1287,7 +1287,7 @@ msgstr "arcus longus"
 #. [female]
 #: data/core/units/elves/Marksman.cfg:182
 msgid "female^Elvish Marksman"
-msgstr "Dryadalis Florens Arco"
+msgstr "Dryadalis Florens Arcu"
 
 #. [unit_type]: id=Elvish Marshal, race=elf
 #: data/core/units/elves/Marshal.cfg:4
@@ -1443,7 +1443,7 @@ msgstr ""
 #. [unit_type]: id=Elvish Sharpshooter, race=elf
 #: data/core/units/elves/Sharpshooter.cfg:4
 msgid "Elvish Sharpshooter"
-msgstr "Dryadalis Flos Arci"
+msgstr "Dryadalis Flos Arcus"
 
 #. [unit_type]: id=Elvish Sharpshooter, race=elf
 #: data/core/units/elves/Sharpshooter.cfg:20
@@ -1464,7 +1464,7 @@ msgstr ""
 #. [female]
 #: data/core/units/elves/Sharpshooter.cfg:156
 msgid "female^Elvish Sharpshooter"
-msgstr "Dryadalis Flos Arci"
+msgstr "Dryadalis Flos Arcus"
 
 #. [unit_type]: id=Elvish Shyde, race=elf
 #: data/core/units/elves/Shyde.cfg:4
@@ -3987,7 +3987,7 @@ msgstr "aranea"
 #. [unit_type]: id=Mudcrawler, race=monster
 #: data/core/units/monsters/Mudcrawler.cfg:4
 msgid "Mudcrawler"
-msgstr "Repens Caeno"
+msgstr "Caenirepens"
 
 #. [unit_type]: id=Mudcrawler, race=monster
 #: data/core/units/monsters/Mudcrawler.cfg:21
