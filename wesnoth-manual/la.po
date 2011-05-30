@@ -11,7 +11,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.3.7+svn\n"
-"POT-Creation-Date: 2011-05-05 10:11+0300\n"
+"POT-Creation-Date: 2011-05-30 20:46+0300\n"
 "PO-Revision-Date: 2011-05-08 01:22+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: none\n"
@@ -1081,7 +1081,6 @@ msgstr ""
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:650
-#| msgid "Ctrl+e"
 msgid "Ctrl+s"
 msgstr "Ctrl+s"
 
@@ -1094,7 +1093,6 @@ msgstr "Ludum servare"
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:658
-#| msgid "Ctrl+e"
 msgid "Ctrl+o"
 msgstr "Ctrl+o"
 
@@ -1107,7 +1105,6 @@ msgstr "Ludum restituere"
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:666
-#| msgid "Ctrl+e"
 msgid "Ctrl+p"
 msgstr "Ctrl+p"
 
@@ -1121,7 +1118,6 @@ msgstr ""
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:674
-#| msgid "Ctrl+e"
 msgid "Ctrl+q"
 msgstr "Ctrl+q"
 
@@ -1135,7 +1131,6 @@ msgstr "Ludum exire"
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:682
-#| msgid "Ctrl+e"
 msgid "Ctrl+f"
 msgstr "Ctrl+f"
 
@@ -1148,7 +1143,6 @@ msgstr ""
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:690
-#| msgid "Ctrl-Alt-m"
 msgid "Ctrl+Alt+m"
 msgstr "Ctrl+Alt+m"
 
@@ -1210,7 +1204,6 @@ msgstr ""
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:736
-#| msgid "Ctrl+e"
 msgid "Ctrl+g"
 msgstr "Ctrl+g"
 
@@ -1223,7 +1216,6 @@ msgstr ""
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:750
-#| msgid "Ctrl+e"
 msgid "Ctrl+a"
 msgstr "Ctrl+a"
 
@@ -1247,7 +1239,6 @@ msgstr ""
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:772
-#| msgid "Ctrl+e"
 msgid "Ctrl+j"
 msgstr "Ctrl+j"
 
@@ -1306,7 +1297,6 @@ msgstr "Ad actorem ducentem movere"
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:824
-#| msgid "Shift+c"
 msgid "Shift+s"
 msgstr "Shift+s"
 
@@ -1324,7 +1314,6 @@ msgstr ""
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:844
-#| msgid "Ctrl+e"
 msgid "Ctrl+r"
 msgstr "Ctrl+r"
 
@@ -1338,7 +1327,6 @@ msgstr "Actorem adlegere "
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:852
-#| msgid "Ctrl-Alt-r"
 msgid "Ctrl+Alt+r"
 msgstr "Ctrl+Alt+r"
 
@@ -1363,7 +1351,6 @@ msgstr "Actorem revocare"
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:874
-#| msgid "Ctrl+e"
 msgid "Ctrl+n"
 msgstr "Ctrl+n"
 
@@ -1437,7 +1424,6 @@ msgstr ""
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:928
-#| msgid "Shift+c"
 msgid "Shift+n"
 msgstr "Shift+n"
 
@@ -1450,7 +1436,6 @@ msgstr ""
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:942
-#| msgid "Ctrl+e"
 msgid "Ctrl+v"
 msgstr "Ctrl+v"
 
@@ -1463,7 +1448,6 @@ msgstr ""
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:950
-#| msgid "Ctrl+e"
 msgid "Ctrl+b"
 msgstr "Ctrl+b"
 
@@ -1500,7 +1484,6 @@ msgstr ""
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:980
-#| msgid "Shift-Space"
 msgid "Shift+Space"
 msgstr "Shift+Spatium"
 
@@ -1513,7 +1496,6 @@ msgstr ""
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:988
-#| msgid "Ctrl-Space"
 msgid "Ctrl+Space"
 msgstr "Ctrl+Spatium"
 
@@ -1621,7 +1603,6 @@ msgstr ""
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:1084
-#| msgid "Ctrl+e"
 msgid "Ctrl+m"
 msgstr "Ctrl+m"
 
@@ -1673,7 +1654,6 @@ msgstr ""
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:1128
-#| msgid "Ctrl+e"
 msgid "Ctrl+c"
 msgstr "Ctrl+c"
 
@@ -1709,7 +1689,6 @@ msgstr ""
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: /src/wesnoth/doc/manual/manual.en.xml:1152
-#| msgid "Ctrl+e"
 msgid "Ctrl+l"
 msgstr "Ctrl+l"
 
