@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth 1.8\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-06-18 19:04+0200\n"
-"PO-Revision-Date: 2011-04-14 04:53+0100\n"
+"PO-Revision-Date: 2011-06-21 22:34+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -163,7 +163,7 @@ msgstr "Facilis"
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:46
 msgid "Soldier"
-msgstr ""
+msgstr "Miles"
 
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:47
@@ -175,7 +175,7 @@ msgstr "Naturalis"
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:47
 msgid "Lord"
-msgstr ""
+msgstr "Magnas"
 
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:48
@@ -187,7 +187,7 @@ msgstr "Difficilis"
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:48
 msgid "High Lord"
-msgstr ""
+msgstr "Optimas"
 
 #. [about]
 #: data/campaigns/test_campaign/_main.cfg:52
@@ -5284,7 +5284,7 @@ msgstr "Spectatores"
 
 #: src/multiplayer_create.cpp:92
 msgid "Shuffle sides"
-msgstr ""
+msgstr "Manus mutare"
 
 #: src/multiplayer_create.cpp:95
 msgid "Regenerate"
