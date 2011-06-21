@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-06-18 19:04+0200\n"
-"PO-Revision-Date: 2011-04-18 17:20+0100\n"
+"PO-Revision-Date: 2011-06-21 22:43+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: none\n"
 "Language: \n"
@@ -1079,11 +1079,13 @@ msgid ""
 "behind as they are fully engaged with the defenders, we and they together "
 "might yet defeat them."
 msgstr ""
+"Ingentes catervae in Calianem effundunt! Sed si illos a tergo aggressi "
+"erimus cum manus in defensores conserent, nostri suique etiam una vincamus. "
 
 #. [message]: id=Galtrid
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:881
 msgid "Are you our army’s vanguard? Hurry, for we are sorely pressed here."
-msgstr ""
+msgstr "Antecursoresne estis exercitus? Currite, nam graviter premimur. "
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:885
@@ -1092,6 +1094,8 @@ msgid ""
 "talk later; we must defeat these orcs together, or at least hold them off "
 "long enough for the humans to come to our aid."
 msgstr ""
+"Haudquaquam. Impetum in sedem fugimus. Mox tempus loqui erit; seu opus est "
+"uns orces superare, seu saltem resistere donec homines nobis subvenient."
 
 #. [message]: id=Galtrid
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:889
@@ -1099,11 +1103,13 @@ msgid ""
 "Then you have not heard the ill tidings. King Haldric has broken the treaty. "
 "The humans will not come to our aid!"
 msgstr ""
+"Igitur non nuntius malus tibi relatus est. Rex Haldricus foedus fregit. "
+"Homines non nobis subvenient! "
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:894
 msgid "How can they dare to break the treaty!"
-msgstr ""
+msgstr "Etiam audent foedus frangere?"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:919
@@ -1111,16 +1117,18 @@ msgid ""
 "We have failed to relieve the defenders, and more orcish war-bands are "
 "arriving. All is lost!"
 msgstr ""
+"Defuimus defensoribus succedendis atque plures catervarum appropinquant. "
+"Omnia perdita!"
 
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:928
 msgid "Hold on until turns run out."
-msgstr ""
+msgstr "Donec tempus exit resistere."
 
 #. [message]: id=guard
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:964
 msgid "Hist! Someone is sneaking about in the mist."
-msgstr ""
+msgstr "Silete! Nescioquis in nebula repit."
 
 #. [message]: id=Urudin
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:968
@@ -1129,6 +1137,9 @@ msgid ""
 "little playhouse, and we <i>might</i> spare you. Or, at the very least, we "
 "promise you a quick and painless death."
 msgstr ""
+"Avete, dryadales! Si lapidem tradideritis <i>non</i> modicam cellam vostram "
+"deleamus ac <i>fortasse</i> vobis parcamus, aut saltem vobis mortem sine "
+"mora cruceve pollicemur."
 
 #. [message]: id=Galtrid
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:972
@@ -1137,6 +1148,9 @@ msgid ""
 "citadel of the Ka’lian, for it has stood since before your kind crawled into "
 "sunlight and will endure long after you are forgotten!"
 msgstr ""
+"Quid est ‘lapis’, inepte orcs ac foede? Non etiam te decet arcem Calianem "
+"nominare, nam prius stabat quam genus tuum in lucem repserunt et stabit "
+"vobis oblittatis!"
 
 #. [message]: id=Urudin
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:986
@@ -1144,6 +1158,8 @@ msgid ""
 "We will cram those arrogant words back down your throat before we kill you, "
 "wose-spawned worm of an elf!"
 msgstr ""
+"In gutturem verba superba rursum farciemus antequam vos delemus, vermes "
+"vosigemini dryadalium!"
 
 #. [message]: id=Galtrid
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:1037
@@ -1151,6 +1167,8 @@ msgid ""
 "To arms, elven-kin! They are many, but our army is returning and surely "
 "close at hand. We have but to hold until it arrives!"
 msgstr ""
+"Ad arma, comites dryadales! Etsi plures adsunt, sui revertuntur ac certe in "
+"manibus sunt. Tantum opus est resistere dum redeant!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:1100
@@ -1163,17 +1181,17 @@ msgstr ""
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:1109
 msgid "We won! The Ka’lian is safe!"
-msgstr ""
+msgstr "Superavimus! Calianis tuta est!"
 
 #. [unit]: id=Huraldur, type=Elvish Scout
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:1125
 msgid "Huraldur"
-msgstr ""
+msgstr "Huraldurus"
 
 #. [message]: id=Huraldur
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:1143
 msgid "The elvish treasury is under attack! They need help desperately!"
-msgstr ""
+msgstr "Thesaurus dryadalium oppugnatur! Iam iam auxilio egent!"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian_under_Attack.cfg:1147
