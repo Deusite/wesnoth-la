@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth 1.8\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-06-18 19:04+0200\n"
-"PO-Revision-Date: 2011-05-08 01:17+0100\n"
+"PO-Revision-Date: 2011-06-21 22:40+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -239,10 +239,9 @@ msgstr "Magnus Arbor"
 
 #. [terrain_type]: id=great_tree_dead
 #: data/core/terrain.cfg:422
-#, fuzzy
 #| msgid "Great Tree"
 msgid "Dead Great Tree"
-msgstr "Magnus Arbor"
+msgstr "Magnus Arbor Mortuus"
 
 #. [terrain_type]: id=tropical_forest
 #: data/core/terrain.cfg:432
@@ -2888,7 +2887,7 @@ msgstr "Error"
 
 #: src/gui/dialogs/mp_change_control.cpp:244
 msgid "Side $side"
-msgstr ""
+msgstr "Manus $side"
 
 #: src/gui/dialogs/mp_create_game.cpp:103
 msgid "Load Game..."
