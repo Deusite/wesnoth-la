@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth 1.8\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-06-18 19:04+0200\n"
-"PO-Revision-Date: 2011-07-06 23:45+0100\n"
+"PO-Revision-Date: 2011-07-07 00:53+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -961,7 +961,7 @@ msgstr ""
 #: data/gui/default/window/addon_connect.cfg:89
 #: data/gui/default/window/mp_connect.cfg:90
 msgid "Server:"
-msgstr "Servatrum: "
+msgstr "Servatrum:"
 
 #. [button]: id=update_addons
 #: data/gui/default/window/addon_connect.cfg:145
@@ -1016,22 +1016,22 @@ msgstr "Vetare"
 #. [label]
 #: data/gui/default/window/addon_description.cfg:88
 msgid "Author:"
-msgstr "Auctor: "
+msgstr "Auctor:"
 
 #. [label]
 #: data/gui/default/window/addon_description.cfg:118
 msgid "Version:"
-msgstr "Versio: "
+msgstr "Versio:"
 
 #. [label]
 #: data/gui/default/window/addon_description.cfg:149
 msgid "Size:"
-msgstr "Magnitudo: "
+msgstr "Magnitudo:"
 
 #. [label]
 #: data/gui/default/window/addon_description.cfg:180
 msgid "Description:"
-msgstr "Descriptio: "
+msgstr "Descriptio:"
 
 #. [scroll_label]: id=description
 #: data/gui/default/window/addon_description.cfg:194
@@ -1041,7 +1041,7 @@ msgstr "Nulla descriptio ad manum."
 #. [label]
 #: data/gui/default/window/addon_description.cfg:212
 msgid "Translations:"
-msgstr "Translationes: "
+msgstr "Translationes:"
 
 #. [scroll_label]: id=translations
 #: data/gui/default/window/addon_description.cfg:226
@@ -1082,12 +1082,12 @@ msgstr "Confirmare"
 #. [label]: id=title
 #: data/gui/default/window/campaign_difficulty.cfg:57
 msgid "Difficulty"
-msgstr "Difficultas: "
+msgstr "Difficultas"
 
 #. [scroll_label]: id=message
 #: data/gui/default/window/campaign_difficulty.cfg:77
 msgid "Select difficulty level:"
-msgstr "Difficultatem eligere: "
+msgstr "Difficultatem eligere:"
 
 #. [label]: id=lblTitle
 #: data/gui/default/window/data_manage.cfg:50
@@ -1146,7 +1146,7 @@ msgstr "Titulum Ponere"
 #. [label]
 #: data/gui/default/window/edit_label.cfg:72
 msgid "Label:"
-msgstr "Titulus: "
+msgstr "Titulus:"
 
 #. [toggle_button]: id=team_only_toggle
 #: data/gui/default/window/edit_label.cfg:110
@@ -1185,13 +1185,13 @@ msgstr "Charta Nova"
 #. [label]
 #: data/gui/default/window/editor_new_map.cfg:54 src/mapgen_dialog.cpp:121
 msgid "Width:"
-msgstr "Amplitudo: "
+msgstr "Amplitudo:"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #: data/gui/default/window/editor_new_map.cfg:81 src/mapgen_dialog.cpp:122
 msgid "Height:"
-msgstr "Altitudo: "
+msgstr "Altitudo:"
 
 #. [button]: id=ok
 #: data/gui/default/window/editor_new_map.cfg:108
@@ -1208,22 +1208,22 @@ msgstr "Magnitudinem Chartae Mutare"
 #. [label]
 #: data/gui/default/window/editor_resize_map.cfg:54
 msgid "New width:"
-msgstr "Amplitudo nova: "
+msgstr "Amplitudo nova:"
 
 #. [label]
 #: data/gui/default/window/editor_resize_map.cfg:78
 msgid "Old width:"
-msgstr "Amplitudo antiqua: "
+msgstr "Amplitudo antiqua:"
 
 #. [label]
 #: data/gui/default/window/editor_resize_map.cfg:102
 msgid "New height:"
-msgstr "Altitudo nova: "
+msgstr "Altitudo nova:"
 
 #. [label]
 #: data/gui/default/window/editor_resize_map.cfg:126
 msgid "Old height:"
-msgstr "Altitudo antiqua: "
+msgstr "Altitudo antiqua:"
 
 #. [label]
 #: data/gui/default/window/editor_resize_map.cfg:153
@@ -1273,17 +1273,17 @@ msgstr ""
 #. [label]
 #: data/gui/default/window/editor_settings.cfg:128
 msgid "Red:"
-msgstr "Ruber: "
+msgstr "Ruber:"
 
 #. [label]
 #: data/gui/default/window/editor_settings.cfg:154
 msgid "Green:"
-msgstr "Viridis: "
+msgstr "Viridis:"
 
 #. [label]
 #: data/gui/default/window/editor_settings.cfg:180
 msgid "Blue:"
-msgstr "Caeruleus: "
+msgstr "Caeruleus:"
 
 #. [toggle_button]: id=use_mdi
 #: data/gui/default/window/editor_settings.cfg:216
@@ -1436,7 +1436,7 @@ msgstr "Ludum Servare"
 #: data/gui/default/window/game_save_message.cfg:90
 #: data/gui/default/window/game_save_oos.cfg:91
 msgid "Name:"
-msgstr "Nomen: "
+msgstr "Nomen:"
 
 #. [label]: id=lblMessage
 #: data/gui/default/window/game_save_message.cfg:60
@@ -1522,7 +1522,7 @@ msgstr "Lingua"
 #. [label]
 #: data/gui/default/window/language_selection.cfg:58
 msgid "Choose your preferred language:"
-msgstr "Opta linguam praelatam: "
+msgstr "Opta linguam praelatam:"
 
 #. [button]: id=ok
 #: data/gui/default/window/language_selection.cfg:126
@@ -1633,7 +1633,7 @@ msgstr "Atrium Lusores"
 #. [label]
 #: data/gui/default/window/lobby_main.cfg:576
 msgid "Filter:"
-msgstr "Filtrum:"
+msgstr "Velamen:"
 
 #. [toggle_button]: id=filter_with_friends
 #: data/gui/default/window/lobby_main.cfg:587
@@ -1734,7 +1734,7 @@ msgstr ""
 #. [label]
 #: data/gui/default/window/lobby_player_info.cfg:155
 msgid "Kick / ban reason:"
-msgstr ""
+msgstr "Causa fugandi / deportandi:"
 
 #. [button]: id=kick
 #: data/gui/default/window/lobby_player_info.cfg:168
@@ -1745,7 +1745,7 @@ msgstr "Fugare"
 #. [label]
 #: data/gui/default/window/lobby_player_info.cfg:175
 msgid "Ban time:"
-msgstr "Tempus fugandi: "
+msgstr "Tempus fugandi:"
 
 #. [button]: id=kick_ban
 #: data/gui/default/window/lobby_player_info.cfg:188
@@ -1821,12 +1821,12 @@ msgstr ""
 #. [label]
 #: data/gui/default/window/mp_cmd_wrapper.cfg:271
 msgid "Reason:"
-msgstr "Causa: "
+msgstr "Causa:"
 
 #. [label]
 #: data/gui/default/window/mp_cmd_wrapper.cfg:323
 msgid "Time:"
-msgstr "Tempus: "
+msgstr "Tempus:"
 
 #. [button]: id=status
 #: data/gui/default/window/mp_cmd_wrapper.cfg:374
@@ -2172,7 +2172,7 @@ msgstr "Stirps"
 
 #: src/filechooser.cpp:76
 msgid "File: "
-msgstr "Fasciculus:"
+msgstr "Fasciculus: "
 
 #: src/filechooser.cpp:79
 msgid "Delete File"
@@ -2323,9 +2323,8 @@ msgid "Hotkeys"
 msgstr "Claves Notarum"
 
 #: src/game_preferences_display.cpp:192
-#, fuzzy
 msgid "Reverse Time Graphics"
-msgstr "Imagines Tempi Invertere"
+msgstr "Imagines Temporis Invertere"
 
 #: src/game_preferences_display.cpp:194
 msgid "Sound effects"
@@ -2362,11 +2361,11 @@ msgstr "Animationes Actorum Otiosorum Monstrare"
 
 #: src/game_preferences_display.cpp:206
 msgid "Music Volume:"
-msgstr "Magnitudo Musicae: "
+msgstr "Magnitudo Musicae:"
 
 #: src/game_preferences_display.cpp:206
 msgid "SFX Volume:"
-msgstr "Magnitudo Effectus Soni: "
+msgstr "Magnitudo Effectus Soni:"
 
 #: src/game_preferences_display.cpp:207
 #, fuzzy
@@ -2375,7 +2374,7 @@ msgstr "Magnitudo (Interface) Soni:"
 
 #: src/game_preferences_display.cpp:208
 msgid "Bell Volume:"
-msgstr "Magnitudo Tintinabuli: "
+msgstr "Magnitudo Tintinabuli:"
 
 #: src/game_preferences_display.cpp:208
 msgid "Scroll Speed:"
@@ -2387,7 +2386,7 @@ msgstr ""
 
 #: src/game_preferences_display.cpp:212
 msgid "Frequency:"
-msgstr "Crebritas: "
+msgstr "Crebritas:"
 
 #: src/game_preferences_display.cpp:233
 #, fuzzy
@@ -3455,27 +3454,27 @@ msgstr "Genitor Chartarum"
 
 #: src/mapgen_dialog.cpp:120
 msgid "Players:"
-msgstr "Lusores: "
+msgstr "Lusores:"
 
 #: src/mapgen_dialog.cpp:123
 msgid "Number of Hills:"
-msgstr "Numerus Collium: "
+msgstr "Numerus Collium:"
 
 #: src/mapgen_dialog.cpp:124
 msgid "Max Hill Size:"
-msgstr "Maxima Magnitudo Collum: "
+msgstr "Maxima Magnitudo Collum:"
 
 #: src/mapgen_dialog.cpp:125
 msgid "Villages:"
-msgstr "Viculi: "
+msgstr "Viculi:"
 
 #: src/mapgen_dialog.cpp:126
 msgid "Castle Size:"
-msgstr "Magnitudo Castelli: "
+msgstr "Magnitudo Castelli:"
 
 #: src/mapgen_dialog.cpp:127
 msgid "Landform:"
-msgstr "Forma terrae: "
+msgstr "Forma terrae:"
 
 #: src/mapgen_dialog.cpp:249
 msgid "Roads Between Castles"
