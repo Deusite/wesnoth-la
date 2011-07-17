@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth-editor 1.2\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-07-09 09:00+0200\n"
-"PO-Revision-Date: 2011-04-14 04:31+0100\n"
+"PO-Revision-Date: 2011-07-16 19:25+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -40,7 +40,7 @@ msgstr "Radius II Hexagonorum"
 #. [brush]
 #: data/core/editor/brushes.cfg:55
 msgid "Hex Line NW-SE"
-msgstr "Agmen hexagonorum OS-OM"
+msgstr "Agmen hexagonorum OS-OA"
 
 #. [editor_group]: id=all
 #: data/core/editor/terrain-groups.cfg:10
@@ -116,35 +116,30 @@ msgstr "specialis"
 #. [editor_tool_hint]: id=editor-tool-fill
 #. [menu]: id=draw_button_editor
 #. [menu]: id=flood_button_editor
-#: data/core/editor/tool-hints.cfg:7 data/core/editor/tool-hints.cfg:13
-#: data/themes/editor.cfg:179 data/themes/editor.cfg:192
-msgid ""
-"Use left/right mouse button to draw fore-/background terrain. Hold Shift to "
-"paint base layer only. Ctrl+click to sample terrain under cursor."
+#: data/core/editor/tool-hints.cfg:7
+#: data/core/editor/tool-hints.cfg:13
+#: data/themes/editor.cfg:179
+#: data/themes/editor.cfg:192
+msgid "Use left/right mouse button to draw fore-/background terrain. Hold Shift to paint base layer only. Ctrl+click to sample terrain under cursor."
 msgstr ""
 
 #. [editor_tool_hint]: id=editor-tool-select
 #. [menu]: id=select_button_editor
-#: data/core/editor/tool-hints.cfg:19 data/themes/editor.cfg:214
-msgid ""
-"Left mouse button selects, right deselects. Hold Shift for magic-wand "
-"selection of tiles with same terrain."
+#: data/core/editor/tool-hints.cfg:19
+#: data/themes/editor.cfg:214
+msgid "Left mouse button selects, right deselects. Hold Shift for magic-wand selection of tiles with same terrain."
 msgstr ""
 
 #. [editor_tool_hint]: id=editor-tool-starting-position
 #. [menu]: id=start_position_button_editor
-#: data/core/editor/tool-hints.cfg:25 data/themes/editor.cfg:203
-msgid ""
-"Left mouse button displays player selection, right clears. Number keys "
-"scroll to the starting position, alt+number sets respective starting "
-"position under cursor, delete clears."
+#: data/core/editor/tool-hints.cfg:25
+#: data/themes/editor.cfg:203
+msgid "Left mouse button displays player selection, right clears. Number keys scroll to the starting position, alt+number sets respective starting position under cursor, delete clears."
 msgstr ""
 
 #. [editor_tool_hint]: id=editor-paste
 #: data/core/editor/tool-hints.cfg:30
-msgid ""
-"Click to paste, zoom out for more accuracy when pasting large areas. Use the "
-"edit menu to transform the clipboard (rotate, mirror)."
+msgid "Click to paste, zoom out for more accuracy when pasting large areas. Use the edit menu to transform the clipboard (rotate, mirror)."
 msgstr ""
 
 #. [menu]: id=menu-editor-file
@@ -180,7 +175,8 @@ msgstr "Chartographiam Exire"
 msgid "Fatal error"
 msgstr "Error gravis"
 
-#: src/editor/editor_controller.cpp:303 src/editor/editor_controller.cpp:1088
+#: src/editor/editor_controller.cpp:303
+#: src/editor/editor_controller.cpp:1088
 msgid "(New Map)"
 msgstr "(Charta Nova)"
 
@@ -190,21 +186,13 @@ msgstr "Itane vis exire?"
 
 #: src/editor/editor_controller.cpp:311
 #, fuzzy
-msgid ""
-"Do you really want to quit? Changes in the map since the last save will be "
-"lost."
-msgstr ""
-"Visne exire? Omnes commutationes in tabula geographica nonservatae "
-"amittentur."
+msgid "Do you really want to quit? Changes in the map since the last save will be lost."
+msgstr "Visne exire? Omnes commutationes in tabula geographica nonservatae amittentur."
 
 #: src/editor/editor_controller.cpp:313
 #, fuzzy
-msgid ""
-"Do you really want to quit? The following maps were modified and all changes "
-"since the last save will be lost:"
-msgstr ""
-"Visne exire? Istae tabulae geographicae commutabantur et omnes commutationes "
-"nonservatae amittentur: "
+msgid "Do you really want to quit? The following maps were modified and all changes since the last save will be lost:"
+msgstr "Visne exire? Istae tabulae geographicae commutabantur et omnes commutationes nonservatae amittentur: "
 
 #: src/editor/editor_controller.cpp:318
 msgid "Quit"
@@ -217,13 +205,12 @@ msgstr "Tempus initium non repertum est."
 
 #: src/editor/editor_controller.cpp:404
 #, fuzzy
-msgid ""
-"Do you want to discard all changes you made to the map since the last save?"
+msgid "Do you want to discard all changes you made to the map since the last save?"
 msgstr "Visne repudiare omnes commutationes nonservatas?"
 
 #: src/editor/editor_controller.cpp:404
 msgid "Unsaved Changes"
-msgstr "Mutationes non servatae"
+msgstr "Mutationes Non Servatae"
 
 #: src/editor/editor_controller.cpp:426
 msgid "Choose a Map to Open"
@@ -243,7 +230,8 @@ msgstr "|Charta iam adest. Visne eam superscribere?"
 msgid "No random map generators found."
 msgstr "Fabricatores tabulas geographicas fortuitas non reperti sunt."
 
-#: src/editor/editor_controller.cpp:493 src/editor/editor_controller.cpp:497
+#: src/editor/editor_controller.cpp:493
+#: src/editor/editor_controller.cpp:497
 msgid "Map creation failed."
 msgstr "Chartam creare male evenit."
 
@@ -253,22 +241,22 @@ msgid "Choose a mask to apply"
 msgstr "|Chartam Restituendam Eligire"
 
 #: src/editor/editor_controller.cpp:519
-#, fuzzy
 msgid "Error loading mask"
-msgstr "|Error cum persona petivisse   eveniebat. ???"
+msgstr "Error dum velamen arcessitur"
 
 #: src/editor/editor_controller.cpp:534
 msgid "Choose target map"
 msgstr "Chartam deligere."
 
-#: src/editor/editor_controller.cpp:541 src/editor/editor_controller.cpp:731
-#, fuzzy
+#: src/editor/editor_controller.cpp:541
+#: src/editor/editor_controller.cpp:731
 msgid "Error loading map"
-msgstr "|Error cum tabulam geographicam ...???"
+msgstr "Error dum charta arcessitur"
 
-#: src/editor/editor_controller.cpp:645 src/editor/editor_controller.cpp:687
+#: src/editor/editor_controller.cpp:645
+#: src/editor/editor_controller.cpp:687
 msgid "This map is already open."
-msgstr "Chartam iam aperta est."
+msgstr "Charta iam aperta est."
 
 #: src/editor/editor_controller.cpp:666
 msgid "Map saved."
@@ -278,7 +266,8 @@ msgstr "Charta servata est."
 msgid "Loaded embedded map data"
 msgstr ""
 
-#: src/editor/editor_controller.cpp:711 src/editor/editor_controller.cpp:725
+#: src/editor/editor_controller.cpp:711
+#: src/editor/editor_controller.cpp:725
 msgid "Map loaded from scenario"
 msgstr "Charta ab scaenario adepta"
 
@@ -302,7 +291,7 @@ msgstr "Reponere"
 
 #: src/editor/editor_controller.cpp:1126
 msgid "Can’t Redo"
-msgstr "Nequit Reddere"
+msgstr "Nequit Reponere"
 
 #: src/editor/editor_controller.cpp:1131
 msgid "Auto-update Terrain Transitions: Yes"
@@ -316,7 +305,8 @@ msgstr ""
 msgid "Auto-update Terrain Transitions: No"
 msgstr ""
 
-#: src/editor/editor_map.cpp:150 src/editor/mouse_action.cpp:429
+#: src/editor/editor_map.cpp:150
+#: src/editor/mouse_action.cpp:429
 msgid "Player"
 msgstr "Lusor"
 
@@ -335,21 +325,19 @@ msgstr ""
 # Eminentia
 #: src/editor/editor_palettes.cpp:520
 msgid "FG: "
-msgstr "EM:"
+msgstr "EM: "
 
 # Umbra
 #: src/editor/editor_palettes.cpp:521
 msgid "BG: "
-msgstr "UM:"
+msgstr "UM: "
 
 #: src/editor/map_context.cpp:71
 msgid "File not found"
 msgstr "Fasciculus non inventus est"
 
 #: src/editor/map_context.cpp:85
-msgid ""
-"The map file looks like a scenario, but the map_data value does not point to "
-"an existing file"
+msgid "The map file looks like a scenario, but the map_data value does not point to an existing file"
 msgstr ""
 
 #: src/editor/map_context.cpp:100
@@ -373,11 +361,7 @@ msgid "Choose player"
 msgstr "Lusorem eligere"
 
 #: src/editor/mouse_action.cpp:434
-msgid ""
-"Which player should start here? You can use alt and a number key to set the "
-"starting position for a player, and del to clear the starting position under "
-"the cursor. Pressing a number key by itself will scroll to that player’s "
-"starting position."
+msgid "Which player should start here? You can use alt and a number key to set the starting position for a player, and del to clear the starting position under the cursor. Pressing a number key by itself will scroll to that player’s starting position."
 msgstr ""
 
 #: src/gui/dialogs/editor_settings.cpp:147
