@@ -2,39 +2,38 @@
 # Script to run msgcat on all of the po files
 #
 
-E=27
+td=( wesnoth
+wesnoth-anl
+wesnoth-aoi
+wesnoth-did
+wesnoth-dm
+wesnoth-dw
+wesnoth-editor
+wesnoth-ei
+wesnoth-help
+wesnoth-httt
+wesnoth-l
+wesnoth-lib
+wesnoth-low
+wesnoth-manpages
+wesnoth-manual
+wesnoth-multiplayer
+wesnoth-nr
+wesnoth-sof
+wesnoth-sotbe
+wesnoth-tb
+wesnoth-test
+wesnoth-thot
+wesnoth-trow
+wesnoth-tsg
+wesnoth-tutorial
+wesnoth-units
+wesnoth-utbs )
 
-td[1]=wesnoth
-td[2]=wesnoth-anl
-td[3]=wesnoth-aoi
-td[4]=wesnoth-did
-td[5]=wesnoth-dm
-td[6]=wesnoth-dw
-td[7]=wesnoth-editor
-td[8]=wesnoth-ei
-td[9]=wesnoth-help
-td[10]=wesnoth-httt
-td[11]=wesnoth-l
-td[12]=wesnoth-lib
-td[13]=wesnoth-low
-td[14]=wesnoth-manpages
-td[15]=wesnoth-manual
-td[16]=wesnoth-multiplayer
-td[17]=wesnoth-nr
-td[18]=wesnoth-sof
-td[19]=wesnoth-sotbe
-td[20]=wesnoth-tb
-td[21]=wesnoth-test
-td[22]=wesnoth-thot
-td[23]=wesnoth-trow
-td[24]=wesnoth-tsg
-td[25]=wesnoth-tutorial
-td[26]=wesnoth-units
-td[27]=wesnoth-utbs
 
-i=0
-while [ "$i" -lt "$E" ]
+for i in "${td[@]}"
 do
-let "i++"
-msgcat ${td[$i]}/la.po -o ${td[$i]}/la.po
+msgcat $i/la.po -o $i/la.po
+#echo msgcat $i/la.po -o $i/la.po
+#echo $i
 done
