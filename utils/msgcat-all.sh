@@ -3,7 +3,8 @@
 # Script to run msgcat on all of the po files
 #
 
-td=( wesnoth
+td=(
+wesnoth
 wesnoth-anl
 wesnoth-aoi
 wesnoth-did
