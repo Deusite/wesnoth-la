@@ -1,3 +1,4 @@
+#! /bin/bash
 #
 # Script to run msgcat on all of the po files
 #
