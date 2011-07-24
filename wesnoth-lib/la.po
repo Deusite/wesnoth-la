@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Wesnoth 1.8\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-07-09 09:00+0200\n"
+"POT-Creation-Date: 2011-07-24 18:18+0200\n"
 "PO-Revision-Date: 2011-07-11 23:37+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
@@ -121,7 +121,6 @@ msgstr "Herbae"
 #. [terrain_type]: id=road
 #: data/core/terrain.cfg:174 data/core/terrain.cfg:184
 #: data/core/terrain.cfg:194
-#| msgid "Dry Dirt"
 msgid "Dirt"
 msgstr "Humus"
 
@@ -178,7 +177,6 @@ msgstr "Nix"
 
 #. [terrain_type]: id=desert
 #: data/core/terrain.cfg:260
-#| msgid "Desert Keep"
 msgid "Desert"
 msgstr "Locus Desertus"
 
@@ -495,7 +493,6 @@ msgstr "Colles Silvestium Niveorum Diversorum"
 
 #. [terrain_type]
 #: data/core/terrain.cfg:878
-#| msgid "Basic Wooden Floor"
 msgid "Wooden Floor"
 msgstr "Solum Ligneum"
 
@@ -624,7 +621,6 @@ msgstr "Montes Impervii Nivei"
 #. [terrain_type]: id=cavewall_earthy_hewn
 #: data/core/terrain.cfg:1117 data/core/terrain.cfg:1128
 #: data/core/terrain.cfg:1139 data/core/terrain.cfg:1150
-#| msgid "Hewn Cave Wall"
 msgid "Cave Wall"
 msgstr "Murus Cavernae"
 
@@ -926,7 +922,6 @@ msgstr "Castellum Nanorum"
 #. [terrain_type]: id=sand_castle_ruin
 #: data/core/terrain.cfg:1692 data/core/terrain.cfg:1704
 #: data/core/terrain.cfg:1717 data/core/terrain.cfg:1742
-#| msgid "Ruined Human Castle"
 msgid "Ruined Castle"
 msgstr "Castellum Rutus"
 
@@ -1024,7 +1019,6 @@ msgstr "Arx Castelli Nanorum"
 #. [terrain_type]: id=desert_keep_ruined
 #: data/core/terrain.cfg:1874 data/core/terrain.cfg:1887
 #: data/core/terrain.cfg:1900 data/core/terrain.cfg:1926
-#| msgid "Ruined Desert Keep"
 msgid "Ruined Keep"
 msgstr "Arx Rutum"
 
@@ -1075,7 +1069,6 @@ msgstr "Velamen Arcis"
 #: data/core/terrain.cfg:2020 data/core/terrain.cfg:2032
 #: data/core/terrain.cfg:2046 data/core/terrain.cfg:2057
 #: data/core/terrain.cfg:2069
-#| msgid "Wooden Bridge"
 msgid "Bridge"
 msgstr "Pons"
 
@@ -1913,7 +1906,6 @@ msgstr "De Amicis — "
 
 #. [button]: id=start_whisper
 #: data/gui/default/window/lobby_player_info.cfg:70
-#| msgid "Send private message"
 msgid "Send Private Message"
 msgstr "Nuntium Privatum Mittere"
 
@@ -1933,7 +1925,6 @@ msgstr "Ut Negelctus Addere"
 
 #. [button]: id=remove_from_list
 #: data/gui/default/window/lobby_player_info.cfg:117
-#| msgid "Remove from list"
 msgid "Remove from List"
 msgstr "Ex Tabulam Movere"
 
@@ -1980,7 +1971,6 @@ msgstr "Nomen"
 
 #. [label]
 #: data/gui/default/window/mp_change_control.cfg:194
-#| msgid "Change control"
 msgid "Change Control"
 msgstr "Imperium Dare"
 
@@ -2006,13 +1996,11 @@ msgstr "Tabulam Amicorum/Neglectorum"
 
 #. [button]: id=add_friend
 #: data/gui/default/window/mp_cmd_wrapper.cfg:170
-#| msgid "Add As Friend"
 msgid "Add as Friend"
 msgstr "Ut Amicum Addere"
 
 #. [button]: id=add_ignore
 #: data/gui/default/window/mp_cmd_wrapper.cfg:185
-#| msgid "Add As Ignore"
 msgid "Add as Ignore"
 msgstr "Ut Negelctum Addere"
 
@@ -2562,7 +2550,6 @@ msgid "Show Unit Idle Animations"
 msgstr "Animationes Actorum Otiosorum Monstrare"
 
 #: src/game_preferences_display.cpp:205
-#| msgid "Show Unit Idle Animations"
 msgid "Show Unit Standing Animations"
 msgstr "Animationes Actorum Stantium Monstrare"
 
@@ -2572,7 +2559,6 @@ msgstr "Chartam Animare"
 
 #: src/game_preferences_display.cpp:208 src/game_preferences_display.cpp:209
 #: src/game_preferences_display.cpp:210 src/game_preferences_display.cpp:211
-#| msgid "SFX Volume:"
 msgid "Volume:"
 msgstr "Magnitudo:"
 
@@ -2890,29 +2876,29 @@ msgstr "Nulli modi visivi noti.  Forsitan potes mutare inter lusum existens."
 msgid "Find $filename server binary to host networked games"
 msgstr ""
 
-#: src/gui/auxiliary/canvas.cpp:566
+#: src/gui/auxiliary/canvas.cpp:595
 msgid "Line doesn't fit on canvas."
 msgstr ""
 
-#: src/gui/auxiliary/canvas.cpp:703
+#: src/gui/auxiliary/canvas.cpp:734
 msgid "Rectangle doesn't fit on canvas."
 msgstr ""
 
-#: src/gui/auxiliary/canvas.cpp:835 src/gui/auxiliary/canvas.cpp:840
-#: src/gui/auxiliary/canvas.cpp:845 src/gui/auxiliary/canvas.cpp:851
+#: src/gui/auxiliary/canvas.cpp:867 src/gui/auxiliary/canvas.cpp:872
+#: src/gui/auxiliary/canvas.cpp:877 src/gui/auxiliary/canvas.cpp:883
 msgid "Circle doesn't fit on canvas."
 msgstr ""
 
-#: src/gui/auxiliary/canvas.cpp:1033 src/gui/auxiliary/canvas.cpp:1040
-#: src/gui/auxiliary/canvas.cpp:1050 src/gui/auxiliary/canvas.cpp:1057
+#: src/gui/auxiliary/canvas.cpp:1069 src/gui/auxiliary/canvas.cpp:1076
+#: src/gui/auxiliary/canvas.cpp:1086 src/gui/auxiliary/canvas.cpp:1093
 msgid "Image doesn't fit on canvas."
 msgstr ""
 
-#: src/gui/auxiliary/canvas.cpp:1262
+#: src/gui/auxiliary/canvas.cpp:1301
 msgid "Text has a font size of 0."
 msgstr ""
 
-#: src/gui/auxiliary/canvas.cpp:1331
+#: src/gui/auxiliary/canvas.cpp:1370
 msgid "Text doesn't start on canvas."
 msgstr ""
 
@@ -3098,16 +3084,16 @@ msgstr "Versio"
 msgid "Mandatory widget '$id' hasn't been defined."
 msgstr ""
 
-#: src/gui/widgets/settings.cpp:423
+#: src/gui/widgets/settings.cpp:430
 msgid ""
 "Widget definition '$definition' doesn't contain the definition for '$id'."
 msgstr ""
 
-#: src/gui/widgets/settings.cpp:484
+#: src/gui/widgets/settings.cpp:491
 msgid "No default gui defined."
 msgstr ""
 
-#: src/gui/widgets/settings.cpp:510
+#: src/gui/widgets/settings.cpp:521
 msgid "No state or draw section defined."
 msgstr ""
 
