@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.2.0\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-06-15 11:45+0200\n"
+"POT-Creation-Date: 2011-07-24 18:18+0200\n"
 "PO-Revision-Date: 2011-07-17 17:36+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
@@ -3758,7 +3758,6 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:31
-#| msgid "Earl Lanbec'h"
 msgid "Defeat Earl Lanbec’h"
 msgstr "Comitem Lanbecum vincere"
 

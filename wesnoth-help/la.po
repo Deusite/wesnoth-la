@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Wesnoth 1.8\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-05-30 20:47+0200\n"
+"POT-Creation-Date: 2011-07-24 18:18+0200\n"
 "PO-Revision-Date: 2011-07-16 19:01+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
@@ -5048,19 +5048,16 @@ msgstr "Voses"
 
 #. [race]: id=khalifate
 #: data/core/units.cfg:324
-#| msgid "race^Human"
 msgid "race^Khalifate Human"
 msgstr "Vir Khalifate"
 
 #. [race]: id=khalifate
 #: data/core/units.cfg:325
-#| msgid "race+female^Human"
 msgid "race+female^Khalifate Human"
 msgstr "Femina Khalifate"
 
 #. [race]: id=khalifate
 #: data/core/units.cfg:326
-#| msgid "race+plural^Mechanical"
 msgid "race+plural^Khalifate"
 msgstr "Khalifate"
 
