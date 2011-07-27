@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-07-09 09:00+0200\n"
-"PO-Revision-Date: 2011-07-18 18:40+0100\n"
+"PO-Revision-Date: 2011-07-25 19:54+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: none\n"
 "Language: \n"
@@ -45,8 +45,9 @@ msgid ""
 "\n"
 msgstr ""
 "Fabella Calentis, Optimatis qui populum post secundam incursionem "
-"Continentis Magni excitavit et notissimum heroa omnium saeclorum Dryadalium "
+"Continentis Magni excitavit et notissimus heros omnium saeclorum Dryadalium "
 "factus est.\n"
+"\n"
 
 #. [campaign]: id=LOW
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:91
@@ -1338,8 +1339,8 @@ msgid ""
 "More elves are coming! Too late, we’ve taken all your gold and we’ll get "
 "more gold from the orcs for helping them out!"
 msgstr ""
-"Plures dryadalium veniunt! Serum est, tota aura cepimus ac orcibus iuvando "
-"plures adipiscemur! "
+"Plures dryadalium veniunt! Serum est, omne aurum cepimus ac orcibus iuvando "
+"plus adipiscemur! "
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/04_The_Elvish_Treasury.cfg:358
@@ -1418,8 +1419,8 @@ msgid ""
 "We have defeated the saurians and freed the garrison, and that is no small "
 "thing... but our gold is gone."
 msgstr ""
-"Lacertas vicimus et praesidium liberavimus, ac non parvum est... sed aura "
-"nostra absent."
+"Lacertas vicimus et praesidium liberavimus, ac non parvum est... sed aurum "
+"nostrum absent."
 
 #. [message]: id=Cleodil
 #: data/campaigns/Legend_of_Wesmere/scenarios/04_The_Elvish_Treasury.cfg:504
@@ -1429,8 +1430,8 @@ msgid ""
 "‘dastone’. I am sorry, my lord Kalenz, I could not understand their "
 "distorted speech very well."
 msgstr ""
-"Lacertae libenter aura thesauri abstulerunt, sed huc quoddam inventum "
-"venerant... quod ‘lapem’ vocant. Me paenitet, magnas Calens, non bene "
+"Lacertae libenter aurum thesauri abstulerunt, sed huc quoddam inventum "
+"venerant... quod ‘lapis’ vocant. Me paenitet, magnas Calens, non bene "
 "sermonem durum intellegere poteram."
 
 #. [message]: race=elf
@@ -1439,7 +1440,7 @@ msgid ""
 "The war with the Orcs goes poorly. The Ka’lian will need that gold back to "
 "buy arms and food, to hire artisans, to support its armies."
 msgstr ""
-"Bellum contra Orces male est. Calianis aura requirit ut arma cibumque emat "
+"Bellum contra Orces male est. Calianis aurum requirit ut arma cibumque emat "
 "et fabros conducant, causa exercitus iuvandi.   "
 
 #. [message]: id=Kalenz
@@ -1448,7 +1449,7 @@ msgid ""
 "We will hunt down those saurians and retrieve our gold. More, we must teach "
 "them that it is lethal folly to raid us, else they will plague us like rats."
 msgstr ""
-"Istas lacertas captabimus et aura recipiemus, praeterea certiorem facere "
+"Istas lacertas captabimus et aurum recipiemus, praeterea certiorem facere "
 "debemus nos adoriendum stultitiam fatalem esse, vel nos ut mures vexabunt. "
 
 #. [message]: speaker=unit
@@ -1500,7 +1501,7 @@ msgstr "Sparhus"
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/05_The_Saurian_Treasury.cfg:215
 msgid "Enter the Saurian Treasury and leave with the gold"
-msgstr "Aerarium Lacertarum inire et cum auris exire"
+msgstr "Aerarium Lacertarum inire et cum auro exire"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/05_The_Saurian_Treasury.cfg:248
@@ -1509,15 +1510,15 @@ msgid ""
 "strike quickly and leave with the gold before they can summon their full "
 "host."
 msgstr ""
-"Ecce. Aerarium proprium nostris auris impleverunt. Celeriter aggrediendum "
-"est tum cum auris exeundum antequam cum totas vires arcessant."
+"Ecce. Aerarium proprium nostro auro impleverunt. Celeriter aggrediendum est "
+"tum cum auro exeundum antequam totas vires arcessant."
 
 #. [message]: id=Cleodil
 #: data/campaigns/Legend_of_Wesmere/scenarios/05_The_Saurian_Treasury.cfg:252
 msgid ""
 "Moving so much gold is no light matter. We will need horses to bear it back "
 "home."
-msgstr "Non facile est quanta aura ferre. Equi oneri nobis sint."
+msgstr "Non facile est tantum aurum ferre. Equi oneri nobis sint."
 
 #. [message]: id=Hraurg
 #: data/campaigns/Legend_of_Wesmere/scenarios/05_The_Saurian_Treasury.cfg:258
@@ -1525,7 +1526,7 @@ msgid ""
 "The elves have followed ussss! We must hold the gold until reinforcements "
 "arrive."
 msgstr ""
-"Dryadales nos secuti sunt! Opus est aura tenere dum subsidium adveniunt."
+"Dryadales nos secuti sunt! Opus est aurum tenere dum subsidium adveniunt."
 
 #. [object]
 #: data/campaigns/Legend_of_Wesmere/scenarios/05_The_Saurian_Treasury.cfg:280
@@ -1560,7 +1561,7 @@ msgstr "Ah! Numquam faciem lunae clarae speciam!"
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/05_The_Saurian_Treasury.cfg:425
 msgid "We have recovered our gold; it is well."
-msgstr "Aura nostra recipemus; bene est."
+msgstr "Aurum nostrum recipimus; bene est."
 
 #. [message]: role=gold_carrier
 #: data/campaigns/Legend_of_Wesmere/scenarios/05_The_Saurian_Treasury.cfg:456
@@ -1578,8 +1579,8 @@ msgid ""
 "to Wesmere. I will give 500 gold to whoever kills their leader. They must "
 "not escape."
 msgstr ""
-"Totum thesauri omnis ceperunt! Agite, insidiatores ponite ad Vesmerem ab hoc "
-"loco in viis omnibus. D aururum occisori ducis dabo. Illis non fugiendum "
+"Totum thesauri nostri ceperunt! Agite, insidiatores ponite ad Vesmerem ab "
+"hoc loco in viis omnibus. D auri occisori ducis dabo. Illis non fugiendum "
 "est. "
 
 # Exitus acta probat is from Ovid's Heroides
@@ -1591,9 +1592,9 @@ msgid ""
 "Saurians will likely be infesting the direct route, so we will detour to the "
 "north."
 msgstr ""
-"Exitus acta probat. Quia aura recepimus, ad Vesmerem celeremus referentes ut "
-"vult Cleodila. Cum Lacertae fortasse viam rectam fervent, ad septentriones "
-"eamus."
+"Exitus acta probat. Quia aurum recepimus, ad Vesmerem celeremus referentes "
+"ut vult Cleodila. Cum Lacertae fortasse viam rectam fervent, ad "
+"septentriones eamus."
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/05_The_Saurian_Treasury.cfg:469
@@ -1602,7 +1603,7 @@ msgid ""
 "the war immediately to the Orcs. We could come down upon them like thunder "
 "while they believe us still reeling from their invasion!"
 msgstr ""
-"At Calens, praeda est subita! Statim aurorum cumulis Orcibus possumus bellum "
+"At Calens, praeda est subita! Statim auri cumulis Orcibus possumus bellum "
 "inferre, velut fulmina inruere dum etiam impetu titubent! "
 
 # using adoriamur as an ante-classical form of coepit again
@@ -1613,7 +1614,7 @@ msgid ""
 "But the Ka’lian’s gold is the Ka’lian’s. Would you have us divide our "
 "forces, some to return it to them while others attempt your thunder-stroke?"
 msgstr ""
-"At Calianis aura Calianis habet. Debemusne copias diducere, pars ut aura "
+"At Calianis aurum Calianis habet. Debemusne copias diducere, pars ut aurum "
 "illis redeant, pars ut bella tonare adoriamur?"
 
 #. [message]: id=Kalenz
@@ -1741,7 +1742,7 @@ msgid ""
 "cover our flank to the north, I will pay you 400 gold."
 msgstr ""
 "Mox erit in Vesmere proelium cum orcibus magnum. Si latus nostrum texeris, "
-"CD aurorum tibi dabo."
+"CD auri tibi dabo."
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/06_Acquaintance_in_Need.cfg:322
@@ -1757,7 +1758,7 @@ msgstr ""
 msgid ""
 "What? Kalenz, are you out of your mind? Surely you will not throw away 400 "
 "gold on this scheming mercenary!"
-msgstr "Quid? Calens, es amens? Num CD aurorum isti latroni asto dimittes?"
+msgstr "Quid? Calens, es amens? Num CD auri isti latroni asto dimittes?"
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/06_Acquaintance_in_Need.cfg:330
@@ -1765,8 +1766,8 @@ msgid ""
 "Where there’s a contract, our honor is involved. We will be there to cover "
 "your northern flank or else I will return your gold!"
 msgstr ""
-"Ubi foedus, ibi honor pertinet. Aderimus latus in aquilone tectum aut aura "
-"tua restituam!"
+"Ubi foedus, ibi honor pertinet. Aderimus latus in aquilone tectum aut aurum "
+"tuum restituam!"
 
 #. [message]: id=Cleodil
 #: data/campaigns/Legend_of_Wesmere/scenarios/06_Acquaintance_in_Need.cfg:334
@@ -1988,7 +1989,7 @@ msgstr "Certe nobis reliquias thesauri dryadalium tenemus!"
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/07_Elves_Last_Stand.cfg:770
 msgid "Perhaps the gold will our word weight with the council."
-msgstr "Fortasse cum auris verba nostra concilium compensabunt."
+msgstr "Fortasse cum auro verba nostra concilium compensabunt."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Legend_of_Wesmere/scenarios/07_Elves_Last_Stand.cfg:776
@@ -1997,7 +1998,7 @@ msgid ""
 " has left the recovered gold into the elvish treasury. You will start the "
 "next scenario with a preset amount."
 msgstr ""
-" in thesauro dryadlium aura recepta liquit. Scaenarium secundum numero "
+" in thesauro dryadlium aurum receptum liquit. Scaenarium secundum numero "
 "quodem incipies."
 
 #. [part]
@@ -2178,7 +2179,7 @@ msgstr ""
 #: data/campaigns/Legend_of_Wesmere/scenarios/07_Elves_Last_Stand_utils.cfg:115
 msgid "Olurf, is that all the dwarves you could find? Was the gold not enough?"
 msgstr ""
-"Olurfi, omnesne hi nanorum sunt, quos invenire poteras? Aurane non satis "
+"Olurfi, omnesne sunt hi nanorum, quos invenire poteras? Aurumne non satis "
 "erant? "
 
 #. [message]: id=Olurf
@@ -2194,7 +2195,7 @@ msgstr ""
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/07_Elves_Last_Stand_utils.cfg:123
 msgid "In a few days? That’s too late! We want our gold back!"
-msgstr "Paucis diebus? Serum sit! Volumus aura rediri!"
+msgstr "Paucis diebus? Serum sit! Volumus aurum rediri!"
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/07_Elves_Last_Stand_utils.cfg:127
@@ -2206,13 +2207,14 @@ msgstr "Certo, sine impendio."
 msgid "What expenses?"
 msgstr "Quid impendium?"
 
+# duellator = ante-classical bellator
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/07_Elves_Last_Stand_utils.cfg:135
 msgid ""
 "It’s an ancient dwarvish custom to buy the warriors a few drinks before the "
 "battle... So minus expenses that’s about even."
 msgstr ""
-"Est mos antiquus nanorum bellatoribus ante proelium paucos poculorum "
+"Est mos antiquus nanorum duellatoribus ante proelium paucos poculorum "
 "emere... ita sine impendio fere aequum est."
 
 #. [message]: id=Landar
@@ -2231,21 +2233,23 @@ msgid ""
 "Kalenz, though very young you have been most tested in battle of any of us. "
 "Will you take the command of all our troops?"
 msgstr ""
+"Calens, etsi iuvenis, proelio nobis omnibus probatus es. Praeeris copiis "
+"nostris?"
 
 #. [option]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/07_Elves_Last_Stand_utils.cfg:160
 msgid "You do me great honor. I will strive to be worthy of it."
-msgstr ""
+msgstr "Mihi honorem magum das. Nitar merere."
 
 #. [option]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/07_Elves_Last_Stand_utils.cfg:170
 msgid "You do me great honor, but I am not yet ready for this."
-msgstr ""
+msgstr "Mihi honorem magnum das, sed nondum paratus sum."
 
 #. [scenario]: id=08_Council_of_Hard_Choices
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:11
 msgid "Council of Hard Choices"
-msgstr ""
+msgstr "Concilium Difficilium"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:35
@@ -2253,6 +2257,8 @@ msgid ""
 "Kalenz, you have won a great victory! Wesmere is safe. But... for what cause "
 "have you invited a dwarf to the elvish council? This is most unusual!"
 msgstr ""
+"Calens, magnum vicisti! Vesmeres tuta est. Quam ob causam nanum ad concilium "
+"dryadalium invitasti? Hoc novissimum est! "
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:35
@@ -2268,6 +2274,9 @@ msgid ""
 "well earned a place in this meeting. The war that comes upon us must be met "
 "by all in Wesnoth; Elves, Dwarves and Humans."
 msgstr ""
+"Domini mei, est Olurfius. Qui et sui pugnati nobiscum bene sedem in concilio "
+"meruit. Bellum minans nobis omni Vesnotei occursum est; Dryadalibus atque "
+"Nanis Hominibusque."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:45
@@ -2283,6 +2292,9 @@ msgid ""
 "arrived on our shore he was very humble, but now his arrogance knows no "
 "bounds. He believes the Orcs will not dare to fight him."
 msgstr ""
+"Ommitte homines. Rex Haldricus foedus nobiscum constitutum abhinc undecim "
+"annos fregit, ac omnes legati remisi. Cum ad litus adveniret summissus "
+"lenisque foret, iam effrenate suberbus, credit nam orces non secum pugnare. "
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:50
@@ -2291,13 +2303,17 @@ msgid ""
 "defeated. We must take the fight to them, recover our lost lands and smash "
 "their great horde beyond possibility that it will threaten us again."
 msgstr ""
+"Domini mei, Orces de Vesmere depulsi sunt, sed haudquaquam victi. Copiam "
+"pugnandi facere debemus, ut terras ammissas recipiamus, ut magnum gregem "
+"perfrangamus, ne umquam nobis minetur."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:55
 #: data/campaigns/Legend_of_Wesmere/scenarios/20_Council_Ruling.cfg:26
 msgid "Legmir"
-msgstr ""
+msgstr "Legmirius"
 
+# Legmir can use the ante-classical duellum, for he is old.
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:55
 msgid ""
@@ -2306,6 +2322,10 @@ msgid ""
 "in fighting outside our forests. We have already shown the Orcs that "
 "attacking us is folly; the prudent course would be to rebuild our strength."
 msgstr ""
+"Iam nimis dryadalium mortui sunt. Ut duellum contra Orces inferamus, necesse "
+"est uno iactu pugnatores reliquos audere, enim nos non tam periti pugnando "
+"extra silvas. Iam demonstravimus stulti orcis esse nos aggredi; est "
+"prudentis copias restituere."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:60
@@ -2314,23 +2334,30 @@ msgid ""
 "fighting ever since we were forced out of our home country, in all kinds of "
 "lands. And, we are willing to die in order to defeat foul orcs!"
 msgstr ""
+"Illi Calentem secuti probaverunt facere posse, nam contendimus post ex "
+"patria in omne genus terrae expulsos et mori volumus ut orces foedos "
+"superemus!"
 
+# moenimenta be archaic for munimentum for Dionli is older.
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:65
 msgid ""
 "Our answer is still no. Prepare our defenses as best you can, but do not "
 "renew offensive war. This is the council’s decision."
 msgstr ""
+"Etiam vetamus. Moenimenta para pro parte tua, sed noli renovare bellum. Sic "
+"concilium consituerunt."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:69
 msgid "Aftermath"
-msgstr ""
+msgstr "Eventum"
 
+# clanculum= ante-classical diminutive clam, because it flows pwitty
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:70
 msgid "After leaving the council, our friends talked in private..."
-msgstr ""
+msgstr "Nostri, concilio decesso, inter se clanculum locuti sunt..."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:75
@@ -2338,11 +2365,14 @@ msgid ""
 "Perhaps you were wiser than I, Landar. Had we divided our forces, we would "
 "not be bound to inaction now."
 msgstr ""
+"Fortasse sapientius fecisti, Lander. Si copias diduxissemus, iam officio non "
+"careremur."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:81
 msgid "And our home? How do we free Lintanir without bringing war to orcs?"
 msgstr ""
+"Et sedes nostra? Quomodo Lintanirem liberemus sine in orces bello inferendo?"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:86
@@ -2364,14 +2394,14 @@ msgstr ""
 #: data/campaigns/Legend_of_Wesmere/scenarios/19_Costly_Revenge.cfg:63
 #: data/campaigns/Legend_of_Wesmere/utils/characters.cfg:58
 msgid "Cleodil"
-msgstr ""
+msgstr "Cleodila"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:86
 msgid ""
 "I too am troubled by the council’s passivity. But it was not our decision to "
 "make."
-msgstr ""
+msgstr "Aversor quoque torpedinem concilii. Sed non nobis erat arbitrio."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:92
@@ -2380,6 +2410,9 @@ msgid ""
 "if we give them the time! We must have some other sort of help. Olurf, can "
 "we perhaps make a war-pact with the Dwarves?"
 msgstr ""
+"Sunt amentes! Orces vere convalescentes rursum aggredientur, si cunctati "
+"erimus! Genus alium auxilii invenire debemus. Possumusne, Olurfi, cum Nanis "
+"pacisci?"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:97
@@ -2389,6 +2422,9 @@ msgid ""
 "powerful mage in the mountains who helped our people before. Maybe he will "
 "aid us again."
 msgstr ""
+"Puto nos non posse, Calens. Gens mea Dryadalibus nimium diffidunt. Sed "
+"fortasse aliter ac quod dicebas faciamus. Fertur esse in monitbus magum "
+"potentem qui prius gentem nostram iuvit. Fortasse iterum nos iuvabit. "
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:97
@@ -2403,8 +2439,9 @@ msgstr "Olurfius"
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:102
 msgid "And where do we find this mage, if he exists?"
-msgstr ""
+msgstr "Et quo magum inveniamus, si est?"
 
+# illoc= old form of illuc
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:107
 msgid ""
@@ -2412,18 +2449,24 @@ msgid ""
 "anyone for free. Thoria is very dangerous, especially for elves. Even "
 "dwarves and trolls dinna’ go there lightly."
 msgstr ""
+"Non facile factu est. Montes Toriae habitat et numquam aliquem sine pretio "
+"adiuvat. Toria est periculosissima, praesertim dryadalibus. Etiam nani "
+"troglodytaeque illoc otiose non eunt."
 
+# see above
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:112
 msgid ""
 "I think the Orcs will be in no position to attack us for some time. Maybe we "
 "should go see this mage. Olurf, can you take us there?"
 msgstr ""
+"Puto Orces ad tempus nos pugnare potes fore. Fortasse debemus magum "
+"invenire. Olurfine, illoc nos ducere?"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:117
 msgid "I think I can. But dangerous this will be!"
-msgstr ""
+msgstr "Arbitror. Sed hoc periculosum erit! "
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:122
@@ -2431,6 +2474,8 @@ msgid ""
 "Very well. We shall leave our best troops and gold here in case the Orcs "
 "attack Wesmere again."
 msgstr ""
+"Fiat. Nostros et aurum hic relinquemus, quoniam Orces iterum Vesmerem "
+"oppugnent."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/08_Council_of_Hard_Choices.cfg:127
@@ -2444,6 +2489,8 @@ msgid ""
 "the campaign. Your recall list is saved persistently and will be reloaded "
 "then."
 msgstr ""
+"Tertius Liber ab atrio pluribus lusoribus incipi potest ut militiam pergas. "
+"Tabula evocatorum constanter servata tum iterum arcessetur."
 
 #. [multiplayer]: id=09_Bounty_Hunters_HARD, id=09_Bounty_Hunters_EASY, id=09_Bounty_Hunters_NORMAL
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:5
@@ -2502,7 +2549,7 @@ msgstr ""
 #. [scenario]: id=09_Bounty_Hunters
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:26
 msgid "Bounty Hunters"
-msgstr ""
+msgstr "Captatores Praedae"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:48
@@ -2515,6 +2562,8 @@ msgid ""
 "This multiplayer campaign is best be played after finishing chapter one, "
 "since the recall lists of that scenario will be reloaded."
 msgstr ""
+"Debet militiam pluribus lusoribus ludere post primum librum confectum, "
+"quoniam tabula evocatorum rursus arcessetur."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:55
@@ -2530,6 +2579,10 @@ msgid ""
 "mage of Thoria. They would soon find that peril was closer than they had "
 "reckoned."
 msgstr ""
+"Calens, credens speciem Vesmerei tutae esse fatales praestigias, satis "
+"copiarum ad custodiendum positis, cum Landro Olurfioque ad iter longum atque "
+"difficile usque ad magum magnum Toriae profectus est. Mox comperirent magis "
+"periculum quam exspectaverant. "
 
 #. [side]: type=Saurian Flanker, id=Huurgh
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:126
@@ -2539,12 +2592,12 @@ msgstr "Hurg"
 #. [side]: type=Saurian Oracle, id=Shhar
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:159
 msgid "Shhar"
-msgstr ""
+msgstr "Shhar"
 
 #. [set_variable]
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:239
 msgid "some experienced warriors"
-msgstr ""
+msgstr "aliqui bellatorum peritorum"
 
 #. [set_variable]
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:267
@@ -2559,22 +2612,23 @@ msgstr "$left_behind_{NAME}|, $l3_store_{NAME}[$i].name"
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:389
 msgid "Kalenz crosses the river"
-msgstr ""
+msgstr "Calens pontem transgreditur"
 
 #. [message]: id=Huurgh
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:420
 msgid "Yess! It’s the elves who stole our gold! The bounty is mine!"
 msgstr ""
+"Io! Ecce issstos dryadales qui aurum nostrum abstulerunt! Praeda est mihi!"
 
 #. [message]: id=Shhar
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:424
 msgid "I saw them first, fool! The bounty is all mine."
-msgstr ""
+msgstr "Primo eos vidi! Mihi est omnis praeda."
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:428
 msgid "What are they talking about?"
-msgstr ""
+msgstr "De quo loquuntur?"
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:432
@@ -2582,6 +2636,8 @@ msgid ""
 "It would seem the Saurians put a bounty on our heads for having the "
 "effrontery to take our gold back after they stole it. Are you interested?"
 msgstr ""
+"Lacertae viduntur praedam, quod audacter nos aurum ereptum recepimus, "
+"obtulisse. Tuane interest?"
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:436
@@ -2589,6 +2645,8 @@ msgid ""
 "No, but my axe is interested in some saurian heads! They ha’ been too "
 "friendly with the Orcs for my liking!"
 msgstr ""
+"Non mea interest, sed interest ut securis mea aliquae capita Lacertarum "
+"cadat! Illae nimium amicae Orcibus sunt, ut opinor!"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:440
@@ -2596,6 +2654,8 @@ msgid ""
 "Remember, we are here on a mission. We will fight these saurians if we must, "
 "but our mission is to get to Thoria."
 msgstr ""
+"Memorate officium nobis esse. Ferro cum Lacertis dimicabimus, si necesse "
+"sit, sed Toriam attingere officium est."
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:445
@@ -3880,7 +3940,7 @@ msgstr "Cruber"
 #. [side]: type=Orcish Warlord, id=Gvur
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die.cfg:164
 msgid "Gvur"
-msgstr "Gver"
+msgstr "Guer"
 
 #. [side]: type=Orcish Warlord, id=Ozul
 #: data/campaigns/Legend_of_Wesmere/scenarios/16_The_Chief_Must_Die.cfg:194
@@ -5158,7 +5218,7 @@ msgstr "Heu! Seri sumus..."
 #. [message]: speaker=narrator
 #: data/campaigns/Legend_of_Wesmere/utils/low-macros.cfg:35
 msgid "You retrieve $amount_gold pieces of gold."
-msgstr "$amount_gold nummos aurorum recipis."
+msgstr "$amount_gold nummos auri recipis."
 
 #~ msgid "Death of El'Isomithir"
 #~ msgstr "Mors ElIsomithiris"
