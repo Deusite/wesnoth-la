@@ -262,11 +262,6 @@ msgstr "Eretheanis"
 
 #. [multiplayer]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:4
-#| msgid ""
-#| "<i>The Legend of Wesmere</i>\n"
-#| "Multiplayer Campaign\n"
-#| "Chapter one\n"
-#| " Easy difficulty"
 msgid ""
 "<i>The Legend of Wesmere</i>\n"
 "Multiplayer Campaign\n"
@@ -312,12 +307,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:60
-#| msgid ""
-#| "The great elvish hero Kalenz was born in a quiet green wood in Lintanir "
-#| "on the fringes of the Great Northern Forest. Though not of noble birth, "
-#| "he showed early promise in the arts of his people. His quick intelligence "
-#| "gained him more than usual respect among elders normally inclined to pay "
-#| "little heed to anyone younger than a century old."
 msgid ""
 "Though not of noble birth, Kalenz showed early promise in the arts of his "
 "people. His quick intelligence gained him more than usual respect among "
@@ -355,12 +344,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:76
-#| msgid ""
-#| "Some changes were good. The Elves, awakened as from a long dream, began "
-#| "to increase in population. But some were very bad, and the worst of those "
-#| "was the coming of the orcs, the wreckers, the tree-killers. The years of "
-#| "Kalenz’s long childhood were a golden age, and the last time of "
-#| "untroubled peace."
 msgid ""
 "Some changes were good. The Elves, awakened as from a long dream, began to "
 "increase in population. But some were very bad, and the worst of those was "
@@ -374,15 +357,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:82
-#| msgid ""
-#| "The elves had never been a martial people, and they were not prepared for "
-#| "the inevitable war with the orcs. Kalenz came of age in the very year "
-#| "that Erlornas of Wesmere fought the first orcish raiders. Within the next "
-#| "decade orcish raids greatly increased, and their shadow loomed ever "
-#| "greater over the elves.\n"
-#| "\n"
-#| "This is the story of Kalenz, and of the Elves in the days of the humans "
-#| "in Wesnoth."
 msgid ""
 "The elves had never been a martial people, and they were not prepared for "
 "the inevitable war with the orcs. The friends came of age in the very year "
@@ -1052,7 +1026,6 @@ msgstr ""
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/03_Kalian_under_Attack.cfg:931
-#| msgid "How can they dare to break the treaty!"
 msgid "How dare they break the treaty!"
 msgstr "Etiam audent foedus frangere?"
 
@@ -1179,17 +1152,11 @@ msgstr ""
 
 #. [multiplayer]: id=04_The_Elvish_Treasury
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/04_The_Elvish_Treasury.cfg:17
-#| msgid "3p MC — LoW, Hard Mode, Chapter two"
 msgid "3p MC — LoW, Chapter two"
 msgstr "IIIl MPL — HFV, Liber II"
 
 #. [multiplayer]: id=04_The_Elvish_Treasury
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/04_The_Elvish_Treasury.cfg:18
-#| msgid ""
-#| "<i>The Legend of Wesmere</i>\n"
-#| "Multiplayer Campaign\n"
-#| "Chapter two\n"
-#| " Hard difficulty"
 msgid ""
 "<i>The Legend of Wesmere</i>\n"
 "Multiplayer Campaign\n"
@@ -2576,8 +2543,6 @@ msgstr ""
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:432
-#| msgid ""
-#| "They are far too much to risk a confrontation, let's cross the river!"
 msgid "They are far too numerous to risk battle with. Let’s cross the river!"
 msgstr "Tot sunt ut manus conserere audere non possimus, pontem transeamus!"
 

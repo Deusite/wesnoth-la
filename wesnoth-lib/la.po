@@ -81,13 +81,11 @@ msgstr "Cotes"
 
 #. [terrain_type]: id=gray_reef
 #: data/core/terrain.cfg:93
-#| msgid "Coastal Reef"
 msgid "Gray Coastal Reef"
 msgstr "Cotes Ravae"
 
 #. [terrain_type]: id=tropical_reef
 #: data/core/terrain.cfg:113
-#| msgid "Coastal Reef"
 msgid "Tropical Coastal Reef"
 msgstr "Cotes Tropicae"
 
@@ -787,7 +785,6 @@ msgstr "Urbs Humana"
 
 #. [terrain_type]: id=windmill_village
 #: data/core/terrain.cfg:1380
-#| msgid "Ruined Hill Stone Village"
 msgid "Windmill Village"
 msgstr "Viculus Ventimolinus"
 
@@ -2507,7 +2504,7 @@ msgid "Enable Planning Mode on Start"
 msgstr ""
 
 #: src/game_preferences_display.cpp:186
-msgid "Hide Allies' Plans by Default"
+msgid "Hide Allies’ Plans by Default"
 msgstr ""
 
 #: src/game_preferences_display.cpp:187
@@ -2792,7 +2789,7 @@ msgid "Activates Planning Mode on game start"
 msgstr ""
 
 #: src/game_preferences_display.cpp:407
-msgid "Hides allies' Planning Mode plans in multiplayer games"
+msgid "Hides allies’ Planning Mode plans in multiplayer games"
 msgstr ""
 
 #: src/game_preferences_display.cpp:410
