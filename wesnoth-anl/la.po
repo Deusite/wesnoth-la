@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth Latin 1.2\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-08-27 10:14+0200\n"
-"PO-Revision-Date: 2011-08-10 19:52+0100\n"
+"PO-Revision-Date: 2011-09-04 22:41+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin\n"
 "Language: \n"
@@ -28,7 +28,6 @@ msgstr "4l — Terra Nova"
 
 #. [multiplayer]: id=multiplayer_A_New_Land
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:6
-#, fuzzy
 #| msgid ""
 #| "This 4p survival scenario allows you to construct buildings and terraform "
 #| "the land. Use map settings. Recommended starting gold=100."
