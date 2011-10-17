@@ -6411,7 +6411,7 @@ msgid "prefix_milli^m"
 msgstr "m"
 
 #: src/serialization/string_utils.cpp:291
-msgid ""
+msgid "prefix_micro^µ"
 msgstr "µ"
 
 #: src/serialization/string_utils.cpp:292
