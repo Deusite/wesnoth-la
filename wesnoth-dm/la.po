@@ -3100,7 +3100,6 @@ msgstr "Turgraus"
 
 #. [objective]: condition=lose
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:198
-#| msgid "Death of Garard"
 msgid "Death of Garard II"
 msgstr "Mors Garardi II"
 
