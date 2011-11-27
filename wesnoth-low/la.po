@@ -1604,12 +1604,12 @@ msgstr ""
 #. [message]: id=Cleodil
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/05_The_Saurian_Treasury.cfg:482
 msgid "Landar, thoughts that brew in hot blood are seldom well-found."
-msgstr "Lander, Fulmen est, ubi cum potestate habitat iracundia."
+msgstr "Lander, fulmen est, ubi cum potestate habitat iracundia."
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/05_The_Saurian_Treasury.cfg:486
 msgid "It... is so. Again you speak wisdom. Very well; to the Ka’lian!"
-msgstr "Bene est. Vere sapis. Perbeme; ad Calianem eamus!"
+msgstr "Bene est. Vere sapis. Perbene; ad Calianem eamus!"
 
 #. [scenario]: id=06_Acquaintance_in_Need
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/06_Acquaintance_in_Need.cfg:29
@@ -2421,7 +2421,7 @@ msgstr "Olurfius"
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/08_Council_of_Hard_Choices.cfg:101
 msgid "And where do we find this mage, if he exists?"
-msgstr "Et quo magum inveniamus, si est?"
+msgstr "Et quo magum inveniamus, si vivit?"
 
 # illoc= old form of illuc
 #. [part]
@@ -2536,7 +2536,7 @@ msgstr ""
 "Calens, credens speciem Vesmerei tutae esse fatales praestigias, satis "
 "copiarum ad custodiendum positis, cum Landro Olurfioque ad iter longum atque "
 "difficile usque ad magum magnum Toriae profectus est. Mox comperirent magis "
-"periculum quam exspectaverant. "
+"periculi quam exspectaverant. "
 
 #. [side]: type=Saurian Flanker, id=Huurgh
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:114
@@ -2577,7 +2577,7 @@ msgstr ""
 #. [message]: id=Shhar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:412
 msgid "I saw them first, fool! The bounty is all mine."
-msgstr "Primo eos vidi! Mihi est omnis praeda."
+msgstr "Primo eos vidi, caudex! Mihi est omnis praeda."
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:416
@@ -3044,7 +3044,7 @@ msgid ""
 "advice and your aid in dealing with the orcs."
 msgstr ""
 "Calens est, dux dryadalium. Huc duxi consilium tuum et auxilium orcum "
-"vincendi petitum. "
+"vincendi petitum."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:34
@@ -3054,11 +3054,14 @@ msgid ""
 "they grow stronger every day. You contend against destiny. But for the "
 "moment you have diverted the orcs’ attention."
 msgstr ""
+"Dryadales, fortiter pugnato victoriam magnam in silva Vesmerei rapuistis."
+"Sed copiae contra vos iaculatae nondum vincuntur. Etenim cotidie augescunt. "
+"Contra fata contenditis. Sed breve spatium orces distraxistis." 
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:39
 msgid "What do you mean, ‘diverted their attention’?"
-msgstr ""
+msgstr "Qua re orces distraximus?"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:44
@@ -3066,16 +3069,18 @@ msgid ""
 "You cannot even imagine it. Why do you suppose orcs came all the way here to "
 "attack you?"
 msgstr ""
+"Non etiam fingere potes. Cur arbitraris orces usque ad locum ipsum venisse "
+"vos pugnatum?"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:49
 msgid "Because they are orcs! Look old man, can you help us beat them or not?"
-msgstr ""
+msgstr "Quod orces sunt! Senex, ehodum, nos iuvare potes ut pelsemus an non?"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:54
 msgid "You must be Landar. Very brave, but also very brash."
-msgstr ""
+msgstr "Es Lander. Fortissimus, sed quoque audacissimus."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:59
@@ -3085,16 +3090,19 @@ msgid ""
 "wise, but only help for a price. We will pay any price within our power; "
 "just name it."
 msgstr ""
+"Lander audax, sed plane dicit quid huc venimus. Non quoque verba tui"
+"intellego. Olurfius me refert te sapientissimum esse, sed modo pretio. "
+"Ullum pretium trademus, quod nostra potestas est, modo dic."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:64
 msgid "Are you saying the orcs attacked us looking for something?"
-msgstr ""
+msgstr "Dicisne orces qui nos pugnaverunt aliquid quaesivisse?"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:69
 msgid "Yes, that is what I am saying."
-msgstr ""
+msgstr "Dico."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:74
@@ -3103,7 +3111,7 @@ msgid ""
 "we won in Wesmere there was an Orc mumbling something about a dastone..."
 msgstr ""
 "Iam apparet. Lacertae de lepista quadam rogabant, quoque post victoriam "
-"Vesmerei orcs nescioquid de quadam lepista mussabat... "
+"Vesmerei orcs nescioquis de lepista mussabat..."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:79
@@ -5329,33 +5337,28 @@ msgstr "$amount_gold nummos auri recipis."
 #~ msgstr "Hinc dryadales haruspicas adlegere possunt. "
 
 #~ msgid "Death of El'Isomithir"
-#~ msgstr "Mors ElIsomithiris"
+#~ msgstr "Mors Elisomithiris"
 
-#, fuzzy
 #~ msgid "Death of El'Isimithir"
-#~ msgstr "Mors Calentis"
+#~ msgstr "Mors Elisimithiris"
 
 #~ msgid "South Tower"
 #~ msgstr "Turris Australis"
 
-#, fuzzy
 #~ msgid "Turns run out"
 #~ msgstr "Tempus exit"
 
 #~ msgid "Defeat all enemies"
 #~ msgstr "Omnes hostes vincere"
 
-#, fuzzy
 #~ msgid "Defeat every enemy unit"
-#~ msgstr "Omnes hostes vincere"
+#~ msgstr "Omnem actorem hostium vincere"
 
-#, fuzzy
 #~ msgid " New Objective: Defeat all enemies"
-#~ msgstr "Omnes hostes vincere"
+#~ msgstr "Finis Novus: Omnes hostes vincere"
 
-#, fuzzy
 #~ msgid "Delfador"
-#~ msgstr "Mors Delfadoris"
+#~ msgstr "Delfador"
 
 #~ msgid "cold"
 #~ msgstr "frigidum"
