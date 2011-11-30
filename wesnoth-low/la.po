@@ -3199,6 +3199,8 @@ msgid ""
 "You cannot defeat them with the forces you can now muster. You can only gain "
 "time, in the hope that you can use it to grow strong again."
 msgstr ""
+"Cum copiis quibus iam imperas illos non potes vincere, tantum eos morari, ut "
+"fortasse convalescatis." 
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:129
@@ -3207,6 +3209,9 @@ msgid ""
 "against the river monsters, and fight trolls and yetis to come here for "
 "nothing!"
 msgstr ""
+"Quomodo? Num cum lacertis pugnavimus, Arcantoriam tansivimus, adversus feras "
+"fluminis contendimus, atque troglodytas ac simios nivis, qui adhuc irriti "
+"veniamus!"  
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:134
@@ -3216,22 +3221,28 @@ msgid ""
 "yearn to take their Great Chief’s place. You will be safe until a new leader "
 "arises strong enough to unite them again."
 msgstr ""
+"Bellipotentem orcum interficere opus est quasi orcibus necatus esset. Sic "
+"duellum civilem coronae capiendi movebunt, nam plures se supponere in regis "
+"locum cupiunt. Sospites eritis dum dux novus potens inter se coniungendi "
+"surgat."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:139
 msgid ""
 "Kill an orcish Great Chieftain? But he’s guarded better than a troll hole!"
 msgstr ""
+"Interficerene Bellipotentem orcum? Sed melius quam latibula troglodytarum "
+"custoditur!"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:144
 msgid "Indeed, it will not be at all easy. But maybe I can help you..."
-msgstr ""
+msgstr "Quidem, haud facile factu erit. Sed fortasse adiuvare possum..."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:149
 msgid "But you want something in return..."
-msgstr ""
+msgstr "Sed aliquid pro parte vis..."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:154
